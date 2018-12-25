@@ -1,0 +1,4 @@
+lxml
+ipython
+pandas
+selenium
