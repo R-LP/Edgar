@@ -1,0 +1,887 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>c80985e10vq.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+<PAGE>
+
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+
+                                    FORM 10-Q
+
+(Mark One)
+
+     Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+ X   Act of 1934
+---
+
+     For the quarterly period ended September 30, 2003
+
+     Transition report pursuant to Section 13 or 15(d) of the Securities
+     Exchange Action of 1934
+---
+
+     For the transition to period from                      to
+                                       --------------------    ----------------
+
+
+                         Commission File Number 0-19266
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+
+                              1720 Sublette Avenue
+
+                            St. Louis, Missouri 63110
+                                  314/771-2400
+
+                          IRS Employment ID 25-1370721
+
+     Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter periods that the
+registrant was required to file such reports, and (2) has been subject to such
+filing requirements for the past ninety days.
+
+                  Yes   X     No
+                      -----       -----
+
+     Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+                  Yes         No    X
+                      -----       -----
+
+     The number of shares of common stock outstanding at November 7, 2003 is
+7,813,932 shares.
+
+
+<PAGE>
+
+
+                                      INDEX
+
+<Table>
+<Caption>
+
+                                                                                            Page
+                                                                                           Number
+<S>     <C>                                                                                <C>
+Part I- Financial Information
+
+         Item 1.  Financial Statements
+
+                  Consolidated Statement of Operations - three months ended September 30,       3
+                  2003 and 2002 (Unaudited)
+
+                  Consolidated Balance Sheet - September 30, 2003  (Unaudited) and          4 - 5
+                  June 30, 2003 (Audited)
+
+                  Consolidated Statement of Cash Flows - Three months ended                     6
+                  September 30, 2003 and 2002 (Unaudited)
+
+                  Notes to Consolidated Financial Statements                               7 - 11
+
+         Item 2.  Management's Discussion and Analysis of Financial Condition               11-14
+                  and Results of Operations
+
+         Item 3.  Quantitative and Qualitative Disclosure about Market Risk                    15
+
+         Item 4.  Controls and Procedures                                                      15
+
+Part II- Other Information
+
+         Item 6.  Exhibits and Reports on Form 8-K                                          15-16
+
+                  Signature                                                                    17
+</Table>
+
+SAFE HARBOR" STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF
+1995
+
+         Statements contained in this Report, which are not historical facts or
+information, are "forward-looking statements." Words such as "believe,"
+"expect," "intend," "will," "should," and other expressions that indicate future
+events and trends identify such forward-looking statements. These
+forward-looking statements involve risks and uncertainties, which could cause
+the outcome and future results of operations, and financial condition to be
+materially different than stated or anticipated based on the forward-looking
+statements. Such risks and uncertainties include both general economic risks and
+uncertainties, risks and uncertainties affecting the demand for and economic
+factors affecting the delivery of health care services, and specific matters
+which relate directly to the Company's operations and properties as discussed in
+the Company's annual report on Form 10-K for the year ended June 30, 2003. The
+Company cautions that any forward-looking statements contained in this report
+reflects only the belief of the Company or its management at the time the
+statement was made. Although the Company believes such forward-looking
+statements are based upon reasonable assumptions, such assumptions may
+ultimately prove inaccurate or incomplete. The Company undertakes no obligation
+to update any forward-looking statement to reflect events or circumstances after
+the date on which the statement was made.
+
+                                        2
+
+<PAGE>
+
+
+PART I. FINANCIAL INFORMATION
+
+       ITEM 1.    FINANCIAL STATEMENTS
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                                   (UNAUDITED)
+
+<Table>
+<Caption>
+
+
+                                                        Three months ended
+                                                           September 30,
+                                                  -----------------------------
+                                                      2003             2002
+                                                  ------------     ------------
+<S>                                               <C>              <C>
+Net sales                                         $ 13,807,529     $ 15,240,671
+Cost of sales                                       10,410,955       12,056,992
+                                                  ------------     ------------
+Gross profit                                         3,396,574        3,183,679
+
+Selling, general and
+administrative expenses                              3,179,912        3,323,444
+                                                  ------------     ------------
+Income (loss) from operations                          216,662         (139,765)
+
+Other expenses:
+Interest                                               196,941          223,934
+Other, net                                               5,359           12,544
+                                                  ------------     ------------
+                                                       202,300          236,478
+                                                  ------------     ------------
+Income/ (loss) before provision/
+(benefit) for income taxes                              14,362         (376,243)
+
+Provision/ (benefit) for income taxes                   11,589         (135,845)
+                                                  ------------     ------------
+Net income/ (loss)                                $      2,773     $(   240,398)
+                                                  ============     ============
+
+Basic and diluted earnings/ (loss)
+per share                                         $       0.00     $(      0.03)
+                                                  ============     ============
+
+Weighted average shares                              7,813,932        7,813,932
+outstanding - basic
+
+Weighted average shares
+outstanding - diluted                                7,951,334        7,813,932
+</Table>
+
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                        3
+
+
+<PAGE>
+
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                     ASSETS
+                                   (UNAUDITED)
+
+
+<Table>
+<Caption>
+
+                                                       September 30,     June 30,
+                                                            2003           2003
+                                                        -----------     -----------
+<S>                                                     <C>             <C>
+Current assets:
+ Cash                                                   $    12,618     $    12,016
+ Accounts receivable, net of allowance for doubtful
+   accounts of $500,000 and $475,000, respectively        7,695,905       7,848,977
+Inventories, net                                         11,746,140      12,274,972
+Income tax receivable                                       392,259         392,259
+Other current assets                                        432,711         149,995
+                                                        -----------     -----------
+   Total current assets                                  20,279,633      20,678,219
+                                                        -----------     -----------
+
+Property, plant and equipment, net                       12,498,458      12,630,289
+Deferred income taxes                                       989,710         989,710
+Goodwill                                                 15,979,830      15,979,830
+Other assets, net                                           123,113         134,528
+                                                        -----------     -----------
+   Total assets                                         $49,870,744     $50,412,576
+                                                        ===========     ===========
+</Table>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                   (CONTINUED)
+
+                                        4
+
+<PAGE>
+
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                   (CONTINUED)
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+                                   (UNAUDITED)
+
+
+
+
+<Table>
+<Caption>
+
+                                                                    September 30,        June 30,
+                                                                         2003              2003
+                                                                    -------------      ------------
+<S>                                                                 <C>                <C>
+Current liabilities:
+  Accounts payable                                                   $  2,953,406      $  2,192,717
+  Current portion of long-term debt                                     4,312,898         5,409,304
+  Deferred income taxes                                                   412,079           412,079
+  Other current liabilities                                             3,252,230         3,218,981
+                                                                     ------------      ------------
+    Total current liabilities                                          10,930,613        11,233,081
+                                                                     ------------      ------------
+Long-term debt                                                          4,370,183         4,612,320
+                                                                     ------------      ------------
+Commitments and contingencies
+
+Stockholders' equity:
+  Preferred stock; $0.01 par value; 1,500,000 shares authorized;
+    no shares issued and outstanding; which includes Series A
+    preferred stock; $0.01 par value; 200,000 shares authorized;
+    no shares issued and outstanding                                           --                --
+  Common stock; $0.01 par value; 30,000,000 shares authorized;
+    7,813,932 shares issued and outstanding at September 30, 2003
+    and June 30, 2003                                                     101,175           101,175
+  Additional paid-in capital                                           47,030,549        47,030,549
+  Common stock in treasury, at cost                                   (20,731,428)      (20,731,428)
+  Retained earnings                                                     8,169,652         8,166,879
+                                                                     ------------      ------------
+    Total stockholders' equity                                         34,569,948        34,567,175
+                                                                     ------------      ------------
+    Total liabilities and stockholders' equity                       $ 49,870,744      $ 50,412,576
+                                                                     ============      ============
+</Table>
+
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                        5
+
+<PAGE>
+
+
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                   (UNAUDITED)
+
+
+<Table>
+<Caption>
+
+
+                                                                 Three months ended
+                                                                     September 30,
+                                                            ------------------------------
+                                                                2003              2002
+                                                            ------------      ------------
+<S>                                                         <C>               <C>
+Cash flows from operating activities:
+  Net income (loss)                                         $      2,773      $(   240,398)
+  Adjustments to reconcile net income (loss) to net
+    cash provided by (used in) operating activities:
+    Depreciation and amortization                                331,290           359,454
+
+Changes in operating assets and liabilities:
+    Accounts receivable, net                                     153,072           328,589
+    Inventories, net                                             528,832          (147,621)
+    Other current assets                                        (282,716)         (272,081)
+    Accounts payable                                             760,689          (827,321)
+    Other current liabilities                                     33,249            32,062
+                                                            ------------      ------------
+    Net cash provided by (used in) operating activities        1,527,189          (767,316)
+                                                            ------------      ------------
+Cash flows from investing activities:
+  Capital expenditures                                          (188,044)         (158,840)
+                                                            ------------      ------------
+    Net cash (used in) investing activities                     (188,044)         (158,840)
+                                                            ------------      ------------
+
+Cash flows from financing activities:
+
+  Payments of capital lease obligations                               --          (115,455)
+  Payments of long-term debt                                    (242,129)         (110,735)
+  Borrowings under revolving credit agreement                 13,541,978        16,819,035
+  Payments under revolving credit agreement                  (14,638,392)      (15,660,195)
+                                                            ------------      ------------
+Net cash provided by (used in) financing activities           (1,338,543)          932,650
+                                                            ------------      ------------
+
+Net increase in cash and equivalents                                 602             6,494
+Cash and equivalents at beginning of period                       12,016               800
+                                                            ------------      ------------
+Cash and equivalents at end of period                       $     12,618      $      7,294
+                                                            ============      ============
+</Table>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                        6
+
+
+<PAGE>
+
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.       Unaudited Consolidated Financial Statements
+
+         The accompanying unaudited consolidated financial statements have been
+prepared in accordance with the instructions for Form 10-Q and do not include
+all of the information and disclosures required by accounting principles
+generally accepted in the United States of America for complete financial
+statements. In the opinion of management, all adjustments, consisting only of
+normal recurring adjustments considered necessary for a fair presentation, have
+been included. Operating results for any quarter are not necessarily indicative
+of the results for any other quarter or for the full year. These statements
+should be read in conjunction with the consolidated financial statements and
+notes to the consolidated financial statements thereto included in the Company's
+Form 10-K for the year ended June 30, 2003.
+
+2.       Significant Accounting Policies - Stock Options
+
+         The Company accounts for employee stock options in accordance with
+Accounting Principles Board No. (APB) 25, "Accounting for Stock Issued to
+Employees". Under APB 25, the Company applies the intrinsic value method of
+accounting for stock option grants. The Company has not recognized compensation
+expense for options granted because the Company grants options at a price equal
+to market value at the time of grant. During 1996, the Financial Accounting
+Standard Board (FASB) issued Statement of Financial Accounting Standard No. 123,
+"Accounting for Stock-Based Compensation." SFAS 123 prescribes the recognition
+of compensation expense based on the fair value of options determined on the
+grant date. However, SFAS 123 allows companies currently applying APB 25 to
+continue using that method and provide pro-forma net income and earnings per
+share as if the provisions of SFAS 123 had been fully adopted. The Company
+elected to continue applying the intrinsic value method under APB 25.
+
+         The fair value of options granted (which is amortized over the option
+vesting period in determining the pro forma impact) is estimated on the date of
+grant using the Black-Scholes multiple option-pricing model. No options were
+granted during the three months ended September 30, 2003 and 2002. The following
+table shows stock-based compensation expense included in net income/(loss), pro
+forma stock-based compensation expense, net income/(loss), and earnings per
+share had we elected to record compensation expense based on the fair value of
+options at the grant date for the three months ended September 30, 2003 and
+2002.
+
+
+
+                                       7
+<PAGE>
+
+
+<Table>
+<Caption>
+
+                                            THREE MONTHS ENDED SEPTEMBER 30,
+                                                 2003               2002
+<S>                                         <C>                <C>
+Stock-based compensation, net of tax
+        As reported                          $         --      $         --
+        Pro forma                            $     30,540      $     52,365
+
+Net income (loss)
+        As reported                          $      2,773      $   (240,398)
+        Pro forma                            $    (27,767)     $   (292,763)
+
+Basic and diluted earnings
+(loss) per share
+        As reported                          $         --      $      (0.03)
+        Pro forma                            $         --      $      (0.04)
+</Table>
+
+
+3.       Inventories
+
+        Inventories are comprised as follows (unaudited):
+
+<Table>
+<Caption>
+
+
+                                              September 30, 2003   June 30, 2003
+                                              ------------------   -------------
+<S>                                           <C>                  <C>
+Work-in progress                                 $    810,433      $    536,695
+Raw materials and component parts                  10,087,329        10,577,713
+Finished goods                                      3,338,321         3,484,822
+Reserve for obsolete and excess
+inventory                                          (2,489,943)       (2,324,258)
+                                                 ------------      ------------
+                                                 $ 11,746,140      $ 12,274,972
+                                                 ============      ============
+</Table>
+
+
+4.       Earnings per share
+
+         Basic earnings per share are based on the weighted average number of
+shares of all common stock outstanding during the period. Diluted earnings per
+share are based on the sum of the weighted average number of shares of common
+stock and common stock equivalents outstanding during the year. The number of
+basic shares outstanding for the three months ended September 30, 2003 and 2002
+was 7,813,932. The number of diluted shares outstanding for the three months
+ended September 30, 2003 and 2002 was 7,951,334 and 7,813,932 shares,
+respectively.
+
+
+                                       8
+
+
+<PAGE>
+
+
+
+5.       New Accounting Standards
+
+         In January 2003, the FASB released FIN No. 46, "Consolidation of
+Variable Interest Entities - an Interpretation of ARB No. 51". The
+Interpretation clarifies issues regarding the consolidation of entities which
+may have features that make it unclear whether consolidation or equity method
+accounting is appropriate. FIN 46 is effective for financial statements issued
+after December 15, 2003. The Company is evaluating FIN 46 to determine any
+potential impact on its financial reporting, but does not expect such impact to
+be material.
+
+         In May 2003, the FASB issued Statement of Financial Accounting
+Standards No. 150 (SFAS 150), "Accounting for Certain Financial Instruments with
+Characteristics of Both Liabilities and Equity." SFAS 150 provides guidance on
+distinguishing between liability and equity instruments and accounting for
+instruments that have characteristics of both. SFAS 150 requires specific types
+of freestanding financial instruments to be classified as liabilities including
+mandatory redeemable financial instruments, obligations to repurchase the
+issuer's equity shares by transferring assets and certain obligations to issue a
+variable number of shares. The provisions of SFAS 150 are effective for
+financial instruments entered into or modified after May 31, 2003. Adoption of
+SFAS 150 is not expected to have a material impact on the Company's results of
+operations, financial position or cash flows.
+
+6.       Commitments and Contingencies
+
+         The Company is subject to various investigations, claims and legal
+proceedings covering a wide range of matters that arise in the ordinary course
+of its business activities. The Company has recognized the costs and associated
+liabilities only for those investigations, claims and legal proceedings for
+which, in its view, it is probable that liabilities have been incurred and the
+related amounts are estimable. Based upon information currently available,
+management believes that existing accrued liabilities are sufficient and that it
+is not reasonably possible at this time to believe that any additional
+liabilities will result from the resolution of these matters that would have a
+material adverse effect on the Company's consolidated results of operations,
+financial position or cash flows.
+
+7.       Financing Agreement Amendment
+
+         On April 24, 2002, the Company entered into a new credit facility
+arrangement with LaSalle Bank National Association (the Bank). The credit
+facility provides for total borrowings up to $19.0 million; consisting of $15.0
+million through a revolving credit facility and up to $4.0 million under a term
+loan for capital equipment.
+
+
+                                       9
+<PAGE>
+
+
+         On September 26, 2003, the Bank further amended the Company's credit
+facility (the amended credit facility). The Bank amended various financial
+covenants in conjunction with the amended credit facility including a reduction
+in the required fixed coverage charge ratio and the elimination of the EBITDA
+covenant. The Bank amended the borrowing base to include 80% of eligible
+accounts receivable plus the lesser of 50% of eligible inventory or $7.0
+million, subject to reserves as established by the Bank. In addition, the
+outstanding loans under the amended credit facility will bear interest at an
+annual interest rate of 1.00% plus the Bank's prime rate. In conjunction with
+these amendments to the Company's credit facility, the Bank extended the
+maturity on the Company's term loan on real estate from August 1, 2003 to April
+24, 2005. Amortization on the real estate term loan shall continue on a
+five-year schedule with equal monthly payments of $49,685. The real estate term
+loan will bear interest at an annual interest rate of 1.00% plus the Bank's
+prime rate. The Company also received a waiver from the Bank for its covenant
+violation pertaining to its EBITDA covenant at June 30, 2003.
+
+         At September 30, 2003, the Company was in compliance with its financial
+covenants under the amended credit facility. Although the Company was in
+compliance with its financial covenants under the amended credit facility at
+September 30, 2003, the ability of the Company to remain in compliance with
+these ratios for the remainder of the current fiscal year depends on the
+cumulative operating results and related fixed charges , and is subject to
+achieving satisfactory revenue and expense levels sufficient to enable the
+Company to meet heightened performance standards. At September 30, 2003, the
+Company realized a Fixed Charge Coverage Ratio, as defined, of approximately
+0.87 based on the prior twelve months. For each quarter during the year ending
+June 30, 2004, the Company must realize a Fixed Charge Coverage Ratio of no less
+than 0.75, as defined in the amended credit agreement. While the Company
+believes such performance results may be attainable, there can be no assurance
+that they will be achieved.
+
+         The Company no longer has an option to elect a LIBOR rate of interest
+for its outstanding borrowings. The Company's per annum fee on any outstanding
+letters of credit under the amended credit facility is 2.50%. Under the terms of
+the amended credit facility, the interest rate on each loan outstanding at an
+Event of Default, as defined in the amended credit facility, bears interest at
+the rate of 2.00% per annum in excess of the interest rate otherwise payable
+thereon and both principal and interest is payable on demand.
+
+         At September 30, 2003, the Company had $3.1 million outstanding against
+this facility and $7.3 million of additional borrowing capacity under the line
+based on collateral requirements.
+
+         Inflation has not had a material effect on the Company's business or
+results of operations.
+
+         The Company's credit facility requires a lockbox arrangement, which
+provides for all receipts to be swept daily to reduce borrowings outstanding
+under the credit facility. This arrangement, combined with the existence of a
+Material Adverse Effect (MAE) clause in the new credit facility, cause the
+revolving credit facility to be classified as a
+
+
+
+                                       10
+<PAGE>
+
+
+
+current liability, per guidance in the FASB's EITF Issue No. 95-22, "Balance
+Sheet Classification of Borrowings Outstanding under Revolving Credit Agreements
+that Include Both a Subjective Acceleration Clause and a Lock-Box Arrangement."
+However, the Company does not expect to repay, or be required to repay, within
+one year, the balance of the revolving credit facility classified as a current
+liability. The MAE clause, which is a typical requirement in commercial credit
+agreements, allows the lender to require the loan to become due if it determines
+there has been a material adverse effect on the Company's operations, business,
+properties, assets, liabilities, condition or prospects. The classification of
+the revolving credit facility as a current liability is a result only of the
+combination of the two aforementioned factors: the lockbox arrangement and the
+MAE clause. However, the revolving credit facility does not expire or have a
+maturity date within one year, but rather has a final expiration date of April
+25, 2005. Additionally, the Bank has not notified the Company of any indication
+of a MAE at September 30, 2003.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+THREE MONTHS ENDED SEPTEMBER 30, 2003 COMPARED TO THREE MONTHS ENDED SEPTEMBER
+30, 2002.
+
+         Allied had net sales of $13.8 million for the three months ended
+September 30, 2003, down $1.4 million, or 9.2%, from net sales of $15.2 million
+in the prior year same quarter. Sales in the first quarter of fiscal 2003 have
+been unfavorably impacted by decreased activity in the medical gas equipment
+markets. This is reflected by lower orders and shipments in this market than in
+the prior year. Demand was also weaker for the Company's respiratory care
+products. These decreases have been partially offset by higher sales of
+emergency medical products.
+
+         Gross profit for the three months ended September 30, 2003 was $3.4
+million, or 24.5% of net sales, compared to $3.2 million, or 20.9% of net sales,
+for the three months ended September 30, 2002. The improvement in gross margin
+is the result of reduced operations cost resulting from the Company's cost
+reduction efforts, including automation of certain manufacturing processes. In
+addition, gross profit improved $0.2 million as a result of a distribution
+representing the Company's membership interest in the liquidation of the General
+American Mutual Holding Company, the Company's former health care benefit
+provider. The Company is continuing to review, automate, and further improve
+operations to improve productivity and lower manufacturing and product cost.
+
+         Selling, general and administrative expenses for the three months ended
+September 30, 2003 were $3.2 million, a net decrease of $0.1 million, or 3.0%,
+from $3.3
+
+
+                                       11
+<PAGE>
+
+
+million for the three months ended September 30, 2002. The decrease is the
+result of reduced insurance cost, lower staffing levels, and other expense
+reductions.
+
+         On July 28th, 2003 the Company announced a workforce reduction of 14
+positions from it's managerial and administrative staff and 5 positions from
+it's production group. This reduction resulted in severance pay of approximately
+$73,000, which was paid in the first quarter of fiscal 2004. These payments are
+reflected in selling, general, and administrative expenses for the three months
+ended September 30, 2003.
+
+         Income from operations was $0.2 million for the three months ended
+September 30, 2003 compared to a $0.1 million loss from operations for the three
+months ended September 30, 2002. Interest expense was $0.2 million for the three
+months ended September 30, 2003, unchanged from $0.2 million for the three
+months ended September 30, 2002. Allied had income before provision for income
+taxes in the first quarter of fiscal 2004 of $14,362, compared to a loss before
+provision for income taxes of $376,243, for the first quarter of fiscal 2003.
+The Company recorded a tax provision of $11,589 for the three-month period ended
+September 30, 2003 versus a tax benefit of $135,845 recorded for the three-month
+period ended September 30, 2002.
+
+         In fiscal 2004, the net income for the first quarter was $2,773 or
+$0.00 per basic and diluted share compared to a net loss of $240,398 or $0.03
+per basic and diluted share for the first quarter of fiscal 2003. The weighted
+average number of common shares outstanding used in the calculation of basic
+earnings per share for the first quarters of fiscal 2004 and 2003 was 7,813,932
+shares. The weighted average number of common shares outstanding used in the
+calculation of diluted earnings per share for the first quarters of fiscal 2004
+and fiscal 2003 was 7,951,334 and 7,813,932 shares, respectively.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The Company believes that available resources and anticipated cash
+flows from operations are sufficient to meet operating requirements in the
+coming year.
+
+         Working capital increased to $9.5 million at September 30, 2003
+compared to $9.4 million at June 30, 2003. This is primarily due to a $1.2
+million reduction in the current portion of long-term debt, and a $0.3 million
+increase in other current assets as a result of insurance payments. These
+changes have been offset by a $0.8 million increase in accounts payable, a $0.1
+million decrease in accounts receivable, and a $0.5 million decrease in
+inventory. The decrease in inventory is a result of improved inventory control
+procedures during the last year.
+
+         On April 24, 2002, the Company entered into a new credit facility
+arrangement with LaSalle Bank National Association (the "Bank"). The new credit
+facility provides for total borrowings up to $19.0 million; consisting of up to
+$15.0 million through a revolving credit facility and up to $4.0 million under a
+term loan.
+
+
+                                       12
+<PAGE>
+
+
+         On September 26, 2003, the Bank further amended the Company's credit
+facility (the amended credit facility). The Bank amended various financial
+covenants in conjunction with the amended credit facility including a reduction
+in the required fixed coverage charge ratio and the elimination of the EBITDA
+covenant. The Bank amended the borrowing base to include 80% of eligible
+accounts receivable plus the lesser of 50% of eligible inventory or $7.0
+million, subject to reserves as established by the Bank. In addition, the
+outstanding loans under the amended credit facility will bear interest at an
+annual interest rate of 1.00% plus the Bank's prime rate. In conjunction with
+these amendments to the Company's credit facility, the Bank extended the
+maturity on the Company's term loan on real estate from August 1, 2003 to April
+24, 2005. Amortization on the real estate term loan shall continue on a
+five-year schedule with equal monthly payments of $49,685. The real estate term
+loan will bear interest at an annual interest rate of 1.00% plus the Bank's
+prime rate. The Company also received a waiver from the Bank for its covenant
+violations pertaining to its EBITDA covenant at June 30, 2003.
+
+         At September 30, 2003, the Company was in compliance with its financial
+covenants under the amended credit facility. Although the Company was in
+compliance with its financial covenants under the amended credit facility at
+September 30, 2003, the ability of the Company to remain in compliance with
+these ratios for the remainder of the current fiscal year depends on the
+cumulative operating results and related fixed charges, and is subject to
+achieving satisfactory revenue and expense levels sufficient to enable the
+Company to meet heightened performance standards. At September 30, 2003, the
+Company realized a Fixed Charge Coverage Ratio, as defined, of approximately
+0.87 based on the prior twelve months. For each quarter during the year ending
+June 30, 2004, the Company must realize a Fixed Charge Coverage Ratio of no less
+than 0.75, as defined in the amended credit agreement. While the Company
+believes such performance results may be attainable, there can be no assurance
+that they will be achieved.
+
+         The Company's credit facility requires lockbox arrangement, which
+provide for all receipts to be swept daily to reduce borrowings outstanding
+under the credit facility. This arrangement, combined with the existence of a
+Material Adverse Effect (MAE) clause in the new credit facility, cause the
+revolving credit facility to be classified as a current liability, per guidance
+in the FASB's Emerging Issues Task Force Issue 95-22, "Balance Sheet
+Classification of Borrowings Outstanding under Revolving Credit Agreements that
+Include Both a Subjective Acceleration Clause and a Lock-Box Arrangement."
+However, the Company does not expect to repay, or be required to repay, within
+one year, the balance of the revolving credit facility classified as a current
+liability. The MAE clause, which is a typical requirement in commercial credit
+agreements, allows the lender to require the loan to become due if it determines
+there has been a material adverse effect on the Company's operations, business,
+properties, assets, liabilities, condition or prospects. The classification of
+the revolving credit facility as a current liability is a result only of the
+combination of the two aforementioned factors: the lockbox arrangement and the
+MAE clause. However, the revolving credit facility does not expire or have a
+maturity date within one year, but rather has a final expiration date of April
+25, 2005. Additionally, the Bank has not notified the Company of any indication
+of a MAE at September 30, 2003.
+
+
+                                       13
+<PAGE>
+
+
+         At September 30, 2003, the Company had $3.1 million outstanding against
+this facility and $7.3 million of additional borrowing capacity under the line
+based on collateral requirements.
+
+         Inflation has not had a material effect on the Company's business or
+results of operations.
+
+RECENTLY ISSUED ACCOUNTING STANDARDS
+
+         In January 2003, the FASB released FIN No. 46, "Consolidation of
+Variable Interest Entities - an Interpretation of ARB No. 51". The
+Interpretation clarifies issues regarding the consolidation of entities which
+may have features that make it unclear whether consolidation or equity method
+accounting is appropriate. FIN 46 is effective for financial statements issued
+after December, 15, 2003. The Company is evaluating FIN 46 to determine any
+potential impact on its financial reporting, but does not expect such impact to
+be material.
+
+         In May 2003, the FASB issued Statement of Financial Accounting
+Standards No. 150 (SFAS 150), "Accounting for Certain Financial Instruments with
+Characteristics of Both Liabilities and Equity." SFAS 150 provides guidance on
+distinguishing between liability and equity instruments and accounting for
+instruments that have characteristics of both. SFAS 150 requires specific types
+of freestanding financial instruments to be classified as liabilities including
+mandatory redeemable financial instruments, obligations to repurchase the
+issuer's equity shares by transferring assets and certain obligations to issue a
+variable number of shares. The provisions of SFAS 150 are effective for
+financial instruments entered into or modified after May 31, 2003. Adoption of
+SFAS 150 is not expected to have a material impact on the Company's results of
+operations, financial position or cash flows.
+
+LITIGATION AND CONTINGENCIES
+
+         The Company becomes, from time to time, a party to personal injury
+litigation arising out of incidents involving the use of its products. More
+specifically there have been a number of lawsuits filed against the Company
+alleging that its aluminum oxygen pressure regulator, marketed under its Life
+Support Products label, has caused fires that have led to personal injury. The
+Company believes, based on preliminary findings, that its products did not cause
+the fires. The Company intends to defend these claims in cooperation with its
+insurers. Based on the progression of certain cases, the Company has recorded an
+additional $0.1 million charge to operations during both fiscal 2004 and 2003
+for amounts estimated to be payable by the Company under its self-insurance
+retention for legal costs associated with defending these claims. The Company
+believes that any potential judgements resulting from these claims over its
+self-insured retention will be covered by the Company's product liability
+insurance.
+
+
+                                       14
+<PAGE>
+
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+         At September 30, 2003, the Company had $8.7 million in debt
+outstanding. This balance represents amounts outstanding under the Company's
+revolving credit facility of $3.1 million, the Company's real estate loan for
+$3.0 million, and the Company's capital expenditure loan for $2.6 million. The
+revolving credit facility , the capital expenditure loan, and the real estate
+loan bear an interest rate using the commercial bank's "floating reference rate"
+as the basis, as defined in the loan agreement, and therefore is subject to
+additional expense should there be an increase in market interest rates.
+
+         The Company had no holdings of derivative financial or commodity
+instruments at September 30, 2003. Allied Healthcare Products has international
+sales, however these sales are denominated in U.S. dollars, mitigating foreign
+exchange rate fluctuation risk.
+
+ITEM 4.  CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+         Within the 90 day period prior to the filing date of this Quarterly
+Report on Form 10-Q, the Company, under the supervision, and with the
+participation, of its management, including its principal executive officer and
+principal financial officer, performed an evaluation of the Company's disclosure
+controls and procedures, as contemplated by Securities Exchange Act Rule 13a-15.
+Based on that evaluation, the Company's principal executive officer and
+principal financial officer concluded that such disclosure controls and
+procedures are effective to ensure that material information relating to the
+Company, including its consolidated subsidiaries, is made known to them,
+particularly during the period for which the periodic reports are being
+prepared.
+
+Changes in Internal Controls
+
+         No significant changes were made in the Company's internal controls or
+in other factors that could significantly affect these controls subsequent to
+the date of the evaluation performed pursuant to Securities Exchange Act Rule
+13a-15 referred to above.
+
+Part II. OTHER INFORMATION
+
+ITEM 6.  EXHIBITS AND REPORTS ON FORM 8-K
+
+(a)   Exhibits:
+
+     31.1  Certification by Chief Executive Officer pursuant to Rule 13a-14(a).
+
+     31.2  Certification by Chief Financial Officer pursuant to Rule 13a-14(a).
+
+     32.1  Certification by Chief Executive Officer pursuant to Section 906 of
+           Sarbanes-Oxley Act of 2002.
+
+
+                                       15
+<PAGE>
+
+
+     32.2  Certification by Chief Financial Officer pursuant to Section 906 of
+           Sarbanes-Oxley Act of 2002.
+
+(b)  Reports on Form 8-K:
+
+         On July 28, 2003, the Registrant filed a Form 8-K providing information
+under Items 9 & 12 relating to (i) compliance with certain borrowing covenants
+as of its June 30, 2003 fiscal year end and (ii) a reduction in staffing and
+related matters affecting future periods.
+
+
+
+                                       16
+<PAGE>
+
+SIGNATURE
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                ALLIED HEALTHCARE PRODUCTS, INC.
+
+
+
+                                /s/ Earl R. Refsland
+                                -------------------------------------
+                                Earl R. Refsland
+                                President and Chief Executive Officer
+
+                                Date: November 12, 2003
+
+
+
+                                       17
+
+</TEXT>
+</DOCUMENT>

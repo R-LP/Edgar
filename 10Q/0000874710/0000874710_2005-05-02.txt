@@ -1,0 +1,1149 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>c94719e10vq.txt
+<DESCRIPTION>QUARTERLY REPORT
+<TEXT>
+<PAGE>
+
+                            UNITED STATES OF AMERICA
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+                                    FORM 10-Q
+
+      (Mark One)
+
+[X]   Quarterly report pursuant to Section 13 or 15(d) of the Securities
+      Exchange Act of 1934
+
+      For the quarterly period ended March 31, 2005
+
+      [ ] Transition report pursuant to Section 13 or 15(d) of the
+          Securities Exchange Action of 1934
+
+      For the transition period from ___________________ to ___________________
+
+                         Commission File Number 0-19266
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+
+                              1720 Sublette Avenue
+
+                            St. Louis, Missouri 63110
+                                  314/771-2400
+
+                          IRS Employment ID 25-1370721
+
+      Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter periods that the
+registrant was required to file such reports, and (2) has been subject to such
+filing requirements for the past ninety days.
+
+                          Yes [X]     No [ ]
+
+Indicate by check mark whether the registrant is an accelerated filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+                          Yes [ ]     No [X]
+
+      The number of shares of common stock outstanding at May 2, 2005 is
+7,829,577 shares.
+
+<PAGE>
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+                                                                             Page
+                                                                            Number
+<S>                                                                         <C>
+Part I -   Financial Information
+           Item 1. Financial Statements
+                   Consolidated Statement of Operations -
+                   three months and nine months ended March 31,
+                   2005 and 2004  (Unaudited)                                  3
+
+                   Consolidated Balance Sheet -
+                   March 31, 2005 (Unaudited) and
+                   June 30, 2004 (Audited)                                   4 - 5
+
+                   Consolidated Statement of Cash Flows -
+                   Nine months ended March 31, 2005 and 2004
+                   (Unaudited)                                                  6
+
+                   Notes to Consolidated Financial Statements                7 - 14
+
+           Item 2. Management's Discussion and Analysis of
+                   Financial Condition and Results of Operations            14 - 20
+
+           Item 3. Quantitative and Qualitative Disclosure about
+                   Market Risk                                                 20
+
+           Item 4. Controls and Procedures                                   20-21
+
+Part II -  Other Information
+           Item 6. Exhibits                                                    22
+
+                   Signature                                                   23
+</TABLE>
+
+SAFE HARBOR" STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF
+1995
+
+      Statements contained in this Report, which are not historical facts or
+information, are "forward-looking statements." Words such as "believe,"
+"expect," "intend," "will," "should," and other expressions that indicate future
+events and trends identify such forward-looking statements. These
+forward-looking statements involve risks and uncertainties, which could cause
+the outcome and future results of operations, and financial condition to be
+materially different than stated or anticipated based on the forward-looking
+statements. Such risks and uncertainties include both general economic risks and
+uncertainties, risks and uncertainties affecting the demand for and economic
+factors affecting the delivery of health care services, and specific matters
+which relate directly to the Company's operations and properties as discussed in
+the Company's annual report on Form 10-K for the year ended June 30, 2004. The
+Company cautions that any forward-looking statements contained in this report
+reflects only the belief of the Company or its management at the time the
+statement was made. Although the Company believes such forward-looking
+statements are based upon reasonable assumptions, such assumptions may
+ultimately prove inaccurate or incomplete. The Company undertakes no obligation
+to update any forward-looking statement to reflect events or circumstances after
+the date on which the statement was made.
+
+                                        2
+<PAGE>
+
+PART I. FINANCIAL INFORMATION
+
+      ITEM 1. FINANCIAL STATEMENTS
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                   Three months ended             Nine months ended
+                                       March 31,                      March 31,
+                                       ---------                      ---------
+                                  2005            2004            2005            2004
+                                  ----            ----            ----            ----
+<S>                            <C>             <C>             <C>             <C>
+Net sales                      $14,328,443     $14,956,873     $41,935,731     $43,841,734
+Cost of sales                   10,596,050      10,745,206      31,383,741      32,125,005
+                               -----------     -----------     -----------     -----------
+Gross profit                     3,732,393       4,211,667      10,551,990      11,716,729
+
+Selling, general and
+administrative expenses          3,013,159       3,054,399       8,998,802       9,568,968
+                               -----------     -----------     -----------     -----------
+Income from operations             719,234       1,157,268       1,553,188       2,147,761
+
+Other expenses:
+Interest                            15,416         111,570         118,227         453,285
+Other, net                          13,791           7,748          32,563           2,066
+                               -----------     -----------     -----------     -----------
+                                    29,207         119,318         150,790         455,351
+                               -----------     -----------     -----------     -----------
+
+Income before provision
+for income taxes                   690,027       1,037,950       1,402,398       1,692,410
+
+Provision for income taxes         281,739         410,115         574,423         677,595
+                               -----------     -----------     -----------     -----------
+Net income                     $   408,288     $   627,835     $   827,975     $ 1,014,815
+                               ===========     ===========     ===========     ===========
+
+Basic earnings per share       $      0.05     $      0.08     $      0.11     $      0.13
+                               ===========     ===========     ===========     ===========
+
+Diluted earnings per share     $      0.05     $      0.08     $      0.10     $      0.13
+                               ===========     ===========     ===========     ===========
+
+Weighted average shares
+outstanding - basic              7,821,404       7,818,432       7,819,408       7,815,748
+
+Weighted average shares
+outstanding - diluted            8,083,671       8,005,365       8,081,925       7,957,881
+</TABLE>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                       3
+<PAGE>
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                     ASSETS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                           March 31,       June 30,
+                                                            2005            2004
+                                                            ----            ----
+<S>                                                      <C>             <C>
+Current assets:
+  Cash                                                   $       800     $     8,256
+  Accounts receivable, net of allowance for doubtful
+    accounts of $475,000 and $475,000, respectively        7,987,383       7,708,969
+  Inventories, net                                        10,635,740      11,095,171
+  Income tax receivable                                            -         130,548
+  Other current assets                                       328,942         127,127
+
+                                                         -----------     -----------
+     Total current assets                                 18,952,865      19,070,071
+
+                                                         -----------     -----------
+
+  Property, plant and equipment, net                      11,403,838      11,999,927
+  Goodwill                                                15,979,830      15,979,830
+  Other assets, net                                           64,493          88,867
+
+                                                         -----------     -----------
+     Total assets                                        $46,401,026     $47,138,695
+                                                         ===========     ===========
+</TABLE>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                   (CONTINUED)
+
+                                       4
+<PAGE>
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                   (CONTINUED)
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                                  March 31,         June 30,
+                                                                   2005              2004
+                                                                   ----              ----
+<S>                                                             <C>               <C>
+Current liabilities:
+   Accounts payable                                             $  3,339,988      $  3,125,593
+   Current portion of long-term debt                                 970,754         1,245,484
+   Deferred income taxes                                             389,644           389,644
+   Deferred revenue                                                  465,000                 -
+   Other current liabilities                                       3,498,559         3,316,603
+                                                                ------------      ------------
+      Total current liabilities                                    8,663,945         8,077,324
+                                                                ------------      ------------
+
+Deferred income taxes                                                242,478           242,478
+                                                                ------------      ------------
+
+Deferred revenue                                                     193,750                 -
+                                                                ------------      ------------
+Long-term debt                                                             -         2,366,076
+                                                                ------------      ------------
+
+Commitments and contingencies (note 5)
+
+Stockholders' equity:
+   Preferred stock; $0.01 par value; 1,500,000 shares
+      authorized; no shares issued and outstanding; which
+      includes Series A preferred stock; $0.01 par value;
+      200,000 shares authorized; no shares issued and
+      outstanding                                                          -                 -
+   Common stock; $0.01 par value; 30,000,000 shares
+      authorized; 7,829,577 and 7,818,432 shares issued and
+        outstanding at March 31, 2005 and June 30, 2004              101,331           101,220
+   Additional paid-in capital                                     47,061,441        47,041,493
+   Common stock in treasury, at cost                             (20,731,428)      (20,731,428)
+   Retained earnings                                              10,869,509        10,041,532
+
+                                                                ------------      ------------
+      Total stockholders' equity                                  37,300,853        36,452,817
+
+                                                                ------------      ------------
+      Total liabilities and stockholders' equity                $ 46,401,026      $ 47,138,695
+                                                                ============      ============
+</TABLE>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                       5
+<PAGE>
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+                                                        Nine months ended
+                                                            March 31,
+                                                            ---------
+                                                       2005              2004
+                                                       ----              ----
+<S>                                                <C>               <C>
+Cash flows from operating activities:
+    Net income                                     $    827,975      $  1,014,815
+
+    Depreciation and amortization                       963,054           970,169
+
+    Stock Based Compensation                             20,060                 -
+
+Changes in operating assets and liabilities:
+     Accounts receivable, net                          (278,414)          430,416
+     Inventories, net                                   459,431         1,270,069
+     Income tax receivable                              130,548          (219,403)
+     Other current assets                              (201,815)          (33,609)
+     Accounts payable                                   214,395           560,296
+     Deferred revenue                                   658,750                 -
+     Income tax payable                                 (51,102)          654,363
+     Other current liabilities                          233,059           499,428
+                                                   ------------      ------------
+        Net cash provided by operating activities     2,975,941         5,146,544
+                                                   ------------      ------------
+
+Cash flows from investing activities:
+     Capital expenditures                              (342,591)         (437,453)
+                                                   ------------      ------------
+        Net cash used in investing activities          (342,591)         (437,453)
+                                                   ------------      ------------
+
+Cash flows from financing activities:
+     Payments of long-term debt                      (3,174,646)         (844,867)
+     Borrowings under revolving credit agreement     44,067,252        42,497,132
+     Payments under revolving credit agreement      (43,533,412)      (46,373,129)
+      Proceeds from exercise of stock options                 -            10,987
+                                                   ------------      ------------
+        Net cash used in financing activities        (2,640,806)       (4,709,877)
+                                                   ------------      ------------
+
+Net decrease in cash                                     (7,456)             (786)
+Cash at beginning of period                               8,256            12,016
+                                                   ------------      ------------
+Cash at end of period                              $        800      $     11,230
+                                                   ============      ============
+</TABLE>
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+                                       6
+<PAGE>
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1. Unaudited Consolidated Financial Statements
+
+      The accompanying unaudited consolidated financial statements have been
+prepared in accordance with the instructions for Form 10-Q and do not include
+all of the information and disclosures required by accounting principles
+generally accepted in the United States of America for complete financial
+statements. In the opinion of management, all adjustments, consisting only of
+normal recurring adjustments considered necessary for a fair presentation, have
+been included. Operating results for any quarter are not necessarily indicative
+of the results for any other quarter or for the full year. These statements
+should be read in conjunction with the consolidated financial statements and
+notes to the consolidated financial statements thereto included in the Company's
+Form 10-K for the year ended June 30, 2004.
+
+2. Significant Accounting Policies
+
+Stock Options
+
+      The Company accounts for employee stock options in accordance with
+Accounting Principles Board No. (APB) 25, "Accounting for Stock Issued to
+Employees". Under APB 25, the Company applies the intrinsic value method of
+accounting. The Company has not recognized compensation expense at the grant
+date for options granted because the Company grants options at a price equal to
+market value at the time of grant. Financial Accounting Standard No. 123 (SFAS
+123), "Accounting for Stock-Based Compensation," prescribes the recognition of
+compensation expense based on the fair value of options determined on the grant
+date. However, SFAS 123 grants an exception that allows companies currently
+applying APB 25 to continue using that method. The Company has elected to
+continue applying the intrinsic value method under APB 25. In March 2005, the
+Company recognized $20,060 of compensation expense related to the modification
+of stock options held by a member of the Company's board of directors.
+
+      The fair value of options granted (which is amortized over the option
+vesting period in determining the pro forma impact) is estimated on the date of
+grant using the Black-Scholes multiple option-pricing model. The following table
+shows stock-based compensation expense included in net income, pro forma
+stock-based compensation expense, net income, and earnings per share had the
+Company elected to record compensation expense based on the fair value of
+options at the grant date for the three and nine months ended March 31, 2005 and
+2004.
+
+                                       7
+<PAGE>
+
+<TABLE>
+<CAPTION>
+                                               Three Months Ended                Nine Months Ended
+                                                  March 31st,                        March 31st,
+                                                  -----------                        -----------
+                                             2005             2004             2005              2004
+                                             ----             ----             ----              ----
+<S>                                      <C>              <C>              <C>              <C>
+Net income, as reported                   $   408,288      $   627,835      $   827,975      $   1,014,815
+
+Add:  Stock-based employee
+compensation expense included in
+reported net income, net of related
+tax effects                               $    12,036                -      $    12,036                  -
+                                         ------------     ------------     ------------     --------------
+
+Deduct:  Total stock-based employee
+compensation expense determined
+under fair value based method for all
+awards granted since July 1, 1994,
+net of related tax effects               ($    14,221)    ($    11,918)    ($    39,700)    ($      53,326)
+                                         ------------     ------------     ------------     --------------
+Proforma net income                       $   406,103      $   615,917      $   800,311      $     961,489
+                                         ============     ============     ============     ==============
+
+Earnings per share:
+              Basic-as reported           $      0.05             0.08      $      0.11               0.13
+                                         ------------     ------------     ------------     --------------
+              Basic-pro forma             $      0.05             0.08      $      0.11               0.12
+                                         ------------     ------------     ------------     --------------
+
+              Diluted -as reported        $      0.05             0.08      $      0.10               0.13
+                                         ------------     ------------     ------------     --------------
+              Diluted -pro forma          $      0.05             0.08      $      0.10               0.12
+                                         ------------     ------------     ------------     --------------
+</TABLE>
+
+The effects of applying SFAS 123 in this proforma disclosure are not necessarily
+indicative of future amounts.
+
+Impact of Recently Issued Accounting Standards
+
+      In November 2004, the FASB issued SFAS 151, "Inventory Costs." SFAS 151
+requires the allocation of fixed production overhead costs be based on the
+normal capacity of the production facilities and unallocated overhead costs
+recognized as an expense in the period incurred. In addition, other items such
+as abnormal freight, handling costs and wasted materials require treatment as
+current period charges rather than a portion of the inventory cost. SFAS 151 is
+effective for inventory costs incurred during periods beginning after June 15,
+2005. The Company is currently assessing the impact of the adoption of SFAS 151
+on its results of operations and financial condition.
+
+      In December 2004, the FASB issued SFAS 123R, "Share-Based Payment." SFAS
+123R requires measurement of all employee stock-based compensation awards using
+a fair value method and the recording of such expense in the consolidated
+financial statements. In addition, the adoption of SFAS 123R will require
+additional accounting related to the income tax effects and additional
+disclosure regarding the cash flow effects resulting from share-based payment
+arrangements. SFAS 123R is effective beginning in
+
+                                       8
+<PAGE>
+
+the first quarter of fiscal 2006. The Company is currently assessing the impact
+of the adoption of SFAS 123R on its results of operations and financial
+condition.
+
+3. Inventories
+
+      Inventories are comprised of the following (unaudited):
+
+<TABLE>
+<CAPTION>
+                                     March 31, 2005    June 30, 2004
+                                     --------------    -------------
+<S>                                  <C>               <C>
+Work-in progress                      $    923,190      $    722,894
+Raw materials and component parts        8,515,514         9,170,682
+Finished goods                           2,517,966         2,944,085
+Reserve for obsolete and excess
+inventory                               (1,320,930)       (1,742,490)
+
+                                      ------------      ------------
+                                      $ 10,635,740      $ 11,095,171
+                                      ============      ============
+</TABLE>
+
+4. Earnings per share
+
+      Basic earnings per share are based on the weighted average number of
+shares of all common stock outstanding during the period. Diluted earnings per
+share are based on the sum of the weighted average number of shares of common
+stock and common stock equivalents (consisting of employee stock options)
+outstanding during the year. The weighted number of basic shares outstanding for
+the three months ended March 31, 2005 and 2004 was 7,821,404 and 7,818,432,
+respectively. The weighted number of diluted shares outstanding for the three
+months ended March 31, 2005 and 2004 was 8,083,671 and 8,005,365 shares,
+respectively. The weighted number of basic shares outstanding for the nine
+months ended March 31, 2005 and 2004 was 7,819,408 and 7,815,748, respectively.
+The number of diluted shares outstanding for the nine months ended March 31,
+2005 and 2004 was 8,081,925 and 7,957,881 shares, respectively.
+
+5. Commitments and Contingencies
+
+      The Company is subject to various investigations, claims and legal
+proceedings covering a wide range of matters that arise in the ordinary course
+of its business activities. The Company has recognized the costs and associated
+liabilities only for those investigations, claims and legal proceedings for
+which, in its view, it is probable that liabilities have been incurred and the
+related amounts are estimable. Based upon information currently available,
+management believes that existing accrued liabilities are sufficient and that it
+is not reasonably possible at this time to believe that any additional
+liabilities will result from the resolution of these matters that would have a
+material adverse effect on the Company's consolidated results of operations,
+financial position or cash flows.
+
+                                       9
+<PAGE>
+
+6. Financing Agreement Amendment
+
+      On April 24, 2002, the Company entered into a credit facility arrangement
+with LaSalle Bank National Association (the "Bank"), which was subsequently
+amended on September 26, 2002, and September 26, 2003. The credit facility
+provided for total borrowings up to $19.0 million; consisting of up to $15.0
+million through a revolving credit facility and up to $4.0 million under a term
+loan.
+
+      On August 27, 2004, the Bank and the Company agreed to a further amendment
+of the credit facility (the amended credit facility). In conjunction with these
+amendments to the Company's credit facility, the Bank extended the maturity on
+the Company's term loan on real estate, the Company's revolving credit facility,
+and term loan on capital expenditures from April 24, 2005 to April 24, 2007. The
+entire credit facility was amended to accrue interest at the Bank's prime rate.
+The Prime rate was 5.75% on March 31, 2005. The interest rate on Prime rate
+loans may increase from Prime to Prime plus 0.75% if the ratio of the Company's
+funded debt to EBITDA exceeds 1.5. The amended credit facility also provides the
+Company with a rate of LIBOR plus 2.25%, at the Company's option. The optional
+LIBOR rate may increase from LIBOR plus 2.25% to LIBOR plus 3.00% based on the
+Company's fixed charge coverage ratio. The 90-day LIBOR rate was 3.12% at March
+31, 2005. Amortization on the capital expenditure term loan shall continue on a
+five-year schedule with equal monthly payments of $50,772. Amortization on the
+real estate term loan was to continue on a five-year schedule with equal monthly
+payments of $49,685. The real estate term loan was retired on September 30,
+2004.
+
+      At March 31, 2005, the Company was in compliance with its financial
+covenants under the amended credit facility. Although the Company was in
+compliance with its financial covenants under the amended credit facility at
+March 31, 2005, the ability of the Company to remain in compliance with these
+ratios for the remainder of the current fiscal year depends on the cumulative
+operating results and related fixed charges, and is subject to achieving
+satisfactory revenue and expense levels sufficient to enable the Company to meet
+heightened performance standards. At March 31, 2005, the Company realized a
+Fixed Charge Coverage Ratio, as defined, of approximately 2.03 to 1.0 based on
+the prior twelve months. During year ending June 30, 2005, the Company must
+realize a Fixed Charge Coverage Ratio of at least 1.0 to 1.0, as defined in the
+amended credit agreement. The Company believes such performance results are
+attainable, however, there can be no assurance that they will be achieved.
+
+      The Company's credit facility requires a lockbox arrangement, which
+provides for all receipts to be swept daily to reduce borrowings outstanding
+under the credit facility. This arrangement, combined with the existence of a
+Material Adverse Effect (MAE) clause in the credit facility, cause the revolving
+credit facility to be classified as a current liability, per guidance in the
+FASB's EITF Issue No. 95-22, "Balance Sheet Classification of Borrowings
+Outstanding under Revolving Credit Agreements that Include Both a Subjective
+Acceleration Clause and a Lock-Box Arrangement." However, the Company does not
+expect to repay, or be required to repay, within one year, the balance of the
+
+                                       10
+<PAGE>
+
+revolving credit facility classified as a current liability. The MAE clause,
+which is a typical requirement in commercial credit agreements, allows the
+lender to require the loan to become due if it determines there has been a
+material adverse effect on the Company's operations, business, properties,
+assets, liabilities, condition or prospects. The classification of the revolving
+credit facility as a current liability is a result only of the combination of
+the two aforementioned factors: the lockbox arrangement and the MAE clause.
+However, the revolving credit facility does not expire or have a maturity date
+within one year, but rather has a final expiration date of April 25, 2007.
+Additionally, the Bank has not notified the Company of any indication of a MAE
+at March 31, 2005.
+
+7. Agreement with Abbott Laboratories
+
+      On August 27, 2004, Allied Healthcare Products, Inc. ("Allied") entered
+into an agreement with Abbott Laboratories ("Abbott") pursuant to which Allied
+agreed to cease production of its product Baralyme(R), and to affect the
+withdrawal of Baralyme(R) product held by distributors. The agreement permits
+Allied to pursue the development of a new carbon dioxide absorbent product.
+Baralyme(R), a carbon dioxide absorbent product, has been used safely and
+effectively in connection with inhalation anesthetics since its introduction in
+the 1920s. In recent years, the number of inhalation anesthetics has increased,
+giving rise to concerns regarding the use of Baralyme(R) in conjunction with
+these newer inhalation anesthetics if Baralyme(R) has been allowed, contrary to
+recommended practice, to become desiccated. The agreement also provides that,
+for a period of eight years, Allied will not manufacture, distribute, promote,
+market, sell, commercialize or donate any Baralyme(R) product or similar product
+based upon potassium hydroxide and will not develop or license any new carbon
+dioxide absorbent product containing potassium hydroxide.
+
+      In consideration of the foregoing, Abbott agreed to pay Allied an
+aggregate of $5,250,000 of which $1,530,000 which was paid on September 30,
+2004, and the remainder payable in 4 equal annual installments of $930,000 due
+on July 1, 2005 through July 1, 2008. Allied has agreed with Abbott that in the
+event that it receives approval from the U.S. Food & Drug Administration for the
+commercial sale of a new carbon dioxide absorbent product not based upon
+potassium hydroxide prior to January 1, 2008, that Abbott will be relieved of
+any obligation to fund the $930,000 installment due July 1, 2008.
+
+      The initial payment of $1,530,000 from Abbott Laboratories was received on
+September 30, 2004. The agreement required Abbott Laboratories to pay Allied
+$600,000 for reimbursement of Allied's cost incurred in connection with
+withdrawal of Baralyme(R) from the market, the disposal of such product, and
+severance payments payable as a result of such withdrawal. This payment by
+Abbott Laboratories of $600,000 has been included in net sales during the nine
+months ended March 31, 2005, in accordance with the FASB's EITF Issue No. 99-19,
+"Reporting Revenue Gross as a Principal versus Net as an Agent." The Company is
+the primary obligor in the arrangement. It has sole authority to determine the
+method of withdrawal of Baralyme(R) and discretion in such matters as employee
+layoffs, disposal methods, and customer
+
+                                       11
+<PAGE>
+
+communications regarding the sale of replacement products. The costs of
+executing the withdrawal are the sole responsibility of the Company.
+
+      The remaining $4,650,000 of the payments to be received from Abbott,
+including the remaining $930,000 received on September 30, 2004, will be
+recognized into income, as net sales, over the eight-year term of the agreement.
+Allied has no further obligations under this agreement which would require the
+Company to repay these amounts or otherwise impact this accounting treatment.
+During the three and nine months ended March 31, 2005, $116,250 and $271,250 was
+recognized as net sales, respectively.
+
+      A reconciliation of deferred revenue resulting from the agreement with
+Abbott Laboratories, with the amounts received under the agreement, and amounts
+recognized as net sales is as follows:
+
+                                Deferred Revenue
+
+<TABLE>
+<CAPTION>
+                                  Three Months ended            Nine Months ended
+                                      March 31,                     March 31,
+                                      ---------                     ---------
+                              2005              2004           2005            2004
+                              ----              ----           ----            ----
+<S>                        <C>                <C>           <C>              <C>
+Beginning balance          $   775,000        $       -     $         -      $       -
+
+Payment Received from
+
+Abbott Laboratories                  -                -       1,530,000              -
+
+Revenue recognized
+as net sales                  (116,250)               -        (871,250)             -
+                           -----------        ---------     -----------      ---------
+                               658,750                -         658,750              -
+                           -----------        ---------     -----------      ---------
+Less - Current portion
+of deferred revenue           (465,000)               -        (465,000)             -
+                           -----------        ---------     -----------      ---------
+                           $   193,750        $       -     $   193,750      $       -
+                           ===========        =========     ===========      =========
+</TABLE>
+
+      Allied has suspended manufacturing operations at its Stuyvesant Falls, New
+York, facility. Costs associated with the withdrawal and suspension of
+operations at that location, including severance and benefit payments due union
+employees, have been and will be recorded in accordance with SFAS 146,
+"Accounting for the Costs Associated with Exit or Disposal Activities".
+
+      On September 9, 2004 Allied entered into a Closedown Agreement with the
+International Chemical Union representing the employees at the Stuyvesant Falls,
+New York facility. The Company had advised the Union that the plant will be
+closed and all bargaining unit employees related to such operation will be
+permanently laid off, no later than October 15, 2004. The collective bargaining
+agreement expired and was terminated
+
+                                       12
+<PAGE>
+
+as of the closing date. The Company paid severance to those 12 bargaining unit
+employees on the active payroll as of August 27, 2004.
+
+      During the first quarter of fiscal 2005, the Company recorded a charge to
+Cost of Sales of $600,000. This charge included $216,000 for severance payments
+and fringe benefits for the 12 bargaining unit employees. The charge included
+$200,000 for the value of Baralyme(R) inventory in stock and the time of the
+withdrawal, and associated disposal cost. The charge also included $184,000 for
+replacement of Baralyme(R) inventory which was returned by our customers as a
+result of the withdrawal. The Company has replaced Baralyme(R) returned by its
+customers with Carbolime(R), a carbon dioxide absorption product which continues
+to be offered for sale by Allied.
+
+      During the second quarter of fiscal 2005, the Company recorded an
+adjustment of $127,912 to reflect an increase in the estimated product
+withdrawal cost and disposal cost, as more inventory was returned by customers
+than originally estimated. The remaining cash expenditures are expected to be
+paid over the next three quarters. The amounts accrued represent management's
+best estimate of the obligations we expect to incur with this plan, and could be
+subject to change. Adjustments may be required as conditions and facts change
+throughout the implementation period.
+
+      The following table reflects the activities related to the withdrawal of
+Baralyme(R) and subsequent suspension of operations at the Stuyvesant Falls, New
+York facility, and the accrued liabilities in the consolidated balance sheets at
+March 31, 2005. Changes to previous estimates have been reflected as "Provision
+adjustments" on the table below in the period the changes in estimates were
+made.
+
+                                       13
+<PAGE>
+
+                COST ASSOCIATED WITH WITHDRAWAL OF BARALYME
+
+<TABLE>
+<CAPTION>
+                          INVENTORY      SEVERANCE
+                        TO BE DISPOSED    PAY AND       PRODUCT
+                             OF           BENEFITS     WITHDRAWAL       TOTAL
+<S>                     <C>             <C>            <C>            <C>
+PROVISION                 $ 200,000      $ 216,000      $ 184,000      $ 600,000
+
+CASH EXPENDITURES        ($ 149,677)    ($  85,431)    ($ 119,798)    ($ 354,906)
+
+                         ----------     ----------     ----------     ----------
+BALANCE AT                $  50,323      $ 130,569      $  64,202      $ 245,094
+SEPTEMBER 30, 2004
+
+CASH EXPENDITURES        ($  66,079)    ($  87,171)    ($ 128,479)    ($ 281,729)
+
+PROVISION ADJUSTMENTS     $  55,756     ($   2,852)     $  75,008      $ 127,912
+                         ----------     ----------     ----------     ----------
+BALANCE AT                $  40,000      $  40,546      $  10,731      $  91,277
+DECEMBER 31, 2004
+
+CASH EXPENDITURES        ($  35,732)    ($  15,205)    ($  10,731)    ($  61,668)
+
+PROVISION ADJUSTMENTS             -              -              -              -
+                         ----------     ----------     ----------     ----------
+BALANCE AT                $   4,268      $  25,341      $       0      $  29,609
+MARCH 31, 2005
+                         ==========     ==========     ==========     ==========
+</TABLE>
+
+      In addition to the provisions of the agreement relating to the withdrawal
+of the Baralyme(R) product, Abbott has agreed to pay Allied up to $2,150,000 in
+product development costs to pursue development of a new carbon dioxide
+absorption product for use in connection with inhalation anesthetics that does
+not contain potassium hydroxide and does not produce a significant exothermic
+reaction with currently available inhalation agents. As of March 31, 2005 no
+amounts have been received, or are receivable, as a result of product
+development activities.
+
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+RESULTS OF OPERATIONS
+
+THREE MONTHS ENDED MARCH 31, 2005 COMPARED TO THREE MONTHS ENDED MARCH 31, 2004.
+
+                                       14
+<PAGE>
+
+      Allied had net sales of $14.3 million for the three months ended March 31,
+2005, down $0.7 million, or 4.7%, from net sales of $15.0 million in the prior
+year same quarter. The overall decrease in net sales for the quarter is
+primarily the result of lower customer purchase order releases than in the prior
+year. Sales for the three months ended March 31, 2005 include $116,250 for the
+recognition into sales of payments resulting from the agreement with Abbott
+Laboratories to cease the production and distribution of Baralyme(R) as
+discussed below. For the three months ended March 31, 2005 the Company had
+Carbolime(R) sales of $0.3 million dollars, compared to combined sales of
+Carbolime(R) and Baralyme(R) of $0.3 million for the three months ended March
+31, 2004.
+
+      Orders for the Company's products for the three months and nine months
+ended March 31, 2005 were level with orders for the same periods ended March 31,
+2004. However, customer purchase order releases were $1.5 lower than in the
+prior year third quarter, leading to the decrease in sales in the third quarter.
+Purchase order release lead times depend on the scheduling practices of the
+individual customers.
+
+      Orders for the Company's Emergency Products are higher than in the prior
+year. The Company believes that orders for these products have been favorably
+impacted by Federal Homeland Security funding for emergency responders. In
+addition, the Company has reorganized this area replacing a sales manager and
+two of the three sales specialists. This increase in demand has been offset by
+decreased demand for the Company's respiratory care products and medical gas
+equipment. The Company continues to believe that the market for construction
+products remains weaker than in the prior year. In addition, the demand for
+respiratory care products continues to be adversely affected by increased
+foreign competition. The Company is continuing its active efforts to further
+reduce the cost to produce its products.
+
+      As discussed more fully in note 7 to the financial statements included
+elsewhere in this report, the Company ceased the sale of Baralyme(R) on August
+27th, 2004 upon completion of the agreement with Abbott, and recognized three
+months of sales during the three months ended March 31, 2005. Sales from the
+agreement will continue to be recognized over eight years, the term of the
+agreement, at $38,750 per month. Allied continues to sell Carbolime(R), a carbon
+dioxide absorbent with a different formulation than Baralyme(R).
+
+      Gross profit for the three months ended March 31, 2005 was $3.7 million,
+or 26.0% of net sales, compared to $4.2 million, or 28.2% of net sales, for the
+three months ended March 31, 2004. The variance in gross profit percentages from
+prior year periods is primarily attributable to lower absorption rates for fixed
+cost due to the lower sales and production in fiscal 2005. The Company continues
+to control cost and actively pursue methods to reduce its cost.
+
+      Selling, general and administrative expenses for the three months ended
+March 31, 2005 were $3.0 million, a net decrease of $0.1 million, or 3.2%, from
+$3.1 million for the three months ended March 31, 2004. This decrease includes
+an approximately $0.1
+
+                                       15
+<PAGE>
+
+million decrease in compensation expense and fringe benefits resulting from
+staff reductions in the prior year.
+
+      Income from operations was $0.7 million for the three months ended March
+31, 2005 compared to $1.2 million for the three months ended March 31, 2004.
+Interest expense was $15,416 for the three months ended March 31, 2005, down
+from $111,570 for the three months ended March 31, 2004. The reduction in
+interest expense is the result of the lower level of debt than in the prior
+year. Allied had income before provision for income taxes in the third quarter
+of fiscal 2005 of $0.7 million, compared to income before provision for income
+taxes of $1.0 million for the third quarter of fiscal 2004. The Company recorded
+a tax provision of $0.3 million for the three-month period ended March 31, 2005
+compared to a tax provision of $0.4 million for the three-month period ended
+March 31, 2004.
+
+      In fiscal 2005, the net income for the third quarter was $0.4 million or
+$0.05 per basic and diluted share compared to net income of $0.6 million or
+$0.08 per basic and diluted share for the third quarter of fiscal 2004. The
+weighted average number of common shares outstanding used in the calculation of
+basic earnings per share for the third quarters of fiscal 2005 and 2004 was
+7,821,404 and 7,818,432 shares, respectively. The weighted average number of
+common shares outstanding used in the calculation of diluted earnings per share
+for the third quarters of fiscal 2005 and fiscal 2004 was 8,083,671 and
+8,005,365 shares, respectively.
+
+NINE MONTHS ENDED MARCH 31, 2005 COMPARED TO NINE MONTHS ENDED MARCH 31, 2004.
+
+      Allied had net sales of $41.9 million for the nine months ended March 31,
+2005, down $1.9 million, or 4.3%, from net sales of $43.8 million in the prior
+year same period. The overall sales decrease is primarily due to the timing of
+customer purchase order releases. Sales were also impacted by approximately $0.5
+million due to capacity constraints which negatively impacted production and
+shipments. The Company believes these constraints will be remedied in the fourth
+quarter of the fiscal year.
+
+      Sales for the nine months ended March 31, 2005 include $271,250 for the
+recognition into sales of payments resulting from the agreement with Abbott
+Laboratories to cease the production and distribution of Baralyme(R). Allied
+continues to sell Carbolime(R), a carbon dioxide absorbent with a different
+formulation than Baralyme(R). For the nine months ended March 31, 2005 the
+Company had carbon dioxide absorbent sales, including Baralyme(R) and
+Carbolime(R), of $1.2 million dollars, compared with $1.5 million for the nine
+months ended March 31, 2004. Sales for the nine months ended March 31, 2005 also
+included recognition as sales of a one-time $600,000 payment from Abbott
+Laboratories for cost incurred in connection with the withdrawal of Baralyme(R)
+from the market, the disposal of such product, and severance payments payable of
+such withdrawal.
+
+                                       16
+<PAGE>
+
+      Orders for the Company's products for the nine months ended March 31, 2005
+were level with orders for the nine months ended March 31, 2004. However,
+customer purchase order releases were approximately $2.9 million lower than in
+the prior year. Purchase order release lead times depend on the scheduling
+practices of the individual customers, and do vary over time.
+
+      Orders for the Company's Emergency Products are higher than in the prior
+year. The Company believes that orders for these products have been favorably
+impacted by Federal Homeland Security funding for emergency responders. In
+addition, the Company has reorganized this area replacing a sales manager and
+two of the three sales specialists. This increase in demand has been offset by
+decreased demand for the Company's respiratory care products and medical gas
+equipment. The Company continues to believe that the market for construction
+products remains weaker than in the prior year. In addition, the demand for
+respiratory care products continues to be adversely affected by increased
+foreign competition. The Company is continuing its active efforts to further
+reduce the cost to produce its products.
+
+      Gross profit for the nine months ended March 31, 2005 was $10.6 million,
+or 25.2% of net sales, down from $11.7 million, or 26.7% of net sales, for the
+nine months ended March 31, 2004. The change in gross profit percentage is
+primarily the result of two factors. Cost of sales for the nine months ended
+March 31, 2005 does include approximately $0.7 million in cost incurred in
+connection with the withdrawal of Baralyme(R), including related severance
+costs. Gross profit for the nine months ended March 31, 2004 benefited by a $0.2
+million one-time distribution representing the Company's membership interest in
+the liquidation of the General American Mutual Holding Company, the Company's
+former health care benefit provider.
+
+      Selling, general and administrative expenses for the nine months ended
+March 31, 2005 were $9.0 million, a net decrease of $0.6 million, or 6.3%, from
+$9.6 million for the nine months ended March 31, 2004. This decrease includes an
+approximately $0.3 million decrease in compensation expense and fringe benefits
+resulting from staff reductions in the prior year. Insurance costs are
+approximately $0.2 million lower than in the prior year as a result of lower
+negotiated insurance rates on product liability insurance. In addition, bad debt
+expense is approximately $0.1 million lower than in the prior year.
+
+      On July 28th, 2003 the Company announced a workforce reduction of 14
+positions from its managerial and administrative staff and 5 positions from its
+production group. This reduction resulted in severance pay of approximately
+$73,000, which was paid in the first quarter of fiscal 2004. These payments are
+reflected in selling, general, and administrative expenses for the nine months
+ended March 31, 2004.
+
+      Income from operations was $1.6 million for the nine months ended March
+31, 2005 compared to $2.1 million income from operations for the nine months
+ended March 31, 2004. Interest expense was $0.1 million for the nine months
+ended March 31, 2005, down from $0.5 million for the nine months ended March 31,
+2004. The decrease in interest cost is the result of lower debt levels in the
+current year than in prior years.
+
+                                       17
+<PAGE>
+
+Allied had income before provision for income taxes in the first nine months of
+fiscal 2005 of $1.4 million, compared to $1.7 million, for the first nine months
+of fiscal 2004. The Company recorded a tax provision of $0.6 million for the
+nine-month period ended March 31, 2005 compared to a tax provision of $0.7
+million for the nine-month period ended March 31, 2004.
+
+      In fiscal 2005, the net income for the first nine months was $0.8 million,
+or $0.11 per basic and $0.10 per diluted share compared to net income of $1.0
+million or $0.13 per basic and diluted share for the first nine months of fiscal
+2004. The weighted average number of common shares outstanding used in the
+calculation of basic earnings per share for the first nine months of fiscal 2005
+and 2004 was 7,819,408 and 7,815,748 shares, respectively. The weighted average
+number of common shares outstanding used in the calculation of diluted earnings
+per share for the first nine months of fiscal 2005 and fiscal 2004 was 8,081,925
+and 7,957,881 shares, respectively.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+      The Company believes that available resources and anticipated cash flows
+from operations are sufficient to meet operating requirements in the coming
+year.
+
+      Working capital decreased to $10.3 million at March 31, 2005 compared to
+$11.0 million at June 30, 2004. This is primarily due to a $0.5 million
+reduction in inventories, a $0.1 million reduction in income tax receivable, a
+$0.2 million increase in accounts payable, a $0.2 million increase in other
+accrued liabilities, and a $0.5 million dollar increase in deferred revenue as
+result of the agreement with Abbott Laboratories to cease production of
+Baralyme(R). These changes have been offset, by a $0.3 million increase in
+accounts receivable, $0.2 million increase in other current assets, and a $0.3
+million decrease in current portion of long-term debt.
+
+      On April 24, 2002, the Company entered into a credit facility arrangement
+with LaSalle Bank National Association (the "Bank"), which was subsequently
+amended on September 26, 2002, and September 26, 2003. The credit facility
+provided for total borrowings up to $19.0 million; consisting of up to $15.0
+million through a revolving credit facility and up to $4.0 million under a term
+loan.
+
+      On August 27, 2004, the Bank and the Company agreed to a further amendment
+of the credit facility (the amended credit facility). In conjunction with these
+amendments to the Company's credit facility, the Bank extended the maturity on
+the Company's term loan on real estate, the Company's revolving credit facility,
+and term loan on capital expenditures from April 24, 2005 to April 24, 2007. The
+entire credit facility was amended to accrue interest at the Bank's prime rate.
+The Prime rate was 5.75% on March 31, 2005. The interest rate on Prime rate
+loans may increase from Prime to Prime plus 0.75% if the ratio of the Company's
+funded debt to EBITDA exceeds 1.5. The amended credit facility also provides the
+Company with a rate of LIBOR plus 2.25%, at the Company's option. The optional
+LIBOR rate may increase from LIBOR plus 2.25% to LIBOR plus 3.00% based on the
+Company's fixed charge coverage ratio. The 90-day
+
+                                       18
+<PAGE>
+
+LIBOR rate was 3.12% at March 31, 2005. Amortization on the capital expenditure
+term loan shall continue on a five-year schedule with equal monthly payments of
+$50,772. Amortization on the real estate term loan was to continue on a
+five-year schedule with equal monthly payments of $49,685. The real estate term
+loan was retired on September 30, 2004.
+
+      At March 31, 2005, the Company was in compliance with its financial
+covenants under the amended credit facility. Although the Company was in
+compliance with its financial covenants under the amended credit facility at
+March 31, 2005, the ability of the Company to remain in compliance with these
+ratios for the remainder of the current fiscal year depends on the cumulative
+operating results and related fixed charges, and is subject to achieving
+satisfactory revenue and expense levels sufficient to enable the Company to meet
+heightened performance standards. At March 31, 2005, the Company realized a
+Fixed Charge Coverage Ratio, as defined, of approximately 2.03 to 1.0 based on
+the prior twelve months. During year ending June 30, 2005, the Company must
+realize a Fixed Charge Coverage Ratio of 1.0 to 1.0, as defined in the amended
+credit agreement. The Company believes such performance results are attainable,
+however, there can be no assurance that they will be achieved.
+
+      The Company's credit facility requires a lockbox arrangement, which
+provides for all receipts to be swept daily to reduce borrowings outstanding
+under the credit facility. This arrangement, combined with the existence of a
+Material Adverse Effect (MAE) clause in the new credit facility, cause the
+revolving credit facility to be classified as a current liability, per guidance
+in the Fast's EITF Issue No. 95-22, "Balance Sheet Classification of Borrowings
+Outstanding under Revolving Credit Agreements that Include Both a Subjective
+Acceleration Clause and a Lock-Box Arrangement." However, the Company does not
+expect to repay, or be required to repay, within one year, the balance of the
+revolving credit facility classified as a current liability. The MAE clause,
+which is a typical requirement in commercial credit agreements, allows the
+lender to require the loan to become due if it determines there has been a
+material adverse effect on the Company's operations, business, properties,
+assets, liabilities, condition or prospects. The classification of the revolving
+credit facility as a current liability is a result only of the combination of
+the two aforementioned factors: the lockbox arrangement and the MAE clause.
+However, the revolving credit facility does not expire or have a maturity date
+within one year, but rather has a final expiration date of April 25, 2007.
+Additionally, the Bank has not notified the Company of any indication of a MAE
+at March 31, 2005.
+
+      At March 31, 2005, the company had $0.6 million outstanding against this
+facility and $9.3 million available to borrow from the line based on collateral
+requirements.
+
+      Inflation has not had a material effect on the Company's business or
+results of operations.
+
+LITIGATION AND CONTINGENCIES
+
+      The Company becomes, from time to time, a party to personal injury
+litigation
+
+                                       19
+<PAGE>
+
+arising out of incidents involving the use of its products. The Company believes
+that any potential judgements resulting from these claims over its self-insured
+retention will be covered by the Company's product liability insurance.
+
+IMPACT OF RECENTLY ISSUED ACCOUNTING STANDARDS
+
+      In November 2004, the FASB issued SFAS 151, "Inventory Costs." SFAS 151
+requires the allocation of fixed production overhead costs be based on the
+normal capacity of the production facilities and unallocated overhead costs
+recognized as an expense in the period incurred. In addition, other items such
+as abnormal freight, handling costs and wasted materials require treatment as
+current period charges rather than a portion of the inventory cost. SFAS 151 is
+effective for inventory costs incurred during periods beginning after June 15,
+2005. The Company is currently assessing the impact of the adoption of SFAS 151
+on its results of operations and financial condition.
+
+      In December 2004, the FASB issued SFAS 123R, "Share-Based Payment." SFAS
+123R requires measurement of all employee stock-based compensation awards using
+a fair value method and the recording of such expense in the consolidated
+financial statements. In addition, the adoption of SFAS 123R will require
+additional accounting related to the income tax effects and additional
+disclosure regarding the cash flow effects resulting from share-based payment
+arrangements. SFAS 123R is effective beginning in our first quarter of fiscal
+2006. The Company is currently assessing the impact of the adoption of SFAS 123R
+on its results of operations and financial condition.
+
+ITEM 3. QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+      At March 31, 2005, the Company had $1.0 million in debt outstanding. This
+balance includes an amount outstanding under the Company's capital expenditure
+loan for $0.4 million. The revolving credit facility, and the capital
+expenditure loan bear an interest rate using the commercial bank's "floating
+reference rate" as the basis, as defined in the loan agreement, and therefore is
+subject to additional expense should there be an increase in market interest
+rates.
+
+      The Company had no holdings of derivative financial or commodity
+instruments at March 31, 2005. Allied Healthcare Products has international
+sales; however these sales are denominated in U.S. dollars, mitigating foreign
+exchange rate fluctuation risk.
+
+ITEM 4. CONTROLS AND PROCEDURES
+
+Evaluation of Disclosure Controls and Procedures
+
+      (a) As of March 31, 2005, the Company, under the supervision, and with the
+participation, of its management, including its principal executive officer and
+principal financial officer, performed an evaluation of the Company's disclosure
+controls and
+
+                                       20
+<PAGE>
+
+procedures, as contemplated by Securities Exchange Act Rule 13a-15. Based on
+that evaluation, the Company's principal executive officer and principal
+financial officer concluded that such disclosure controls and procedures were
+effective as of March 31, 2005.
+
+      (b) There has been no change in our internal controls over financial
+reporting during the quarter ended March 31, 2005, that has materially affected,
+or is reasonably likely to materially affect, our internal control over
+financial reporting.
+
+                                       21
+<PAGE>
+
+Part II. OTHER INFORMATION
+
+ITEM 6. EXHIBITS
+
+(a) Exhibits:
+
+      31.1 Certification by Chief Executive Officer pursuant to Rule 13a-14(a).
+
+      31.2 Certification by Chief Financial Officer pursuant to Rule 13a-14(a).
+
+      32.1 Certification by Chief Executive Officer pursuant to Section 906 of
+Sarbanes-Oxley Act of 2002.
+
+      32.2 Certification by Chief Financial Officer pursuant to Section 906 of
+Sarbanes-Oxley Act of 2002.
+
+      99.1 Press Release dated May 2, 2005 announcing third quarter earnings.
+
+                                       22
+<PAGE>
+
+SIGNATURE
+
+      Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                     ALLIED HEALTHCARE PRODUCTS, INC.
+
+                                     /s/ Daniel C. Dunn
+                                     --------------------------
+                                     Daniel C. Dunn
+                                      Chief Financial Officer
+
+                                     Date: May 2, 2005
+
+                                       23
+<PAGE>
+
+                                 EXHIBIT INDEX
+
+<TABLE>
+<CAPTION>
+EXHIBIT NO.                         DESCRIPTION
+-----------                         -----------
+<S>            <C>
+  31.1         Certification by Chief Executive Officer pursuant to Rule 13a-14(a).
+
+  31.2         Certification by Chief Financial Officer pursuant to Rule 13a-14(a).
+
+  32.1         Certification by Chief Executive Officer pursuant to Section 906 of
+               Sarbanes-Oxley Act of 2002.
+
+  32.2         Certification by Chief Financial Officer pursuant to Section 906 of
+               Sarbanes-Oxley Act of 2002.
+
+  99.1         Press Release dated May 2, 2005 announcing third quarter earnings.
+</TABLE>
+</TEXT>
+</DOCUMENT>

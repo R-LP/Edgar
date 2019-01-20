@@ -1,0 +1,2885 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>f10q_063004.txt
+<TEXT>
+
+
+
+                    As filed with the Securities and Exchange Commission
+--------------------------------------------------------------------------------
+                                on August 9, 2004
+--------------------------------------------------------------------------------
+                                  UNITED STATES
+                       SECURITIES AND EXCHANGE COMMISSION
+                             WASHINGTON, D.C. 20549
+--------------------------------------------------------------------------------
+
+                                    FORM 10-Q
+
+                QUARTERLY REPORT PURSUANT TO SECTION 13 OR 15(d)
+                     OF THE SECURITIES EXCHANGE ACT OF 1934
+
+For the quarterly period ended June 30, 2004      Commission File Number 0-17440
+
+                    FEDERAL AGRICULTURAL MORTGAGE CORPORATION
+             (Exact name of registrant as specified in its charter)
+
+
+      Federally chartered instrumentality
+             of the United States                       52-1578738
+        (State or other jurisdiction of             (I.R.S. employer
+        incorporation or organization)            identification number)
+
+        1133 Twenty-First Street, N.W.,
+                   Suite 600                            20036
+               Washington, D.C.
+        (Address of principal executive               (Zip code)
+                   offices)
+
+
+                                  (202) 872-7700
+              (Registrant's telephone number, including area code)
+                  -----------------------------------------------
+
+     Indicate  by check mark  whether the  Registrant  (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the  Securities  Exchange  Act of
+1934  during  the  preceding  12 months  (or for such  shorter  period  that the
+Registrant was required to file such reports),  and (2) has been subject to such
+filing requirements for the past 90 days.
+
+Yes   [X]               No    [  ]
+
+     Indicate by check mark whether the Registrant is an  accelerated  filer (as
+defined in Rule 12b-2 of the Exchange Act).
+
+Yes   [X]               No    [  ]
+
+     As of August 2, 2004,  there were 1,030,780 shares of Class A Voting Common
+Stock,  500,301 shares of Class B Voting Common Stock and  10,571,485  shares of
+Class C Non-Voting Common Stock outstanding.
+
+
+<PAGE>
+
+
+                         PART I - FINANCIAL INFORMATION
+
+Item 1. Condensed Consolidated Financial Statements
+
+     The following interim condensed  consolidated  financial  statements of the
+Federal  Agricultural  Mortgage  Corporation ("Farmer Mac" or the "Corporation")
+have been prepared,  without audit, pursuant to the rules and regulations of the
+Securities  and  Exchange  Commission.   These  interim  condensed  consolidated
+financial  statements reflect all normal and recurring  adjustments that are, in
+the  opinion  of  management,  necessary  to  present  a fair  statement  of the
+financial  condition and the results of operations  and cash flows of Farmer Mac
+for the interim periods presented.  Certain information and footnote disclosures
+normally  included  in  annual  consolidated   financial  statements  have  been
+condensed  or omitted as  permitted  by such rules and  regulations.  Management
+believes  that the  disclosures  are  adequate to present  fairly the  condensed
+consolidated  financial position,  condensed  consolidated results of operations
+and  condensed  consolidated  cash  flows as of the  dates  and for the  periods
+presented.  These condensed  consolidated financial statements should be read in
+conjunction with the audited 2003  consolidated  financial  statements of Farmer
+Mac included in the Corporation's  Annual Report on Form 10-K for the year ended
+December 31, 2003. Results for interim periods are not necessarily indicative of
+those that may be expected for the fiscal year.
+
+     The  following  information   concerning  Farmer  Mac's  interim  condensed
+consolidated  financial  statements is included in this report  beginning on the
+pages listed below:
+
+      Condensed Consolidated Balance Sheets as of June 30, 2004 and
+        December 31, 2003..............................................3
+      Condensed Consolidated Statements of Operations for the three
+         and six months ended June 30, 2004 and 2003...................4
+      Condensed Consolidated Statements of Cash Flows for the six
+         months ended June 30, 2004 and 2003...........................5
+      Notes to Condensed Consolidated Financial Statements.............6
+
+
+<PAGE>
+
+
+
+
+
+                          FEDERAL AGRICULTURAL MORTGAGE CORPORATION
+                            CONDENSED CONSOLIDATED BALANCE SHEETS
+                                        (unaudited)
+                                    (dollars in thousands)
+<TABLE>
+<CAPTION>
+                                                               June 30,      December 31,
+                                                                 2004           2003
+                                                             -------------  -------------
+<S>                                                        <C>            <C>
+Assets:
+   Cash and cash equivalents                                  $ 581,502      $ 623,674
+   Investment securities                                      1,061,475      1,064,782
+   Farmer Mac Guaranteed Securities                           1,384,814      1,508,134
+   Loans held for sale                                           24,243         46,662
+   Loans held for investment                                    919,645        942,929
+    Allowance for loan losses                                    (5,565)        (5,967)
+                                                             -------------  -------------
+     Loans, net                                                 938,323        983,624
+   Real estate owned, net of valuation allowance of
+    $0.5 million and $0.2 million                                 9,179         15,478
+   Financial derivatives                                          2,662            961
+   Interest receivable                                           51,216         58,423
+   Guarantee and commitment fees receivable                      18,554         16,885
+   Deferred tax asset, net                                       10,461         10,891
+   Prepaid expenses and other assets                             22,364         16,798
+                                                            -------------  -------------
+     Total Assets                                           $ 4,080,550    $ 4,299,650
+                                                            -------------  -------------
+Liabilities and Stockholders' Equity:
+Liabilities:
+   Notes payable:
+    Due within one year                                     $ 2,364,793    $ 2,799,384
+    Due after one year                                        1,360,338      1,136,110
+                                                             -------------  -------------
+     Total notes payable                                      3,725,131      3,935,494
+   Financial derivatives                                         51,566         67,670
+   Accrued interest payable                                      25,201         26,342
+   Guarantee and commitment obligation                           16,714         14,144
+   Accounts payable and accrued expenses                         22,692         29,574
+   Reserve for losses                                            13,187         13,172
+                                                             -------------  -------------
+     Total Liabilities                                        3,854,491      4,086,396
+
+Stockholders' Equity:
+   Preferred Stock:
+    Series A, stated at redemption/liquidation value,
+     $50 per share, 700,000 shares authorized,
+     issued and outstanding                                      35,000         35,000
+   Common Stock:
+    Class A Voting, $1 par value, no maximum authorization,
+     1,030,780 shares issued and outstanding                      1,031          1,031
+    Class B Voting, $1 par value, no maximum authorization,
+     500,301 shares issued and outstanding                          500            500
+    Class C Non-Voting, $1 par value, no maximum authorization,
+     10,565,918 and 10,522,513 shares issued and outstanding
+     as of June 30, 2004 and December 31, 2003                   10,566         10,523
+   Additional paid-in capital                                    89,546         88,652
+   Accumulated other comprehensive loss                            (214)        (2,295)
+   Retained earnings                                             89,630         79,843
+                                                             -------------  -------------
+     Total Stockholders' Equity                                 226,059        213,254
+                                                             -------------  -------------
+     Total Liabilities and Stockholders' Equity             $ 4,080,550    $ 4,299,650
+                                                             -------------  -------------
+
+         See accompanying notes to condensed consolidated financial statements.
+</TABLE>
+<PAGE>
+
+                              FEDERAL AGRICULTURAL MORTGAGE CORPORATION
+                           CONDENSED CONSOLIDATED STATEMENTS OF OPERATIONS
+                                            (unaudited)
+                              (in thousands, except per share amounts)
+<TABLE>
+<CAPTION>
+                                                    Three Months Ended                 Six Months Ended
+                                               -----------------------------   -----------------------------
+                                               June 30, 2004   June 30, 2003   June 30, 2004   June 30, 2003
+                                               -------------   -------------   -------------   -------------
+
+<S>                                            <C>             <C>              <C>              <C>
+Interest income:
+  Investments and cash equivalents              $ 8,109         $ 8,890          $ 16,445         $ 18,496
+  Farmer Mac Guaranteed Securities               16,239          18,688            32,866           38,200
+  Loans                                          12,565          13,288            26,690           26,137
+                                               -----------     -----------     ------------       ----------
+
+   Total interest income                         36,913          40,866            76,001           82,833
+
+Interest expense                                 29,074          31,501            58,695           63,594
+                                               -----------     -----------     ------------       ----------
+Net interest income                               7,839           9,365            17,306           19,239
+  Provision for loan losses                         230          (1,416)           (2,563)          (2,624)
+                                               -----------     -----------     ------------       ----------
+Net interest income after provision
+  for loan losses                                 8,069           7,949            14,743           16,615
+Guarantee and commitment fees                     5,251           5,111            10,473           10,205
+Gains/(Losses) on financial derivatives
+  and trading assets                             (6,152)          3,669            (2,903)           7,003
+Gain on sale of Farmer Mac Guaranteed Securities    367               -               367                -
+Gains/(Losses) on the sale of
+  real estate owned                                  30            (225)             (252)            (102)
+Miscellaneous income                              1,960             138             2,482              389
+                                               -----------     -----------     ------------       ----------
+   Total revenues                                 9,525          16,642            24,910           34,110
+                                               -----------     -----------     ------------       ----------
+Expenses:
+  Compensation and employee benefits              1,717           1,465             3,512            2,905
+  General and administrative                      1,820           1,213             3,893            2,404
+  Regulatory fees                                   649             382             1,061              765
+  REO operating costs, net                          268               -               343                -
+  Provision for losses                            1,845             472               668            1,490
+                                               -----------   ------------      -----------       ----------
+   Total operating expenses                       6,299           3,532             9,477            7,564
+                                               -----------   ------------      -----------       ----------
+Income before income taxes                        3,226          13,110            15,433           26,546
+Income tax expense                                  706           4,184             4,526            8,636
+                                              ---------- -   ------------      -----------       ----------
+Net income                                        2,520           8,926            10,907           17,910
+                                              ---------- -   ------------      -----------       ----------
+Preferred stock dividends                          (560)           (560)           (1,120)          (1,120)
+                                              ---------- -   ------------      -----------       ----------
+Net income available to common stockholders       1,960         $ 8,366           $ 9,787         $ 16,790
+                                              ---------- -   ------------      -----------       ----------
+Earnings per common share:
+  Basic earnings per common share                $ 0.16          $ 0.72            $ 0.81           $ 1.44
+  Diluted earnings per common share              $ 0.16          $ 0.70            $ 0.80           $ 1.40
+
+                   See accompanying notes to condensed consolidated financial statements.
+
+
+</TABLE>
+<PAGE>
+
+
+                                FEDERAL AGRICULTURAL MORTGAGE CORPORATION
+                              CONDENSED CONSOLIDATED STATEMENTS OF CASH FLOWS
+                                              (unaudited)
+                                            (in thousands)
+<TABLE>
+<CAPTION>
+                                                                                   Six Months Ended
+                                                                             ----------------------------
+                                                                             June 30, 2004  June 30, 2003
+                                                                             -------------  -------------
+<S>                                                                         <C>            <C>
+Cash flows from operating activities:
+  Net income                                                                    $ 10,907       $ 17,910
+  Adjustments to reconcile net income to net cash provided by
+   operating activities:
+   Net amortization of investment premiums and discounts                             906            281
+   Amortization of debt premiums, discounts and issuance costs                    13,791         18,615
+   Proceeds from repayment of trading investment securities                        2,516          5,207
+   Net change in fair value of trading securities and derivatives                  3,869         (7,635)
+   Amortization of settled financial derivatives contracts                           541            823
+   Gain on sale of Farmer Mac Guaranteed Securities                                 (367)             -
+   Losses on the sale of real estate owned                                           252            102
+   Total provision for losses                                                      3,231          4,114
+   Decrease in interest receivable                                                 7,207          9,105
+   (Increase)/decrease in guarantee and commitment fees receivable                (1,669)         1,290
+   Increase in other assets                                                       (7,913)       (40,428)
+   Increase in accrued interest payable                                           (1,141)          (407)
+   Increase/(decrease) in other liabilities                                       (8,287)        11,774
+                                                                              ------------   ------------
+     Net cash provided by operating activities                                    23,843         20,751
+
+Cash flows from investing activities:
+  Purchases of available-for-sale investment securities                         (359,853)      (400,675)
+  Purchases of Farmer Mac II Guaranteed Securities and
+   AgVantage bonds                                                               (80,216)      (130,410)
+  Purchases of loans                                                             (61,963)      (174,181)
+  Proceeds from repayment of investment securities                               359,157        257,685
+  Proceeds from repayment of Farmer Mac Guaranteed Securities                    149,958        195,586
+  Proceeds from repayment of loans                                                78,363        101,105
+  Proceeds from sale of loans and Farmer Mac Guaranteed Securities                63,408         35,084
+  Proceeds from sale of real estate owned                                          8,029          3,285
+                                                                              ------------   ------------
+   Net cash provided by/(used in) investing activities                           156,883       (112,521)
+
+Cash flows from financing activities:
+  Proceeds from issuance of discount notes                                    36,433,510     32,047,218
+  Proceeds from issuance of medium-term notes                                    650,881        155,027
+  Payments to redeem discount notes                                          (37,108,240)   (32,126,608)
+  Payments to redeem medium-term notes                                          (199,020)       (85,400)
+  Settlement of financial derivatives                                                154         (2,695)
+  Proceeds from common stock issuance                                                937          2,129
+  Preferred stock dividends                                                       (1,120)        (1,120)
+                                                                             ------------    ------------
+   Net cash used in financing activities                                        (222,898)       (11,449)
+                                                                             ------------    ------------
+  Net decrease in cash and cash equivalents                                      (42,172)      (103,219)
+
+  Cash and cash equivalents at beginning of period                               623,674        723,800
+                                                                             ------------    ------------
+  Cash and cash equivalents at end of period                                   $ 581,502     $ 620,581
+                                                                             ------------    ------------
+
+                See accompanying notes to condensed consolidated financial statements.
+
+</TABLE>
+
+<PAGE>
+
+
+                    NOTES TO CONDENSED CONSOLIDATED FINANCIAL STATEMENTS
+
+Note 1.  Accounting Policies
+
+(a)   Cash and Cash Equivalents
+
+     Farmer Mac considers  highly liquid  investment  securities  with remaining
+maturities  of  three  months  or  less  at the  time  of  purchase  to be  cash
+equivalents. Changes in the balance of cash and cash equivalents are reported in
+the Condensed  Consolidated  Statements of Cash Flows.  The following table sets
+forth information  regarding certain cash and non-cash  transactions for the six
+months ended June 30, 2004 and 2003.
+
+<TABLE>
+<CAPTION>
+                                                    Six Months Ended
+                                                        June 30,
+                                                   ------------------
+                                                     2004      2003
+                                                   -------   --------
+                                                     (in thousands)
+<S>                                              <C>       <C>
+Cash paid for:
+ Interest                                         $ 31,632  $ 30,652
+ Income taxes                                        5,500     6,750
+Non-cash activity:
+ Real estate owned acquired through foreclosure      5,732    18,310
+ Loans acquired and securitized as Farmer Mac
+   Guaranteed Securities                            51,908    35,171
+ Loans acquired from on-balance sheet Farmer Mac
+  Guaranteed Securities                              5,893    22,413
+</TABLE>
+
+            (b) Allowance for Losses
+
+     As of June 30, 2004,  Farmer Mac  maintained a $21.8 million  allowance and
+contingent  obligation  for probable  losses  ("allowance  for losses") to cover
+estimated  probable losses on loans held for investment,  real estate owned, and
+loans underlying post-1996 Act Farmer Mac I Guaranteed  Securities and long-term
+standby  purchase  commitments   ("LTSPCs")  in  accordance  with  Statement  of
+Financial  Accounting  Standard No. 5, Accounting for Contingencies  ("SFAS 5"),
+and Statement of Financial  Accounting Standard No. 114, Accounting by Creditors
+for  Impairment  of a  Loan,  as  amended  ("SFAS  114").  The  methodology  for
+determining  the allowance for losses is the same for loans held for  investment
+and loans underlying post-1996 Act Farmer Mac I Guaranteed Securities and LTSPCs
+because Farmer Mac believes the ultimate credit risk is substantially  the same,
+i.e.,  the  underlying  agricultural  mortgage  loans  all meet the same  credit
+underwriting and appraisal standards.
+
+     The allowance for losses is increased through periodic  provisions for loan
+losses that are charged  against net interest  income and  provisions for losses
+that are charged to operating  expense and is reduced by charge-offs  for actual
+losses,  net of  recoveries.  Charge-offs  represent  losses on the  outstanding
+principal  balance,  any  interest  payment  previously  accrued or advanced and
+expected costs of liquidation.
+
+     The table below  summarizes  the  components of Farmer Mac's  allowance for
+losses, which includes its contingent obligation for probable losses, as of June
+30, 2004 and December 31, 2003.
+
+<TABLE>
+<CAPTION>
+                                                              June 30,    December 31,
+                                                                2004          2003
+                                                            ------------  -----------
+                                                                  (in thousands)
+<S>                                                         <C>          <C>
+Allowance for loan losses                                     $ 5,565      $ 5,967
+Real estate owned valuation allowance                             545          238
+Reserve for losses:
+    On-balance sheet Farmer Mac I Guaranteed Securities         2,504        2,861
+    Off-balance sheet Farmer Mac I Guaranteed Securities        1,166        1,070
+    LTSPCs                                                      9,517        9,241
+Contingent obligation for probable losses                       2,501        2,676
+                                                            ------------  -----------
+    Total                                                    $ 21,798     $ 22,053
+                                                            ------------  -----------
+</TABLE>
+
+     No  allowance  for losses has been made for loans  underlying  Farmer Mac I
+Guaranteed  Securities issued prior to the Farm Credit System Reform Act of 1996
+(the "1996 Act") or securities  issued under the Farmer Mac II program  ("Farmer
+Mac II Guaranteed Securities").  Farmer Mac I Guaranteed Securities issued prior
+to the 1996 Act are supported by unguaranteed first loss subordinated interests,
+which are structured to exceed the estimated  credit losses on those loans.  The
+guaranteed portions of loans collateralizing Farmer Mac II Guaranteed Securities
+are  guaranteed by the United States  Department of Agriculture  ("USDA").  Each
+USDA  guarantee  is an  obligation  backed by the full  faith and  credit of the
+United  States.  To date,  Farmer Mac has  experienced  no credit  losses on any
+pre-1996  Act  Farmer  Mac I  Guaranteed  Securities  or on  any  Farmer  Mac II
+Guaranteed  Securities  and does not  expect  to incur  any such  losses  in the
+future.
+
+            (c) Financial Derivatives
+
+     Farmer Mac enters into  financial  derivative  transactions  principally to
+protect against risk from the effects of market price or interest rate movements
+on the value of certain assets and future cash flows or debt  issuance,  not for
+trading or  speculative  purposes.  Farmer Mac enters  into  interest  rate swap
+contracts  principally to adjust the  characteristics  of its short-term debt to
+match more closely the cash flow and duration characteristics of its longer-term
+mortgage  and  other  assets,  and also to  adjust  the  characteristics  of its
+long-term debt to match more closely the cash flow and duration  characteristics
+of  its  short-term   assets,   thereby  reducing   interest  rate  risk.  These
+transactions  also may provide an overall lower effective cost of borrowing than
+would otherwise be available in the conventional debt market.
+
+     All financial  derivatives  are recorded on the balance sheet at fair value
+as  a  freestanding  asset  or  liability.   Financial  derivatives  in  hedging
+relationships  that mitigate exposure to changes in the fair value of assets are
+considered  fair value hedges.  Financial  derivatives in hedging  relationships
+that mitigate the exposure to the  variability in expected  future cash flows or
+other  forecasted  transactions  are  considered  cash  flow  hedges.  Financial
+derivatives  that do not satisfy the hedging  criteria of Statement of Financial
+Accounting Standards No. 133, Accounting for Derivative  Instruments and Hedging
+Activities,  as amended ("SFAS 133") are not accounted for as hedges and changes
+in the fair  values of those  financial  derivatives  are  reported  as gains or
+losses on financial derivatives and trading assets in the condensed consolidated
+statements of operations.
+
+     The  following  table  summarizes   information  related  to  Farmer  Mac's
+financial derivatives as of June 30, 2004 and December 31, 2003:
+<TABLE>
+<CAPTION>
+
+                                                          June 30, 2004
+                   -----------------------------------------------------------------------------------------------
+                      Cash Flow Hedges        Fair Value Hedges      No Hedge Designation           Total
+                   ----------------------- ----------------------- ----------------------- -----------------------
+                    Notional   Fair Value   Notional   Fair Value   Notional   Fair Value   Notional   Fair Value
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+                                                           (in thousands)
+<S>                <C>       <C>          <C>         <C>         <C>        <C>         <C>           <C>
+Interest rate swaps:
+   Pay-fixed        $611,015  $ (36,246)       $ -         $ -      $ 14,254     $ (25)    $ 625,269    $ (36,271)
+   Receive-fixed         -          -        105,000     (4,068)     100,000    (4,415)      205,000       (8,483)
+   Basis             283,292     (3,169)         -           -       391,780      (239)      675,072       (3,408)
+   Other                  -         -            -           -        25,000       (23)       25,000          (23)
+Interest rate caps        -         -            -           -       210,000       -         210,000          -
+Agency forwards       69,720       (714)         -           -           470        (5)       70,190         (719)
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+Total               $964,027   $(40,129)   $ 105,000   $ (4,068)    $741,504  $ (4,707)   $1,810,531    $ (48,904)
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+</TABLE>
+
+<TABLE>
+<CAPTION>
+
+                                                        December 31, 2003
+                   -----------------------------------------------------------------------------------------------
+                      Cash Flow Hedges        Fair Value Hedges      No Hedge Designation           Total
+                   ----------------------- ----------------------- ----------------------- -----------------------
+                    Notional   Fair Value   Notional   Fair Value   Notional   Fair Value   Notional   Fair Value
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+                                                           (in thousands)
+<S>               <C>        <C>           <C>         <C>         <C>        <C>         <C>         <C>
+Interest rate swaps:
+   Pay-fixed       $ 636,213  $ (55,397)        $ -        $ -      $ 138,177  $ (2,023)    $ 774,390  $ (57,420)
+   Receive-fixed          -         -         145,000     (2,782)       -           -         145,000     (2,782)
+   Basis             307,621     (5,879)          -          -         14,296      (260)      321,917     (6,139)
+   Other                 -         -              -          -         25,000       (27)       25,000        (27)
+Interest rate caps       -         -              -          -        210,000       -         210,000        -
+Agency forwards       54,196       (417)       26,332         76         -          -          80,528       (341)
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+
+Total              $ 998,030  $ (61,693)    $ 171,332   $ (2,706)   $ 387,473  $ (2,310)   $1,556,835   $ (66,709)
+                   ---------- -----------  ----------  ----------- ---------- ------------ ----------- -----------
+
+</TABLE>
+
+     As of June 30,  2004,  Farmer Mac had  approximately  $30.9  million of net
+after-tax  unrealized  losses on cash flow hedges included in accumulated  other
+comprehensive income/(loss). These amounts will be reclassified into earnings in
+the same  period or  periods  during  which the hedged  forecasted  transactions
+(either  the payment of interest  or the  issuance  of  discount  notes)  affect
+earnings  or  immediately  when it becomes  probable  that the  original  hedged
+forecasted  transaction  will not occur  within  two  months  of the  originally
+specified  date.  Over the next twelve  months,  Farmer Mac estimates  that $5.3
+million of the amount  currently  reported in  accumulated  other  comprehensive
+income/(loss) will be reclassified into earnings. For the quarter ended June 30,
+2004,  any  ineffectiveness  related  to  Farmer  Mac's  designated  hedges  was
+insignificant.
+
+            (d) Earnings Per Common Share
+
+     Basic earnings per common share are based on the weighted-average number of
+common shares  outstanding.  Diluted  earnings per common share are based on the
+weighted-average  number of common  shares  outstanding  adjusted to include all
+potentially  dilutive common stock options.  The following  schedule  reconciles
+basic and diluted  earnings  per common share for the three and six months ended
+June 30, 2004 and 2003:
+
+<TABLE>
+<CAPTION>
+                                      June 30, 2004                 June 30, 2003
+                               ----------------------------  ----------------------------
+                                        Dilutive                      Dilutive
+                                Basic     stock    Diluted    Basic     stock    Diluted
+                                 EPs     options     EPs       EPs     options     EPs
+                               ----------------------------  ----------------------------
+                                       (in thousands, except per share amounts)
+<S>                          <C>          <C>     <C>        <C>        <C>    <C>
+Three Months Ended:
+  Net income available to     $ 1,960              $ 1,960    $ 8,366           $ 8,366
+   common stockholders
+  Weighted average shares      12,089      131      12,220     11,697    262     11,959
+  Earnings per common share    $ 0.16               $ 0.16     $ 0.72            $ 0.70
+
+Six Months Ended:
+  Net income available to     $ 9,787              $ 9,787    $16,790           $16,790
+   common stockholders
+  Weighted average shares      12,077      169      12,246     11,668    294     11,962
+  Earnings per common share    $ 0.81               $ 0.80     $ 1.44            $ 1.40
+
+</TABLE>
+
+            (e) Stock-Based Compensation
+
+     Farmer Mac accounts for its stock-based  employee  compensation plans using
+the intrinsic value method of accounting for employee stock options  pursuant to
+Accounting  Principles  Board  Opinion No. 25,  Accounting  for Stock  Issued to
+Employees,  and has adopted  the  disclosure-only  provisions  of  Statement  of
+Financial Accounting Standards No. 123, Accounting for Stock-Based Compensation,
+as amended ("SFAS 123"). Accordingly,  no compensation expense was recognized in
+second  quarter  2004 or second  quarter 2003 for employee  stock  options.  Had
+Farmer Mac elected to use the fair value method of accounting for employee stock
+options,  net income available to common stockholders and earnings per share for
+the three and six months  ended June 30, 2004 and 2003,  would have been reduced
+to the pro forma amounts indicated in the following table:
+
+<TABLE>
+<CAPTION>
+                                   Three Months Ended   Six Months Ended
+                                        June 30,            June 30,
+                                   ------------------   ----------------
+                                      2004     2003       2004     2003
+                                    -------- -------    -------- -------
+                                  (in thousands, except per share amounts)
+<S>                                <C>      <C>      <C>      <C>
+Net income available to common
+  stockholders, as reported         $ 1,960  $ 8,366    $ 9,787  $ 16,790
+Add back:  Restricted stock
+  compensation expense included in
+  reported net income, net of taxes       6      164         11      330
+Deduct:  Total stock-based employee
+  compensation expense determined
+  under fair value-based method
+  for all awards, net of tax           (486)  (2,519)      (491)  (2,685)
+Pro forma net income available to
+  common stockholders               -------- -------    -------- -------
+                                    $ 1,480  $ 6,011    $ 9,307 $ 14,435
+                                    -------- -------    -------- -------
+Earnings per common share:
+  Basic - as reported                $ 0.16   $ 0.72    $ 0.81    $ 1.44
+  Basic - pro forma                  $ 0.12   $ 0.51    $ 0.77    $ 1.24
+
+  Diluted - as reported              $ 0.16   $ 0.70    $ 0.80    $ 1.40
+  Diluted - pro forma                $ 0.12   $ 0.50    $ 0.76    $ 1.21
+
+</TABLE>
+
+      The following table summarizes stock option activity for the three and six
+months ended June 30, 2004 and 2003:
+<TABLE>
+<CAPTION>
+                                                June 30, 2004         June 30, 2003
+                                           ---------------------- --------------------
+                                                      Weighted-              Weighted-
+                                                       Average               Average
+                                                       Exercise              Exercise
+                                            Shares      Price      Shares     Price
+                                           ---------- ----------- ---------- ---------
+<S>                                       <C>          <C>       <C>         <C>
+Three Months Ended:
+Outstanding, beginning of period           1,557,355    $  23.00  1,637,111   $ 19.45
+  Granted                                     90,000       22.11    343,104     22.40
+  Exercised                                  (26,000)      20.75   (159,834)     9.49
+  Canceled                                   (34,699)      22.26     (3,332)    29.10
+                                           ---------- ----------- ---------- ---------
+Outstanding, end of period                 1,586,656    $  23.01  1,817,049   $ 20.86
+                                           ---------- ----------- ---------- ---------
+Six Months Ended:
+Outstanding, beginning of period           1,575,980     $ 22.92  1,637,111   $ 19.45
+Granted                                       90,000       22.11    343,104     22.40
+Exercised                                    (42,124)      18.02   (159,834)     9.49
+Canceled                                     (37,200)      22.79     (3,332)    29.10
+                                           ---------- ----------- ---------- ---------
+Outstanding, end of period                 1,586,656     $ 23.01  1,817,049   $ 20.86
+                                           ---------- ----------- ---------- ---------
+Options exercisable at end of period       1,395,288              1,492,572
+                                           ----------             ----------
+</TABLE>
+
+            (f) Reclassifications
+
+      Certain reclassifications of prior period information were made to conform
+to the current period presentation.
+
+            (g) New Accounting Standards
+
+     In March 2004, the Emerging Issues Task Force ("EITF")  amended EITF 03-01,
+The Meaning of Other-Than-Temporary  Impairment, to introduce a three-step model
+to: (1) determine  whether an investment is impaired;  (2) evaluate  whether the
+impairment  is  other-than-temporary;  and (3) account for  other-than-temporary
+impairments. In part, this amendment requires companies to apply qualitative and
+quantitative  measures  to  determine  whether a decline  in the fair value of a
+security is other-than-temporary.  The amount of other-than-temporary impairment
+to be  recognized,  if any, will depend on market  conditions  and  management's
+intent and ability to hold  investments  until the  forecasted  recovery in fair
+value.  This amendment is effective for financial  periods  beginning after June
+15, 2004. Farmer Mac is evaluating this amendment and will adopt it beginning in
+third quarter 2004.
+
+     On January 1, 2003, Farmer Mac adopted the liability recognition provisions
+of the Financial  Accounting  Standards Board Interpretation No. 45, Guarantor's
+Accounting  and  Disclosure  Requirements  for  Guarantees,  Including  Indirect
+Guarantees of  Indebtedness  of Others ("FIN 45"),  which requires Farmer Mac to
+recognize,  at the  inception of a guarantee,  a liability for the fair value of
+its  obligation  to stand  ready to  perform  under the terms of each  guarantee
+agreement  and an asset that is equal to the fair value of the fees that will be
+received over the life of each  guarantee.  In December 2003, the Securities and
+Exchange Commission provided additional guidance on the "day two" accounting for
+these financial  instruments.  In accordance with this guidance,  Farmer Mac has
+adopted the amortized cost model for day two accounting  prospectively effective
+January 1, 2004.
+
+
+Note 2.  Farmer Mac Guaranteed Securities
+
+     The  following  table sets forth  information  about Farmer Mac  Guaranteed
+Securities retained by Farmer Mac as of June 30, 2004 and December 31, 2003.
+
+<TABLE>
+<CAPTION>
+
+                             June 30, 2004                           December 31, 2003
+                  -------------------------------------------------------------------------------
+                   Available-      Held-to-                    Available-    Held-to-
+                   for-Sale        Maturity        Total        for-Sale     Maturity     Total
+                  ------------ --------------  -------------   ----------- ----------- ----------
+                                                   (in thousands)
+<S>               <C>           <C>          <C>              <C>          <C>        <C>
+Farmer Mac I       $ 663,688      $ 51,423      $ 715,111      $ 779,560     $ 49,901    $ 829,461
+Farmer Mac II              -       669,703        669,703              -      678,673      678,673
+                  ------------ --------------  ------------   ------------ ----------- ------------
+   Total           $ 663,688     $ 721,126    $ 1,384,814      $ 779,560    $ 728,574  $ 1,508,134
+                  ------------ --------------  ------------   ------------ ----------- ------------
+Amortized cost     $ 627,821     $ 721,126    $ 1,348,947      $ 725,674    $ 728,574  $ 1,454,248
+Unrealized gains      35,867         5,972         41,839         53,902       14,434       68,336
+Unrealized losses          -             -              -            (16)           -          (16)
+                  ------------ --------------  ------------   ----------- ----------- -------------
+   Fair value      $ 663,688     $ 727,098     $ 1,390,786     $ 779,560    $ 743,008  $ 1,522,568
+                  ------------ --------------  ------------   ----------- ----------- -------------
+</TABLE>
+
+<PAGE>
+
+
+      The table below presents a sensitivity analysis for Farmer Mac's retained
+Farmer Mac Guaranteed Securities as of June 30, 2004.
+
+<TABLE>
+<CAPTION>
+                                                         June 30, 2004
+                                                   ----------------------------
+                                                     (dollars in thousands)
+
+<S>                                                       <C>
+Fair value of beneficial interests retained
+   in Farmer Mac Guaranteed Securities                     $ 1,390,786
+
+Weighted-average remaining life (in years)                         5.2
+
+Weighted-average prepayment speed (annual rate)                    8.1%
+   Effect on fair value of a 10% adverse change                 $ (376)
+   Effect on fair value of a 20% adverse change                 $ (705)
+
+Weighted-average discount rate                                     4.9%
+   Effect on fair value of a 10% adverse change              $ (18,836)
+   Effect on fair value of a 20% adverse change              $ (37,445)
+</TABLE>
+
+     These sensitivities are hypothetical.  As the figures indicate,  changes in
+fair value based on a 10 percent  variation in assumptions  generally  cannot be
+extrapolated because the relationship of the change in assumptions to the change
+in fair value may not be linear.  Also,  in this table the effect of a variation
+in a  particular  assumption  on the fair  value  of the  retained  interest  is
+calculated without changing any other assumption. In fact, changes in one factor
+may result in changes in another  (for  example,  increases  in market  interest
+rates may result in lower  prepayments),  which might amplify or counteract  the
+sensitivities.
+
+     The  table  below  presents  the  outstanding  principal  balances,  90-day
+delinquencies  and net credit  losses as of and for the  periods  indicated  for
+Farmer Mac Guaranteed Securities, loans, and LTSPCs.
+
+<TABLE>
+<CAPTION>
+                                   Outstanding Principal              90-Day
+                                         Amount                   Delinquencies (1)               Net Credit Losses
+                               --------------------------    --------------------------     ----------------------------
+                                  As of         As of           As of          As of           For the Six Months Ended
+                                 June 30,     December 31,     June 30,     December 31,               June 30,
+                               -----------    -----------    -----------    -----------     -----------       ----------
+                                  2004           2003           2004           2003            2004              2003
+                               -----------    -----------    -----------    -----------     -----------       ----------
+                                                                   (in thousands)
+<S>                           <C>           <C>              <C>            <C>             <C>              <C>
+On-balance sheet assets:
+  Farmer Mac I:
+    Loans                        $ 931,527     $ 976,280      $ 30,186       $ 28,089        $ 2,965            $ 842
+    Guaranteed Securities          680,592       777,134             -              -              -              180
+  Farmer Mac II:
+    Guaranteed Securities          669,296       678,229             -              -              -                -
+                               -----------    -----------    -----------    -----------     -----------       ----------
+    Total on-balance sheet     $ 2,281,415   $ 2,431,643      $ 30,186       $ 28,089        $ 2,965           $ 1,022
+                               -----------    -----------    -----------    -----------     -----------       ----------
+
+
+Off-balance sheet assets:
+  Farmer Mac I:
+    LTSPCs                     $ 2,390,779   $ 2,348,703       $ 2,587        $ 1,967            $ -               $ -
+    Guaranteed Securities          921,338       952,134             -              -              -                 -
+  Farmer Mac II:
+    Guaranteed Securities           46,454        51,241             -              -              -                 -
+                               -----------    -----------    -----------    -----------     -----------       ----------
+    Total off-balance sheet    $ 3,358,571   $ 3,352,078       $ 2,587        $ 1,967            $ -               $ -
+                               -----------    -----------    -----------    -----------     -----------       ----------
+    Total                      $ 5,639,986   $ 5,783,721      $ 32,773       $ 30,056        $ 2,965           $ 1,022
+                               -----------    -----------    -----------    -----------     -----------       ----------
+<FN>
+     (1)  Includes  loans  and  loans  underlying  post-1996  Act  Farmer  Mac I
+          Guaranteed   Securities  that  are  90  days  or  more  past  due,  in
+          foreclosure,   restructured  after  delinquency,   and  in  bankruptcy
+          excluding loans performing under either their original loan terms or a
+          court-approved bankruptcy plan.
+</FN>
+</TABLE>
+
+Note 3.  Off-Balance Sheet Guarantees and Long-Term Standby Purchase Commitments
+
+Overview
+
+     Farmer Mac offers  approved  agricultural  and rural  residential  mortgage
+lenders two  off-balance  sheet  alternatives  to increase  their  liquidity  or
+lending  capacity  while  retaining the cash flow  benefits of their loans:  (1)
+Farmer Mac Guaranteed Securities,  which are available through either the Farmer
+Mac I program or the Farmer Mac II program,  and (2) LTSPCs, which are available
+only  through  the Farmer Mac I program.  Both of these  alternatives  result in
+off-balance sheet transactions for Farmer Mac.
+
+
+Off-Balance Sheet Farmer Mac Guaranteed Securities
+
+     Periodically Farmer Mac transfers  agricultural  mortgage loans into trusts
+that are used as vehicles for the  securitization of the transferred  assets and
+the beneficial  interests in the trusts are sold to third party  investors.  The
+table  below  summarizes  certain  cash  flows  received  from and paid to these
+trusts.
+
+<TABLE>
+<CAPTION>
+                                          Six Months Ended June 30,
+                                       -------------------------------
+                                          2004              2003
+                                       ------------      ------------
+                                               (in thousands)
+<S>                                    <C>               <C>
+Proceeds from new securitizations       $ 51,908          $ 35,171
+Guarantee fees received                      688               807
+Purchases of assets from the trusts        2,433            24,001
+Servicing advances                            22               315
+Repayment of servicing advances               21                 -
+</TABLE>
+
+     The  following  table  presents the maximum  principal  amount of potential
+undiscounted  future  payments  that  Farmer Mac could be required to make under
+off-balance  sheet  Farmer Mac  Guaranteed  Securities  as of June 30,  2004 and
+December 31, 2003, not including  offsets  provided by any recourse  provisions,
+recoveries from third parties or collateral for the underlying loans.
+
+<TABLE>
+<CAPTION>
+           Outstanding Balance of Off-Balance Sheet
+               Farmer Mac Guaranteed Securities
+----------------------------------------------------------------
+                                         June 30,    December 31,
+                                           2004        2003
+                                       -----------  ------------
+                                           (in thousands)
+<S>                                    <C>         <C>
+Farmer Mac I Guaranteed Securities      $ 921,338   $ 952,134
+Farmer Mac II Guaranteed Securities        46,454      51,241
+                                       -----------  ------------
+    Total Farmer Mac I and II           $ 967,792   $ 1,003,375
+                                       -----------  ------------
+</TABLE>
+
+     As of June 30, 2004, the  weighted-average  remaining maturity of all loans
+underlying  off-balance  sheet Farmer Mac Guaranteed  Securities was 16.3 years.
+For the off-balance sheet Farmer Mac I Guaranteed  Securities that were executed
+on or before  December  31,  2002,  Farmer Mac has  recorded  an  allowance  for
+probable  losses of $1.2  million  as of June 30,  2004 and $1.1  million  as of
+December 31, 2003. For those securities that were issued or modified on or after
+January  1,  2003,  Farmer  Mac has  recorded  the  fair  value  of its  initial
+obligation  to stand ready under the  guarantee as a liability.  This  liability
+approximated  $4.8  million as of June 30, 2004 and $4.1  million as of December
+31, 2003 and is reported  in the  guarantee  and  commitment  obligation  on the
+condensed consolidated balance sheet.
+
+Long-Term Standby Purchase Commitments (LTSPCs)
+
+     An LTSPC is a commitment by Farmer Mac to purchase  eligible loans,  either
+for cash or in exchange for Farmer Mac I Guaranteed  Securities,  on one or more
+undetermined future dates.
+
+     As of June 30, 2004 and December 31, 2003, the maximum  principal amount of
+potential  undiscounted  future  payments  that Farmer Mac could be requested to
+make under LTSPCs,  not including  offsets provided by any recourse  provisions,
+recoveries from third parties or collateral for the underlying  loans,  was $2.4
+billion and $2.3  billion,  respectively.  For all LTSPC  transactions  to date,
+Farmer Mac has incurred a charge-off on one loan.
+
+     As of June 30, 2004, the  weighted-average  remaining maturity of all loans
+underlying LTSPCs was 14.7 years. For the LTSPCs that were executed on or before
+December 31, 2002,  Farmer Mac has recorded an allowance for probable  losses of
+$9.5 million as of June 30, 2004 and $9.2  million as of December 31, 2003.  For
+those  LTSPCs that were issued or modified on or after  January 1, 2003,  Farmer
+Mac has recorded the fair value of its initial  obligation  to stand ready under
+the commitment as a liability.  This liability  approximated  $9.4 million as of
+June 30, 2004 and $7.3  million as of December  31, 2003 and was included in the
+guarantee and commitment obligation on the condensed consolidated balance sheet.
+
+Note 4.  Comprehensive Income
+
+     Comprehensive  income is  comprised  of net income  plus  other  changes in
+stockholders'  equity not resulting  from  investments  by or  distributions  to
+stockholders.  The following table sets forth comprehensive income for the three
+and six months ended June 30, 2004 and 2003.
+
+<TABLE>
+<CAPTION>
+                                                        Three Months Ended          Six Months Ended
+                                                             June 30                    June 30
+                                                       --------------------       -------------------
+                                                         2004      2003              2004       2003
+                                                       --------------------       --------------------
+                                                                      (in thousands)
+<S>                                                   <C>        <C>              <C>        <C>
+Net income                                             $ 2,520    $ 8,926          $ 10,907   $ 17,910
+Other comprehensive income/(loss):
+   Available-for-sale securities:
+     Change in net unrealized gains                    (26,672)    13,395           (19,292)     8,538
+     Tax effect                                          9,335     (4,688)            6,752     (2,988)
+                                                       --------   --------          --------   --------
+      Net change from available-for-sale securities    (17,337)     8,707           (12,540)     5,550
+   Cash flow hedges:
+     Change in fair value, net of
+      reclassification adjustments                      41,642     (9,988)           22,494     (8,225)
+     Tax effect                                        (14,575)     3,496            (7,873)     2,879
+                                                       --------   --------          --------   --------
+      Net change from cash flow hedges                  27,067     (6,492)           14,621     (5,346)
+                                                       --------   --------          --------   --------
+Other comprehensive income/(loss)                        9,730      2,215             2,081        204
+                                                       --------   --------          --------   --------
+Comprehensive income                                  $ 12,250   $ 11,141          $ 12,988   $ 18,114
+                                                       --------   --------          --------   --------
+</TABLE>
+
+Note 5.  Investments
+
+     Farmer Mac's investment portfolio is comprised of the following:
+
+<TABLE>
+<CAPTION>
+                           June 30,         December 31,
+                             2004              2003
+                          -----------       -----------
+                                 (in thousands)
+<S>                      <C>               <C>
+Held-to-maturity             $ 10,604          $ 10,604
+Available-for-sale          1,039,096         1,039,673
+Trading                        11,775            14,505
+                          -----------       -----------
+                          $ 1,061,475       $ 1,064,782
+                          -----------       -----------
+</TABLE>
+
+     The amortized  cost and estimated fair values of investments as of June 30,
+2004 and December 31, 2003 were as follows.  Fair value was  estimated  based on
+quoted market prices.
+
+<TABLE>
+<CAPTION>
+                                                  June 30, 2004                                      December 31, 2003
+                            -------------------------------------------------- ---------------------------------------------------
+                             Amortized   Unrealized   Unrealized                Amortized    Unrealized   Unrealized
+                               Cost         Gain         Loss      Fair Value     Cost          Gain         Loss      Fair Value
+                            ----------  ------------ ------------ ------------ ----------   ------------ ------------ ------------
+                                                                        (in thousands)
+<S>                        <C>           <C>        <C>         <C>           <C>            <C>            <C>          <C>
+Cash investment in
+  fixed rate guaranteed
+  investment contract          $ 10,604      $ 8       $ -        $ 10,612       $ 10,604        $ 342          $ -       $ 10,946
+                            -----------   --------   ---------   -----------    -----------    --------     --------    -----------
+  Total held-to-maturity       $ 10,604      $ 8       $ -        $ 10,612       $ 10,604        $ 342          $ -       $ 10,946
+                            -----------   --------   ---------   -----------    -----------    --------     --------    -----------
+Floating rate
+  asset-backed securities     $ 113,547    $ 286    $ (906)      $ 112,927       $ 78,817        $ 682          $ -       $ 79,499
+Floating rate corporate
+  debt securities               396,085      340      (148)        396,277        370,145          573         (100)       370,618
+Fixed rate preferred
+  stock                         185,756   11,508         -         197,264        186,253       12,196            -        198,449
+Fixed rate
+  commercial paper               79,876        -         -          79,876        120,452            -            -        120,452
+Floating rate
+  municipal bonds                   -         -         -                -          2,820            -            -          2,820
+Floating rate mortgage-
+  backed securities             252,443      406        (97)        252,752        268,522         198         (885)       267,835
+                            ----------- --------   ---------     -----------    -----------    --------     --------    -----------
+  Total available-for-sale  $ 1,027,707 $ 12,540   $ (1,151)    $ 1,039,096    $ 1,027,009    $ 13,649       $ (985)   $ 1,039,673
+                            ----------- --------   ---------     -----------    -----------    --------     --------    -----------
+Adjustable rate mortgage-
+  backed securities            $ 11,780      $ 9     $ (14)       $ 11,775       $ 14,296        $ 209          $ -       $ 14,505
+                            ----------- --------   ---------     -----------    -----------    --------     --------    -----------
+  Total trading                $ 11,780      $ 9     $ (14)       $ 11,775       $ 14,296        $ 209          $ -       $ 14,505
+                            ----------- --------   ---------     -----------    -----------    --------     --------    -----------
+</TABLE>
+     The  amortized  cost,  fair  value and yield of  investments  by  remaining
+contractual  maturity  as of June  30,  2004 are set  forth  below.  Asset-  and
+mortgage-backed  securities  are  included  based  on  their  final  maturities,
+although the actual  maturities  may differ due to prepayments of the underlying
+assets or mortgages.  As of June 30, 2004 Farmer Mac owned one  held-to-maturity
+investment that matures after ten years with an amortized cost and fair value of
+$10.6 million and a yield of six percent.
+
+<TABLE>
+<CAPTION>
+                                Available-for-Sale                       Trading                              Total
+                      ----------------------------------- ------------------------------------ ------------------------------------
+                      Amortized Cost  Fair Value   Yield  Amortized Cost   Fair Value   Yield  Amortized Cost   Fair Value   Yield
+                      -------------- ------------ ------- --------------  ------------ ------- --------------  ------------ -------
+                                                                    (dollars in thousands)
+<S>                  <C>            <C>           <C>      <C>           <C>           <C>     <C>            <C>           <C>
+Due within one year     $ 125,072      $ 125,069   1.38%        $ -           $ -          -      $ 125,072      $ 125,069   1.38%
+Due after one year
+   through five years     315,901        316,097   1.49%          -             -          -        315,901        316,097   1.49%
+Due after five years
+   through ten years      128,649        133,806   6.03%          -             -          -        128,649        133,806   6.03%
+Due after ten years       458,085        464,124   3.02%     11,780         11,775      3.75%       469,865        475,899   3.04%
+                      -------------- ------------ ------- --------------  ------------ ------- --------------  ------------ ------
+   Total              $ 1,027,707    $ 1,039,096   2.73%   $ 11,780       $ 11,775      3.75%   $ 1,039,487    $ 1,050,871   2.74%
+                      -------------- ------------ ------- --------------  ------------ ------- --------------  ------------ ------
+</TABLE>
+
+
+Item 2. Management's  Discussion and Analysis of Financial Condition and Results
+        of Operations
+
+     You should  read the  following  Management's  Discussion  and  Analysis of
+Financial  Condition  and  Results of  Operations  in  conjunction  with (1) the
+condensed  consolidated  financial  statements and the related notes that appear
+elsewhere in this report and (2) Farmer Mac's Annual Report on Form 10-K for the
+fiscal year ended December 31, 2003.
+
+Special Note Regarding Forward-Looking Statements
+
+     Certain  statements  made in this report are  "forward-looking  statements"
+within  the  meaning of the  Private  Securities  Litigation  Reform Act of 1995
+pertaining  to  management's  current  expectations  as to Farmer  Mac's  future
+financial results, business prospects and business developments. Forward-looking
+statements  include,  without  limitation,   any  statement  that  may  predict,
+forecast,  indicate or imply future results,  performance or  achievements,  and
+typically are accompanied by, and identified with, such terms as  "anticipates,"
+"believes,"  "expects,"  "intends," "should" and similar phrases.  The following
+management's  discussion  and  analysis  includes   forward-looking   statements
+addressing Farmer Mac's:
+
+          o    prospects for earnings;
+          o    growth in loan  purchase,  guarantee,  LTSPC  and  securitization
+               volume;
+          o    trends in net interest income;
+          o    trends in provisions for losses;
+          o    changes in capital position; and
+          o    other business and financial matters.
+
+     Management's  expectations  for Farmer Mac's future  necessarily  involve a
+number  of   assumptions   and  estimates  and  the   evaluation  of  risks  and
+uncertainties. Various factors could cause Farmer Mac's actual results or events
+to differ  materially  from the  expectations  as  expressed  or  implied by the
+forward-looking statements, including uncertainties regarding:
+
+          o    the rate and direction of development of the secondary market for
+               agricultural mortgage loans;
+          o    the possible  establishment of additional statutory or regulatory
+               restrictions  or  constraints on Farmer Mac that could hamper its
+               growth or diminish its profitability;
+          o    legislative  or regulatory  developments  or  interpretations  of
+               Farmer Mac's statutory charter that could adversely affect Farmer
+               Mac  or  the  ability  or  motivation   of  certain   lenders  to
+               participate   in  its   programs   or  the   terms  of  any  such
+               participation,  or increase  the cost of  regulation  and related
+               corporate activities;
+          o    possible  reaction in the financial  markets to events  involving
+               government-sponsored enterprises other than Farmer Mac;
+          o    Farmer Mac's  access to the debt  markets at favorable  rates and
+               terms;
+          o    the possible effect of the risk-based capital requirement,  which
+               could, under certain circumstances, be in excess of the statutory
+               minimum capital requirement;
+          o    the rate of growth in agricultural mortgage indebtedness;
+          o    lender  interest in Farmer Mac credit products and the Farmer Mac
+               secondary market;
+          o    borrower   preferences  for  fixed-rate   agricultural   mortgage
+               indebtedness;
+          o    competitive  pressures in the purchase of  agricultural  mortgage
+               loans and the sale of agricultural mortgage-backed securities and
+               debt securities;
+          o    substantial changes in interest rates,  agricultural land values,
+               commodity prices,  export demand for U.S.  agricultural  products
+               and the general economy;
+          o    protracted adverse weather,  market or other conditions affecting
+               particular  geographic regions or particular  commodities related
+               to  agricultural  mortgage  loans backing Farmer Mac I Guaranteed
+               Securities or under LTSPCs;
+          o    the   willingness   of  investors   to  invest  in   agricultural
+               mortgage-backed securities; or
+          o    the  effects  on  the  agricultural   economy  or  the  value  of
+               agricultural real estate of any changes in federal assistance for
+               agriculture.
+
+     The foregoing factors are not exhaustive. Other sections of this report may
+include additional factors that could adversely affect Farmer Mac's business and
+its financial  performance.  Furthermore,  new risk factors  emerge from time to
+time and it is not possible for management to predict all such risk factors, nor
+assess the  effects of such  factors on Farmer  Mac's  business or the extent to
+which any factor, or combination of factors,  may cause actual results to differ
+materially  from the  expectations  expressed or implied by the  forward-looking
+statements.  In light of  these  potential  risks  and  uncertainties,  no undue
+reliance should be placed on any  forward-looking  statements  expressed in this
+report. Furthermore, Farmer Mac undertakes no obligation to release publicly the
+results  of  revisions  to any  forward-looking  statements  that may be made to
+reflect any future events or circumstances,  except as otherwise mandated by the
+Securities and Exchange Commission.
+
+Critical Accounting Policy and Estimates
+
+     The critical  accounting  policy that is both important to the portrayal of
+Farmer Mac's financial condition and results of operations and requires complex,
+subjective  judgments is the accounting policy for the allowance for losses. For
+a discussion of Farmer Mac's critical accounting policy, as well as Farmer Mac's
+use of  estimates  and  assumptions  that  affect the  amounts  reported  in the
+condensed  consolidated  financial  statements and related notes for the periods
+presented,  see "Management's Discussion and Analysis of Financial Condition and
+Results  of  Operations--Critical   Accounting  Policy  and  Estimates"  in  the
+Corporation's  Annual Report on Form 10-K for the year ended  December 31, 2003,
+filed with the SEC on March 15, 2004.
+
+Results of Operations
+
+     Overview.  Net income  available to common  stockholders for second quarter
+2004 was $2.0  million  or $0.16 per  diluted  common  share,  compared  to $8.4
+million or $0.70 per diluted common share for second quarter 2003. This decrease
+was principally  due to the decrease in the fair value of financial  derivatives
+as accounted for in accordance with SFAS 133, as explained below.  During second
+quarter 2004, Farmer Mac:
+
+          o    added $127.1 million of Farmer Mac I eligible loans under LTSPCs;
+          o    purchased $27.5 million of newly originated Farmer Mac I eligible
+               loans; and
+          o    purchased $34.7 million of Farmer Mac II eligible USDA-guaranteed
+               portions of loans.
+
+     USDA is currently  forecasting  national  farm cash receipts to increase to
+$215.0 billion in 2004 from the $212.4 billion  forecasted level in 2003. Prices
+available to farmers have been rising as a result of strong domestic and foreign
+demand.  Forecasted net cash income on farms for 2004 is $55.9  billion,  a $7.1
+billion decrease from 2003 forecasted levels of $63.0 billion,  but still higher
+than the $49.1 billion level of 2002.  The  forecasted  net cash income on farms
+for 2004 includes  government  payments of $10.3  billion,  as compared to $17.4
+billion in 2003 and $11.0 billion in 2002.
+
+     Despite  the  decline  in farm  income in 2004,  the rise in farm  business
+assets,  debt, and equity values is expected to continue  through the end of the
+year.  USDA  forecasts  the value of U.S.  farm real  estate  assets to rise 3.5
+percent to $1.13  trillion in 2004, up from $1.09  trillion in 2003.  Total farm
+real estate debt is expected to approach  $116.5  billion by the end of 2004,  a
+4.7 percent  increase over the 2003 level.  This more moderate rise in farm real
+estate  debt  follows  growth of 7.7  percent  in 2003 and 7.7  percent in 2002.
+Sector  equity is  expected  to rise more than 3  percent,  as the gain in asset
+values exceeds the increase in debt by approximately $36 billion.
+
+     The financial  measures  reflect farm  investors'  and lenders'  collective
+decisions about the long-term  expected  profitability  of farm  investments and
+agriculture  generally.  These expectations should be favorable for Farmer Mac's
+long-term  business  plans,  as they  indicate  increased  U.S. farm real estate
+values,  an expanding  mortgageable farm real estate base, and a stronger equity
+position in U.S. agriculture, which should in the aggregate improve Farmer Mac's
+ability to recover in foreclosures.
+
+     Farmer  Mac is  subject  to  interest  rate  risk on all  assets  held  for
+investment  because  of  possible  timing  differences  in the cash flows of the
+assets and related liabilities. This risk is primarily related to loans held and
+on-balance  sheet  Farmer Mac  Guaranteed  Securities  because of the ability of
+borrowers to prepay their  mortgages  before the scheduled  maturities,  thereby
+increasing  the  risk  of  asset  and  liability  cash  flow  mismatches.  Yield
+maintenance   provisions  and  other  prepayment  penalties  contained  in  many
+agricultural mortgage loans reduce, but do not eliminate,  this prepayment risk,
+particularly in the case of a defaulted loan where yield  maintenance may not be
+collected.
+
+     Farmer Mac's primary  exposure to credit risk is the risk of loss resulting
+from the inability of borrowers to repay their  mortgages in conjunction  with a
+deficiency in the value of the collateral  relative to the amount outstanding on
+the  mortgage  and  the  costs  of  liquidation.   Farmer  Mac  has  established
+underwriting,  appraisal and documentation  standards for agricultural  mortgage
+loans to  mitigate  the  risk of loss  from  borrower  defaults  and to  provide
+guidance  concerning the management,  administration and conduct of underwriting
+and  appraisals  to all  participating  sellers  and  potential  sellers  in its
+programs.
+
+     As of June 30,  2004,  Farmer  Mac's  outstanding  program  volume was $5.6
+billion, which represented  approximately 13 percent of management's estimate of
+a $44.5 billion market of eligible  agricultural  mortgage loans. For Farmer Mac
+to succeed in realizing its business  development and  profitability  objectives
+over  the  longer  term,  the use of  Farmer  Mac's  programs  and  products  by
+agricultural  mortgage lenders,  whether  traditional or  non-traditional,  must
+continue to expand.
+
+     In the  aggregate,  approximately  285 lenders were actively  participating
+either  directly or  indirectly in one or both of the Farmer Mac I or Farmer Mac
+II programs as of June 30, 2004, with loans to approximately 20,000 borrowers.
+
+     As of June 30, 2004, there were 144 approved loan sellers in the Farmer Mac
+I program  ranging from  single-office  to multi-branch  institutions,  spanning
+community banks,  Farm Credit System  associations,  mortgage  companies,  large
+multi-state Farm Credit System banks,  commercial banks and insurance companies.
+During  2003,  there were 81 approved  loan  sellers  active in the Farmer Mac I
+program. In addition to participating directly in the Farmer Mac I program, some
+of the approved loan sellers enable other lenders to  participate  indirectly in
+the Farmer Mac I program by  managing  correspondent  networks  of lenders  from
+which they purchase loans to sell to Farmer Mac. As of June 30, 2004,  more than
+75 lenders were participating in those networks, bringing the total Farmer Mac I
+program participants to more than 200 as of June 30, 2004.
+
+     Any lender  authorized by the USDA to obtain a USDA guarantee on a loan may
+be a seller in the Farmer Mac II program.  As of June 30,  2004,  there were 128
+active sellers in the Farmer Mac II program,  compared to 150 as of December 31,
+2003 and 143 as of June 30, 2003.  Sellers in the Farmer Mac II program  consist
+mostly of community and regional banks.
+
+     Set forth below is a more  detailed  discussion  of Farmer Mac's results of
+operations.
+
+     Net Interest Income. Net interest income,  which does not include guarantee
+fees for loans purchased prior to April 1, 2001 (the effective date of Statement
+of  Financial  Accounting  Standards  No.  140,  Accounting  for  Transfers  and
+Servicing of Financial Assets and  Extinguishments of Liabilities ("SFAS 140")),
+was $7.8 million for second  quarter  2004 and $17.3  million for the six months
+ended June 30, 2004,  compared to $9.4 million and $19.2 million,  respectively,
+for the same periods in 2003. The net interest yield was 87 basis points for the
+six months ended June 30,  2004,  compared to 95 basis points for the six months
+ended  June  30,   2003.   The  effect  of  the  adoption  of  SFAS  140  was  a
+reclassification  of  approximately  $2.2 million (11 basis points) of guarantee
+fee income as interest  income for the six months ended June 30, 2004,  compared
+to $2.2 million (11 basis points) for the six months ended June 30, 2003.
+
+     As a result of the application of additional  guidance  provided in 2003 by
+the Chief  Accountant at the U.S.  Securities and Exchange  Commission,  the net
+interest income and expense  realized on financial  derivatives  that are not in
+fair  value or cash flow hedge  relationships  have been  reclassified  from net
+interest  income  into gains and losses on  financial  derivatives  and  trading
+assets.  For the six months ended June 30, 2004 and 2003, this  reclassification
+resulted in the  decrease  of the net  interest  yield of 5 basis  points and an
+increase of 3 basis points, respectively.
+
+     The net  interest  yields for the six months  ended June 30,  2004 and 2003
+included the benefits of yield maintenance payments received of 12 basis points.
+Yield  maintenance  payments  represent  the present  value of  expected  future
+interest  income streams and accelerate the  recognition of interest income from
+the  related  loans.  Because  the timing and  amounts  of these  payments  vary
+greatly,  variations should not be considered indicative of positive or negative
+trends to gauge future financial results. For the six months ended June 30, 2004
+and 2003,  the effects of yield  maintenance  payments on net income and diluted
+earnings per share were $1.6 million or $0.13 per diluted share and $1.7 million
+or $0.14 per diluted share, respectively.
+
+     The following table provides information regarding the average balances and
+rates of  interest-earning  assets and funding for the six months ended June 30,
+2004 and 2003.  The  balance of  non-accruing  loans is  included in the average
+balance  of  interest-earning  loans  presented,  though  no  related  income is
+included in the income figures presented. The decreases in the average rates for
+cash and cash equivalents  reflect their short-term nature. The decreases in the
+average rates for  investments  and loans and Farmer Mac  Guaranteed  Securities
+reflect the  relatively  large  proportion  of  adjustable  rates in those asset
+categories (69.9 percent of investments and 65.8 percent of loans and Farmer Mac
+Guaranteed Securities). The decrease in the average rate for discount notes also
+reflects their short-term  nature. The decreases in all of these rates track the
+general decrease in market rates between the two periods.
+
+<TABLE>
+<CAPTION>
+                                                          Six Months Ended June 30,
+                                      ----------------------------------------------------------------------
+                                                      2004                              2003
+                                      ----------------------------------  ----------------------------------
+                                       Average     Income/     Average     Average     Income/     Average
+                                       Balance     Expense       Rate      Balance     Expense       Rate
+                                      ----------------------------------  ----------------------------------
+                                                           (dollars in thousands)
+<S>                                 <C>            <C>          <C>     <C>          <C>          <C>
+                                      $ 636,504     $ 3,606      1.13%     $ 712,539   $ 4,744     1.33%
+                                        995,617      12,839      2.58%       889,142    13,752     3.09%
+                                      2,343,805      59,556      5.08%     2,438,231    64,337     5.28%
+                                      ----------    --------    -------    ----------  --------   -------
+Total interest-earning assets         3,975,926      76,001      3.82%     4,039,912    82,833     4.10%
+                                      ----------    --------               ----------  --------
+Notes payable due within one year     2,294,421      25,630      2.23%     2,752,969    32,330     2.35%
+Notes payable due after one year      1,489,571      33,065      4.44%     1,121,492    31,264     5.58%
+                                      ----------    --------    -------    ----------  --------   -------
+Total interest-bearing liabilities    3,783,992      58,695      3.10%     3,874,461    63,594     3.28%
+Net non-interest-bearing funding        191,934                              165,451
+                                      ----------    --------    -------    ----------  --------   -------
+Total funding                        $ 3,975,926     58,695      2.95%   $ 4,039,912    63,594     3.15%
+                                      ----------    --------    -------    ----------  --------   -------
+                                                    $ 17,306     0.87%                $ 19,239     0.95%
+                                                    --------    -------                --------   -------
+</TABLE>
+
+
+     The  following  table sets forth  information  regarding the changes in the
+components of Farmer Mac's net interest  income for the periods  indicated.  For
+each  category,  information is provided on changes  attributable  to changes in
+volume (change in volume  multiplied by old rate) and changes in rate (change in
+rate  multiplied  by old  volume).  Combined  rate/volume  variances,  the third
+element of the  calculation,  are allocated  based on their  relative  size. The
+decreases due to rate reflect the short-term or  adjustable-rate  nature of most
+assets or liabilities and the general decreases in market rates described above.
+
+<TABLE>
+<CAPTION>
+                                                  Six Months Ended June 30, 2004
+                                                   Compared to Six Months Ended
+                                                          June 30, 2003
+                                              ----------------------------------------
+                                                    Increase/(Decrease) Due to
+                                              ----------------------------------------
+                                                 Rate          Volume         Total
+                                               ----------     ----------    ---------
+                                                           (in thousands)
+<S>                                           <C>              <C>        <C>
+Income from interest-earning assets
+  Cash and cash equivalents                      $ (663)        $ (475)    $ (1,138)
+  Investments                                    (2,445)         1,532         (913)
+  Loans and Farmer Mac Guaranteed Securities     (2,337)        (2,444)      (4,781)
+                                               ----------     ----------    ---------
+   Total                                         (5,445)        (1,387)      (6,832)
+  Expense from interest-bearing liabilities      (3,438)        (1,461)      (4,899)
+                                               ----------     ----------    ---------
+  Change in net interest income                $ (2,007)          $ 74     $ (1,933)
+                                               ----------     ----------    ---------
+</TABLE>
+
+     See  "Management's  Discussion  and  Analysis of  Financial  Condition  and
+Results of  Operations--Regulatory  Matters" for actions by Farmer Mac's federal
+regulator,  the Farm Credit Administration  ("FCA"), that may potentially affect
+future net interest income.
+
+     Guarantee and  Commitment  Fees.  Guarantee and  commitment  fees were $5.3
+million for second  quarter  2004,  compared to $5.1 million for second  quarter
+2003. The increase in guarantee and commitment  fees reflects an increase in the
+average  balance  of  outstanding  guarantees  and  LTSPCs.  The  effects of the
+adoption  of SFAS 140  reclassified  $1.1  million  of  guarantee  fee income as
+interest  income  for second  quarter  2004 and second  quarter  2003,  although
+management  considers  the amount to have been earned in  consideration  for the
+assumption of credit risk.  That portion of the  difference or "spread"  between
+the cost of Farmer Mac's debt  funding for loans and the yield on post-1996  Act
+Farmer Mac I Guaranteed  Securities held on its books compensates for credit and
+interest rate risk. If a post-1996 Act Farmer Mac I Guaranteed  Security is sold
+to a third party, Farmer Mac continues to receive the guarantee fee component of
+that spread,  which  continues to  compensate  Farmer Mac for its  assumption of
+credit risk. The portion of the spread that  compensates  for interest rate risk
+would not  typically  continue  to be  received  by Farmer Mac if the asset were
+sold, except to the extent attributable to any retained interest-only strip.
+
+     Farmer Mac's  ongoing  guarantee  and  commitment  fee income  reflects the
+annuity-like revenue stream of that aspect of the Corporation's  business.  That
+fee  income  is  earned  on the  cumulative  outstanding  principal  balance  of
+guaranteed  securities and loans underlying LTSPCs.  Accordingly,  GAAP earnings
+increase or decrease  through changes in periodic  business volume in proportion
+to  the  change  in  that  cumulative  outstanding  principal  balance,  not  in
+proportion to the change in periodic volume.
+
+     Other  Income.  During  second  quarter  2004,  through a  competitive  bid
+process, the Corporation sold Farmer Mac Guaranteed  Securities in the amount of
+$26.9  million  to a related  party in a  transaction  that  resulted  in a $0.4
+million gain on sale. Also during the quarter,  Farmer Mac received $1.8 million
+from  two  sellers  (one  of  which  was  a  related   party)  for  breaches  of
+representations  and  warranties  associated  with prior  sales of  agricultural
+mortgage  loans to Farmer  Mac.  Farmer  Mac had  previously  charged  off these
+amounts as losses on the associated loans.
+
+     Expenses.  Compensation and employee  benefits for second quarter 2004 were
+$1.7  million,  compared to $1.5 million for second  quarter  2003.  General and
+administrative  expenses for second quarter 2004 were $1.8 million,  compared to
+$1.2 million for second quarter 2003. The increases in compensation and employee
+benefits and general and  administrative  expenses  were due, in large part,  to
+increased  staffing  levels  necessary  for  increased   regulatory   compliance
+activities, including requirements of the Sarbanes-Oxley Act of 2002 and FCA, as
+well as heightened focus on the regulatory environment for  government-sponsored
+enterprises  generally.  Regulatory fees assessed by FCA for second quarter 2004
+and 2003 were $0.6  million  and $0.4  million,  respectively.  FCA has  advised
+Farmer Mac that its estimated assessment level for the year ending September 30,
+2004 will be $1.7 million.  After the end of a federal  government  fiscal year,
+FCA may revise its prior year  estimated  assessments  to reflect  actual  costs
+incurred, and has issued both additional assessments and refunds in the past.
+
+     Farmer Mac's total provision for losses was $1.6 million for second quarter
+2004, compared to $1.9 million for second quarter 2003. (See "--Quantitative and
+Qualitative   Disclosures  About  Market  Risk   Management--Credit   Risk"  for
+additional information regarding Farmer Mac's provision for losses and provision
+for loan losses.) As of June 30, 2004,  Farmer Mac's total  allowance for losses
+totaled  $21.8  million,  or 0.45  percent  of  outstanding  loans held or loans
+underlying post-1996 Act Farmer Mac I Guaranteed Securities and LTSPCs, compared
+to $22.1  million (0.44 percent of  outstanding  loans held or loans  underlying
+post-1996 Act Farmer Mac I Guaranteed  Securities and LTSPCs) as of December 31,
+2003.
+
+     Gains and Losses on Financial  Derivatives and Trading  Assets.  For second
+quarter  2004,  the loss on financial  derivatives  and trading  assets was $6.2
+million, compared to a gain of $3.7 million for second quarter 2003. The loss in
+second quarter 2004 and the gain in second quarter 2003 resulted  primarily from
+fluctuations  in the  fair  values  of  financial  derivatives,  resulting  from
+movements in interest rates,  that have not been designated in either fair value
+or cash flow hedge relationships in accordance with SFAS 133.
+
+     Non-GAAP Performance Measures.  Farmer Mac reports its financial results in
+accordance with GAAP. In addition to GAAP measures,  Farmer Mac presents certain
+non-GAAP  performance  measures.  Farmer  Mac uses  these  non-GAAP  performance
+measures to develop financial plans, to measure corporate economic  performance,
+and to set incentive compensation.  As described below, because FASB has adopted
+a mixed  attribute  accounting  model that does not  reflect the  economics  for
+transactions  involving  Farmer Mac's callable swaps,  in management's  view the
+non-GAAP  measures  provide  a more  accurate  representation  of  Farmer  Mac's
+economic performance,  transaction economics and business trends.  Investors and
+the investment analyst community have previously relied upon similar measures to
+evaluate  performance and issue projections.  These non-GAAP disclosures are not
+intended to replace GAAP information but, rather, to supplement it.
+
+     One such non-GAAP  measure is core earnings,  which Farmer Mac developed to
+present net income less the after-tax effects of SFAS 133. Core earnings for the
+three and six months  ended June 30, 2004 were $6.2  million and $12.1  million,
+respectively,  compared to $5.8 million and $11.7  million for the three and six
+months ended June 30, 2003. The  reconciliation  of GAAP net income available to
+common stockholders to core earnings is presented in the following table:
+
+<TABLE>
+<CAPTION>
+      Reconciliation of GAAP Net Income Available to Common Stockholders to Core Earnings
+------------------------------------------------------------------------------------------------------
+                                         Three Months Ended                    Six Months Ended
+                                   --------------------------------    -------------------------------
+                                    June 30, 2004    June 30, 2003      June 30, 2004   June 30, 2003
+                                   ---------------  ---------------    --------------- ---------------
+                                                            (in thousands)
+<S>                                   <C>              <C>             <C>              <C>
+GAAP net income available
+   to common stockholders              $ 1,960          $ 8,366          $ 9,787         $ 16,790
+
+Less the effects of SFAS 133:
+   Unrealized gains/(losses)
+    on financial derivatives and
+    trading assets, net of tax          (4,336)           2,521           (2,511)           4,963
+   Benefit from non-amortization
+    of premium payments
+    on financial derivatives,
+    net of tax                              76               81              152              162
+
+                                   ------------      -----------      -------------     -----------
+Core earnings                          $ 6,220          $ 5,764         $ 12,146         $ 11,665
+                                   ------------      -----------      -------------     -----------
+</TABLE>
+
+     Business  Volume.  The following  tables set forth the amount of all Farmer
+Mac I and  Farmer  Mac II loan  purchase  and  guarantee  activities  for  newly
+originated and current seasoned loans during the periods indicated.
+
+
+
+<TABLE>
+<CAPTION>
+                                                   Three Months Ended           Six Months Ended
+                                                        June 30,                    June 30,
+                                                -----------------------     ----------------------
+                                                  2004          2003          2004         2003
+                                                ----------    ---------     ---------    ---------
+                                                                  (in thousands)
+<S>                                             <C>          <C>           <C>          <C>
+Loan purchase and guarantee and
+   commitment activity:
+   Farmer Mac I:
+     Loans                                       $ 27,520     $ 65,615      $ 52,964     $124,669
+     LTSPCs                                       127,098      179,025       274,371      345,599
+   Farmer Mac II Guaranteed Securities             34,671       77,636        69,154      119,529
+                                                ----------    ---------     ---------    ---------
+     Total purchases, guarantees
+       and commitments                          $ 189,289     $322,276      $ 396,489    $589,797
+                                                ----------    ---------     ---------    ---------
+
+Farmer Mac I Guaranteed Securities issuances:
+   Retained                                           $ -          $ -           $ -          $ -
+   Sold                                            24,705       21,910        51,908       35,171
+                                                ----------    ---------     ---------    ---------
+     Total                                       $ 24,705     $ 21,910      $ 51,908     $ 35,171
+                                                ----------    ---------     ---------    ---------
+</TABLE>
+
+     To fulfill its guarantee and commitment  obligations,  Farmer Mac purchases
+delinquent loans  underlying  Farmer Mac Guaranteed  Securities and LTSPCs.  The
+decreases in defaulted  loans  purchased and in defaulted  loans  transferred to
+loans  reflect a  reduction  in newly  delinquent  loans  underlying  Farmer Mac
+Guaranteed Securities and LTSPCs. The following table presents Farmer Mac's loan
+purchases of newly  originated and current  seasoned  loans and defaulted  loans
+purchased underlying Farmer Mac I Guaranteed Securities and LTSPCs.
+
+<TABLE>
+<CAPTION>
+                                         Three Months Ended          Six Months Ended
+                                              June 30,                    June 30,
+                                       ---------------------      --------------------
+                                         2004         2003           2004       2003
+                                       -------      --------      --------    --------
+                                                       (in thousands)
+<S>                                   <C>        <C>            <C>        <C>
+Farmer Mac I newly originated
+and current seasoned loan purchases    $27,520    $ 65,615       $ 52,964   $ 124,669
+
+Defaulted loans purchased from
+   off-balance sheet Farmer Mac I
+   Guaranteed Securities                 1,387         523          2,433      24,001
+
+Defaulted loans transferred from
+   on-balance sheet Farmer Mac I
+   Guaranteed Securities                 1,149       2,394          5,893      22,413
+
+Defaulted loans purchased
+   from LTSPCs                             673       2,239            673       3,098
+                                       -------    --------       --------    ---------
+Total loan purchases                   $30,729    $ 70,771       $ 61,963    $ 174,181
+                                       -------    --------       --------    ---------
+</TABLE>
+
+     The  weighted-average  age of the Farmer Mac I newly originated and current
+seasoned loans purchased  during second quarter 2004 and second quarter 2003 was
+less than one month. Of the Farmer Mac I newly  originated and current  seasoned
+loans  purchased  during second quarter 2004 and second quarter 2003, 80 percent
+and 75 percent, respectively, had principal amortization periods longer than the
+maturity   date,   resulting   in  balloon   payments   at   maturity,   with  a
+weighted-average  remaining  term to  maturity  of 15.2  years  and 15.1  years,
+respectively.  The  weighted-average  age of delinquent  loans  purchased out of
+securitized  pools and LTSPCs during second quarter 2004 and second quarter 2003
+was 5.0 years and 6.1 years, respectively.
+
+     As of June 30, 2004, outstanding commitments to purchase Farmer Mac I loans
+totaled $5.4  million,  compared to $10.7  million as of June 30,  2003.  Of the
+total Farmer Mac I commitments  outstanding  as of June 30, 2004 and 2003,  $5.4
+million  and $3.6  million,  respectively,  were  mandatory  commitments.  Loans
+submitted  for  approval or approved but not yet  committed to purchase  totaled
+$18.7  million as of June 30,  2004,  compared  to $59.8  million as of June 30,
+2003.  Not all of these  loans will be  purchased,  as some will  ultimately  be
+denied for credit reasons or withdrawn by the seller.
+
+     New business volume for second quarter 2004 was $189.3 million, down $133.0
+million from the same period in 2003. Presently,  Farmer Mac's new business with
+agricultural mortgage lenders has been slowed by:
+
+          o    reduced growth rates in the agricultural mortgage market;
+          o    increased liquidity of agricultural borrowers;
+          o    increased  capital and liquidity at those  agricultural  mortgage
+               lenders in the current interest rate and regulatory environments;
+               and
+          o    increased    regulatory    pressure    on    government-sponsored
+               enterprises.
+
+     Regulatory  actions by the Farm Credit  Administration  (FCA),  the federal
+regulator of both Farmer Mac and the primary  lenders in the Farm Credit  System
+(FCS)  and  the  Farm  Credit  System  Insurance  Corporation  (FCSIC),  a  U.S.
+Government  controlled  corporation managed by a three-member board of directors
+composed of the members of the FCA Board,  may diminish  Farmer  Mac's  business
+prospects.  Statements by either FCA or FCSIC,  or both,  have  cautioned  other
+entities they regulate about doing business with GSEs, including Farmer Mac, and
+have  raised  objections  to FCS  institutions'  use of Farmer  Mac  swaps.  See
+"Management's  Discussion  and  Analysis of Financial  Condition  and Results of
+Operations--Regulatory  Matters" for other  actions by FCA that may  potentially
+affect existing and future business volume.
+
+     Notwithstanding  the developments  described above, Farmer Mac continues to
+see promising new business opportunities, with marketing initiatives advanced by
+new and expanded business relationships, including a strategic alliance, product
+enhancements and refined security structures.
+
+Balance Sheet Review
+
+     During the six months ended June 30, 2004, total assets decreased by $219.1
+million from December 31, 2003,  with  decreases in program  assets  (Farmer Mac
+Guaranteed  Securities  and loans) of $169.0  million.  For further  information
+regarding off-balance sheet program activities, see "--Off-Balance Sheet Program
+Activities"  below.  Consistent  with the  decrease in total  assets  during the
+period, total liabilities  decreased by $231.9 million from December 31, 2003 to
+June 30, 2004.
+
+     During the six months ended June 30, 2004,  accumulated other comprehensive
+income/(loss)  increased  $2.1 million,  which is the net after-tax  effect of a
+$12.5 million decrease in unrealized gains on securities  available for sale and
+a $14.6 million increase in the fair value of financial  derivatives  classified
+as cash flow hedges.  Accumulated  other  comprehensive  income/(loss)  is not a
+component of Farmer Mac's core capital or regulatory capital.
+
+     As of June 30,  2004,  Farmer Mac's core capital  totaled  $226.3  million,
+compared to $215.5  million as of December 31, 2003.  As of June 30, 2004,  core
+capital  exceeded Farmer Mac's statutory  minimum capital  requirement of $136.4
+million by $89.9 million.
+
+     Farmer Mac was in compliance  with the risk-based  capital  standards under
+the regulation as of June 30, 2004. As of June 30, 2004, the risk-based  capital
+stress test generated a regulatory capital requirement of $49.3 million.  Farmer
+Mac's regulatory capital of $247.5 million exceeded that amount by approximately
+$198.2 million. The increase in the risk-based capital requirement from December
+31, 2003  ($38.8  million)  to June 30,  2004  ($49.3  million)  was a result of
+changes in the interest rate environment. Farmer Mac is required to hold capital
+at the  higher  of the  statutory  minimum  capital  requirement  or the  amount
+required by the risk-based capital stress test.
+
+Off-Balance Sheet Program Activities
+
+     Farmer Mac offers  approved  agricultural  and rural  residential  mortgage
+lenders two  off-balance  sheet  alternatives  to increase  their  liquidity  or
+lending  capacity  while  retaining the cash flow  benefits of their loans:  (1)
+Farmer Mac Guaranteed Securities,  which are available through either the Farmer
+Mac I program or the Farmer Mac II program,  and (2) LTSPCs, which are available
+only  through  the Farmer Mac I program.  Both of these  alternatives  result in
+off-balance sheet transactions for Farmer Mac.
+
+Quantitative and Qualitative Disclosures About Market Risk Management
+
+     Interest  Rate Risk.  Farmer Mac is  subject to  interest  rate risk on all
+assets held for investment  because of possible  timing  differences in the cash
+flows of the assets and related  liabilities.  This risk is primarily related to
+loans held and on-balance sheet Farmer Mac Guaranteed  Securities because of the
+ability of borrowers to prepay their mortgages before the scheduled  maturities,
+thereby  increasing the risk of asset and liability cash flow  mismatches.  Cash
+flow mismatches in a changing  interest rate environment can reduce the earnings
+of the  Corporation  if assets repay sooner than expected and the resulting cash
+flows must be reinvested in lower-yielding investments when Farmer Mac's funding
+costs  cannot be  correspondingly  reduced,  or if assets repay more slowly than
+expected and the associated debt must be replaced by higher-cost debt.
+
+     Yield maintenance  provisions and other prepayment  penalties  contained in
+many agricultural  mortgage loans reduce, but do not eliminate,  this prepayment
+risk,  particularly in the case of a defaulted loan where yield  maintenance may
+not be  collected.  Those  provisions  require  borrowers to make an  additional
+payment when they prepay their loans,  so that, when reinvested with the prepaid
+principal, yield maintenance payments generate substantially the same cash flows
+that would have been generated had the loan not prepaid. Those provisions create
+a disincentive  to prepayment and  compensate the  Corporation  for its interest
+rate risks to a large degree. As of June 30, 2004, 58 percent of the outstanding
+balance of all loans held and loans  underlying  on-balance  sheet  Farmer Mac I
+Guaranteed  Securities  (including  79 percent of all loans with fixed  interest
+rates)  were  covered  by yield  maintenance  provisions  and  other  prepayment
+penalties. Of the Farmer Mac I new and current loans purchased in second quarter
+2004,  nine  percent  had  yield  maintenance  or  another  form  of  prepayment
+protection.  None  of the  USDA-guaranteed  portions  underlying  Farmer  Mac II
+Guaranteed Securities had yield maintenance provisions.
+
+     Cash and cash  equivalents  and  investment  securities  pose only  limited
+interest rate risk, due to their closely  matched  funding.  Farmer Mac's $581.5
+million of cash and cash  equivalents  as of June 30, 2004 mature  within  three
+months and are  match-funded  with  discount  notes having  similar  maturities.
+Investment  securities  of $1.1  billion as of June 30,  2004  consist of $773.7
+million  (69.9  percent) of floating  rate  securities  that all have rates that
+adjust within one year. These floating rate investments are funded using:
+
+          o    a series of  discount  note  issuances  in which each  successive
+               discount note is issued and matures on or about the corresponding
+               interest rate reset date of the related investment;
+          o    floating-rate  notes having similar rate reset  provisions as the
+               related investment; or
+          o    fixed-rate  notes swapped to floating  rates having similar reset
+               provisions as the related investment.
+
+     The most  comprehensive  stress test of the long-term interest rate risk in
+Farmer Mac's current  portfolio is the sensitivity of its Market Value of Equity
+("MVE") to yield curve shocks.  MVE  represents  the present value of all future
+cash flows from on- and  off-balance  sheet  assets,  liabilities  and financial
+derivatives,  discounted at current  interest  rates and spreads.  The following
+schedule  summarizes the results of Farmer Mac's MVE sensitivity  analysis as of
+June 30, 2004 and December 31, 2003 to an immediate and  instantaneous  parallel
+shift in the yield curve.
+
+<TABLE>
+<CAPTION>
+                  Percentage Change in MVE from
+                           Base Case
+                  -----------------------------
+   Interest Rate   June 30,       December 31,
+    Scenario         2004            2003
+   -----------    ------------    -------------
+<S><C>             <C>             <C>
+    + 300 bp        -6.7%           -0.4%
+    + 200 bp        -4.1%            0.2%
+    + 100 bp        -1.7%            0.4%
+    - 100 bp         0.2%            0.0%
+    - 200 bp         N/A*            N/A*
+    - 300 bp         N/A*            N/A*
+
+*    As of the dates  indicated,  a -200 bp parallel shift of the U. S. Treasury
+     yield curve produced  negative interest rates for maturities of 2 years and
+     shorter.
+
+</TABLE>
+
+     During second quarter 2004, Farmer Mac maintained a relatively low level of
+interest  rate  sensitivity  through  ongoing  asset  and  liability  management
+activities.  As of June 30, 2004, a uniform or "parallel"  increase of 100 basis
+points would have increased  NII, a shorter-term  measure of interest rate risk,
+by 8.2  percent,  while a  parallel  decrease  of 100 basis  points  would  have
+decreased NII by 9.8 percent.  Farmer Mac also measures the  sensitivity of both
+MVE and  NII to a  variety  of  non-parallel  interest  rate  shocks,  including
+flattening and steepening yield curve  scenarios.  As of June 30, 2004, both MVE
+and NII showed similar or lesser  sensitivity to  non-parallel  shocks as to the
+parallel  shocks.  As of June 30, 2004,  Farmer Mac's  effective  duration  gap,
+another  standard  measure of interest rate risk that measures the expected life
+of assets compared to that of liabilities,  was positive 0.6 months, compared to
+minus 0.1 months as of December 31, 2003.  Duration  matching  helps to maintain
+the correlation of cash flows and stable  portfolio  earnings even when interest
+rates  are not  stable.  The  sensitivity  of  Farmer  Mac's MVE and NII to both
+parallel  and  non-parallel  interest  rate shocks,  and its  duration  gap, are
+indicators of the  effectiveness of the  Corporation's  approach to managing its
+interest rate risk exposures.
+
+
+     As of June 30, 2004,  Farmer Mac had $1.5 billion combined  notional amount
+of interest rate swaps with terms ranging from 1 to 15 years.  Of those interest
+rate swaps,  $625.3  million were  floating-to-fixed  rate  interest rate swaps,
+$675.1  million  were basis  swaps and  $205.0  million  were  fixed-to-floating
+interest rate swaps.
+
+     Farmer Mac uses financial  derivatives as an end-user for hedging purposes,
+not for trading or speculative  purposes.  When financial  derivatives  meet the
+specific  hedge  criteria  under SFAS 133, they are accounted for as either fair
+value  hedges or cash flow  hedges.  Financial  derivatives  that do not satisfy
+those hedge  criteria  are not  accounted  for as hedges and changes in the fair
+value of those financial derivatives are reported as a gain or loss on financial
+derivatives and trading assets in the consolidated statements of operations. All
+of Farmer Mac's financial  derivative  transactions are conducted under standard
+collateralized  agreements that limit Farmer Mac's potential  credit exposure to
+any counterparty.  As of June 30, 2004, Farmer Mac had no  uncollateralized  net
+exposure to any counterparty.
+
+     Credit Risk.  Farmer Mac's  primary  exposure to credit risk is the risk of
+loss  resulting  from the  inability of  borrowers  to repay their  mortgages in
+conjunction  with a deficiency  in the value of the  collateral  relative to the
+amount outstanding on the mortgage and the costs of liquidation.
+
+     Farmer Mac's  allowance  for losses is presented in four  components on its
+consolidated balance sheet:
+
+          o    an "Allowance for loan losses" on loans held for investment;
+          o    a valuation  allowance on real estate owned, which is included in
+               the balance  sheet under "Real  estate  owned,  net of  valuation
+               allowance";
+          o    an allowance for losses on loans underlying  post-1996 Act Farmer
+               Mac I Guaranteed  Securities  and LTSPCs entered into or modified
+               after January 1, 2003,  which is included in the balance sheet as
+               a portion of the amount  reported as  "Guarantee  and  commitment
+               obligation"; and
+          o    an allowance for losses on loans underlying  post-1996 Act Farmer
+               Mac I  Guaranteed  Securities  and LTSPCs  entered  into prior to
+               January 1, 2003,  which is included  in the  balance  sheet under
+               "Reserve for losses."
+
+     Farmer Mac's  provision  for losses is presented in two  components  on its
+consolidated statement of operations:
+
+          o    a  "Provision  for  loan  losses,"  which  represents   estimated
+               probable losses on Farmer Mac's loans held for investment; and
+          o    a "Provision for losses,"  which  represents  estimated  probable
+               losses on loans underlying  post-1996 Act Farmer Mac I Guaranteed
+               Securities and LTSPCs and real estate owned.
+
+     Farmer Mac estimates probable losses using a systematic process that begins
+with  management's  evaluation  of the  results  of its  proprietary  loan  pool
+simulation  and  guarantee  fee  model  (the  "Model").  The  Model  draws  upon
+historical  information from a data set of agricultural  mortgage loans recorded
+over a longer period of time than Farmer Mac's own experience to date,  screened
+to include  only those  loans with  credit  characteristics  similar to those on
+which Farmer Mac has assumed credit risk. The results generated by the Model are
+modified by the  application of management's  judgment,  as required to take key
+factors into account, including:
+
+          o    economic conditions;
+          o    geographic and agricultural  commodity  concentrations  in Farmer
+               Mac's portfolio;
+          o    the credit profile of Farmer Mac's portfolio;
+          o    delinquency trends of Farmer Mac's portfolio;
+          o    Farmer Mac's experience in the management and sale of real estate
+               owned; and
+          o    historical  charge-off  and recovery  activities  of Farmer Mac's
+               portfolio.
+
+     Management  believes that the general  allowance,  which is the  difference
+between the total allowance for losses (generated  through use of the Model) and
+the specific  allowances,  adequately covers any probable losses inherent in the
+portfolio of performing loans under Statement of Financial  Accounting  Standard
+No. 5, Accounting for Contingencies ("SFAS 5").
+
+     The  following  table  summarizes  the changes in the  components of Farmer
+Mac's  allowance for losses for the three and six months ended June 30, 2004 and
+2003:
+
+<TABLE>
+<CAPTION>
+                                                        June 30, 2004
+                             -----------------------------------------------------------------------
+                                                                           Contingent
+                             Allowance        REO                          Obligation       Total
+                             for Loan      Valuation       Reserve         for Probable    Allowance
+                              Losses       Allowance       for Losses       Losses         for Losses
+                             ---------     ----------      ---------       ---------       ---------
+                                                         (in thousands)
+<S>                          <C>              <C>          <C>             <C>            <C>
+Three Months Ended:
+Beginning balance             $ 7,671          $ 193        $11,952         $ 2,343        $ 22,159
+    Provision for losses         (230)           452          1,235             158           1,615
+    Net charge-offs            (1,876)          (100)             -               -          (1,976)
+                             ---------     ----------      ---------       ---------       ---------
+Ending balance                $ 5,565          $ 545        $13,187         $ 2,501        $ 21,798
+                             ---------     ----------      ---------       ---------       ---------
+Six Months Ended:
+Beginning balance             $ 5,967          $ 238        $13,172         $ 2,676        $ 22,053
+    Provision for losses        2,564            827             15            (175)          3,231
+    Net charge-offs            (2,966)          (520)             -               -          (3,486)
+                             ---------     ----------      ---------       ---------       ---------
+Ending balance                $ 5,565          $ 545        $13,187         $ 2,501        $ 21,798
+                             ---------     ----------      ---------       ---------       ---------
+
+
+                                                        June 30, 2003
+                             -----------------------------------------------------------------------
+                                                                           Contingent
+                             Allowance        REO                          Obligation       Total
+                             for Loan      Valuation       Reserve         for Probable    Allowance
+                              Losses       Allowance       for Losses       Losses         for Losses
+                             ---------     ----------      ---------       ---------       ---------
+                                                         (in thousands)
+Three Months Ended:
+Beginning balance             $ 3,028          $ 592        $17,472             $ -        $ 21,092
+    Provision for losses        1,416           (225)           697               -           1,888
+    Net charge-offs            (1,342)           225              -               -          (1,117)
+                             ---------     ----------      ---------       ---------       ---------
+Ending balance                $ 3,102          $ 592        $18,169             $ -        $ 21,863
+                             ---------     ----------      ---------       ---------       ---------
+Six Months Ended:
+Beginning balance             $ 2,662          $ 592        $16,757             $ -        $ 20,011
+    Provision for losses        2,624           (102)         1,592               -           4,114
+    Net charge-offs            (2,184)           102           (180)              -          (2,262)
+                             ---------     ----------      ---------       ---------       ---------
+
+Ending balance                $ 3,102          $ 592        $18,169             $ -        $ 21,863
+                             ---------     ----------      ---------       ---------       ---------
+</TABLE>
+
+     Farmer Mac's total provision for losses was $1.6 million for second quarter
+2004,  compared to $2.1 million for second  quarter 2003.  During second quarter
+2004,  Farmer Mac charged off $2.0 million in losses  against the  allowance for
+losses and  received  $1.8  million from two sellers (one of which was a related
+party) for breaches of  representations  and  warranties  associated  with prior
+sales of agricultural  mortgage loans to Farmer Mac, which amount Farmer Mac had
+previously  charged  off as losses on the  associated  loans.  This  recovery is
+reported as miscellaneous income. During second quarter 2003, Farmer Mac charged
+off  $1.3  million  in  losses  against  the  allowance  for  losses  and had no
+recoveries. The net charge-offs for second quarter 2004 and 2003 did not include
+previously  accrued or advanced  interest  on loans and Farmer Mac I  Guaranteed
+Securities. As of June 30, 2004, Farmer Mac's allowance for losses totaled $21.8
+million,  or 45 basis points of the outstanding  principal balance of loans held
+and loans  underlying  post-1996  Act Farmer  Mac I  Guaranteed  Securities  and
+LTSPCs, compared to $22.1 million (44 basis points) as of December 31, 2003.
+
+     As of June 30,  2004,  Farmer  Mac's  90-day  delinquencies  totaled  $32.8
+million and represented 0.68 percent of the principal  balance of all loans held
+and loans  underlying  post-1996  Act Farmer  Mac I  Guaranteed  Securities  and
+LTSPCs, compared to $51.3 million (1.06 percent) as of June 30, 2003. As of June
+30,  2004,   Farmer  Mac's   non-performing   assets  (which   includes   90-day
+delinquencies,  loans  performing  under either their  original  loan terms or a
+court-approved bankruptcy plan, and real estate owned) totaled $69.8 million and
+represented  1.43 percent of the  principal  balance of all loans held and loans
+underlying post-1996 Act Farmer Mac I Guaranteed Securities and LTSPCs, compared
+to $80.2  million  (1.64  percent)  as of June 30,  2003.  Loans  that have been
+restructured  after  delinquency were  insignificant and are included within the
+reported 90-day delinquency and non-performing  asset disclosures.  From quarter
+to quarter,  Farmer Mac anticipates that 90-day delinquencies and non-performing
+assets will  fluctuate,  both in dollars and as a percentage of the  outstanding
+portfolio,  with higher levels likely at the end of the first and third quarters
+of each year corresponding to the semi-annual (January 1st and July 1st) payment
+characteristics of most Farmer Mac I loans.
+
+     The following table presents historical  information regarding Farmer Mac's
+non-performing assets and 90-day delinquencies:
+
+<TABLE>
+<CAPTION>
+                             Outstanding
+                            Post-1996 Act                                       Less:
+                                Loans,            Non-                         REO and
+                            Guarantees and     performing                     Performing           90-Day
+                               LTSPCs            Assets       Percentage     Bankruptcies       Delinquencies    Percentage
+                            --------------     ----------     ----------     ------------       -------------    ----------
+                                                               (dollars in thousands)
+<S>                        <C>                <C>               <C>          <C>                <C>               <C>
+As of:
+   June 30, 2004            $ 4,882,505        $ 69,751          1.43%        $ 36,978           $ 32,773          0.68%
+   March 31, 2004             4,922,759          91,326          1.86%          33,951             57,375          1.17%
+   December 31, 2003          5,020,032          69,964          1.39%          39,908             30,056          0.60%
+   September 30, 2003         4,871,756          84,583          1.74%          37,442             47,141          0.98%
+   June 30, 2003              4,875,059          80,169          1.64%          28,883             51,286          1.06%
+   March 31, 2003             4,820,887          94,822          1.97%          18,662             76,160          1.58%
+   December 31, 2002          4,821,634          75,308          1.56%          17,094             58,214          1.21%
+   September 30, 2002         4,506,330          91,286          2.03%          11,460             79,826          1.77%
+   June 30, 2002              4,489,735          65,196          1.45%          14,931             50,265          1.12%
+</TABLE>
+
+     As of June 30, 2004,  approximately  $1.6 billion (32.2  percent) of Farmer
+Mac's  outstanding  loans held and loans  underlying  post-1996 Act Farmer Mac I
+Guaranteed  Securities  and LTSPCs  were in their peak  delinquency  and default
+years  (approximately  years three through five after  origination)  compared to
+$1.8 billion (37.1  percent) of such loans as of June 30, 2003.  The Model takes
+the portfolio age distribution and maturation into  consideration.  Accordingly,
+those trends did not cause  management to alter the Model's  projection  for the
+provisions for losses.
+
+     As of June 30, 2004,  Farmer Mac analyzed the following three categories of
+assets for impairment, based on the fair vale of the underlying collateral:
+
+          o    $69.8 million of non-performing assets;
+          o    $32.9  million  of loans for which  Farmer Mac has  adjusted  the
+               timing of  borrowers'  payment  schedules  within  the past three
+               years,  but still  expects to collect all amounts due and has not
+               made economic concessions; and
+          o    $54.4  million  of  performing  loans that have  previously  been
+               delinquent   or  are  secured  by  real   estate  that   produces
+               commodities currently under stress.
+
+Those  individual  assessments  covered  a total of  $157.1  million  of  assets
+measured  for  impairment  against  updated  appraised  values,   other  updated
+collateral  valuations or  discounted  values.  Of the $157.1  million of assets
+analyzed, $135.8 million were adequately  collateralized.  For the $21.3 million
+that  were  not  adequately  collateralized,  individual  collateral  shortfalls
+totaled $2.4 million.  Accordingly,  Farmer Mac allocated specific allowances of
+$2.4 million to those  under-collateralized  assets as of June 30,  2004.  As of
+June   30,   2004,   after   the   allocation   of   specific    allowances   to
+under-collateralized  loans,  Farmer Mac had additional  non-specific or general
+allowances of $19.4  million,  bringing the total  allowance for losses to $21.8
+million.
+
+     The following table summarizes  Farmer Mac's assets  specifically  reviewed
+for impairment and allowance for losses:
+
+<TABLE>
+<CAPTION>
+                            Farmer Mac I Post-1996 Act Assets Specifically Reviewed
+                                 for Impairment and Allowance for Losses
+-------------------------------------------------------------------------------------------------------
+                                       As of June 30, 2004                  As of December 31, 2003
+                                   -------------------------------      -------------------------------
+                                                              (in thousands)
+                                                        Specific                             Specific
+                                   Non-performing      Allowance        Non-performing       Allowance
+                                       Assets          for Losses           Assets           for Losses
+                                   -------------       -----------      -------------        ----------
+<S>  <C>                             <C>                 <C>             <C>                  <C>
+Loans 90 days or more past due          $ 9,530              $ 16            $ 5,185             $ 100
+Loans in foreclosure                     10,682               234             11,016               119
+Loans in bankruptcy *                    39,556               292             38,047             2,769
+Real estate owned                         9,983               545             15,716               238
+Other loans specifically reviewed        87,355             1,315            102,736               536
+                                   -------------       -----------      -------------        ----------
+   Total                              $ 157,106           $ 2,402          $ 172,700           $ 3,762
+                                   -------------       -----------      -------------        ----------
+
+                                                        Allowance                             Allowance
+                                                        for Losses                            for Losses
+                                                       -----------                           ----------
+Specific allowance for losses                             $ 2,402                              $ 3,762
+General allowance for losses                               19,396                               18,291
+                                                       -----------                           ----------
+   Total allowance for losses                            $ 21,798                             $ 22,053
+                                                       -----------                           ----------
+
+*    Includes loans that are  performing  under either their original loan terms
+     or a court-approved bankruptcy plan.
+</TABLE>
+
+     As of June 30, 2004, the weighted-average  original  loan-to-value  ("LTV")
+ratio for all  loans  held and  loans  underlying  post-1996  Act  Farmer  Mac I
+Guaranteed  Securities  and  LTSPCs  was 49  percent,  and the  weighted-average
+original LTV ratio for all post-1996 Act non-performing assets was 56 percent.
+
+     The following table summarizes the post-1996 Act  non-performing  assets by
+original LTV ratio:
+
+<TABLE>
+<CAPTION>
+  Distribution of Post-1996 Act Non-performing
+         Assets by Original LTV Ratio
+             as of June 30, 2004
+------------------------------------------------
+           (dollars in thousands)
+                     Post-1996 Act
+                     Non-performing
+Original LTV Ratio      Assets        Percentage
+------------------   --------------   ----------
+ <S>       <C>        <C>              <C>
+   0.00% to 40.00%      $ 6,939          10%
+  40.01% to 50.00%        9,435          14%
+  50.01% to 60.00%       33,696          48%
+  60.01% to 70.00%       17,742          25%
+  70.01% to 80.00%        1,762           3%
+      80.01% +              177           0%
+                      ----------       ---------
+        Total          $ 69,751          100%
+                      ----------       ---------
+</TABLE>
+
+<PAGE>
+
+
+     The following table presents  outstanding  loans held and loans  underlying
+post-1996  Act Farmer Mac I  Guaranteed  Securities  and LTSPCs,  post-1996  Act
+non-performing  assets and specific allowances for losses as of June 30, 2004 by
+year of origination, geographic region and commodity.
+
+ <TABLE>
+<CAPTION>
+                    Farmer Mac I Post-1996 Act Non-performing Assets and Specific Allowance for Losses
+-----------------------------------------------------------------------------------------------------------------
+                              Distribution of
+                              Outstanding          Outstanding        Post-1996 Act
+                                 Loans,              Loans,              Non-            Non-          Specific
+                              Guarantees and       Guarantees and     performing      performing       Allowance
+                                 LTSPCs              LTSPCs           Assets (1)      Asset Rate       for Losses
+                              -------------       ---------------     ------------    -----------      ----------
+                                                             (dollars in thousands)
+<S>                             <C>               <C>                  <C>              <C>            <C>
+By year of origination:
+  Before 1994                     12%               $ 587,138           $ 2,455          0.42%             $ -
+  1994                             3%                 141,738             1,313          0.93%               -
+  1995                             3%                 142,385             2,860          2.01%              85
+  1996                             6%                 317,950            12,058          3.79%             483
+  1997                             8%                 380,076            10,201          2.68%             435
+  1998                            12%                 602,068            12,466          2.07%             654
+  1999                            13%                 619,048            12,673          2.05%             258
+  2000                             8%                 370,726             6,767          1.83%             445
+  2001                            12%                 565,216             8,450          1.50%              42
+  2002                            12%                 610,233               508          0.08%               -
+  2003                             9%                 460,323                 -          0.00%               -
+  2004                             2%                  85,604                 -          0.00%               -
+                              -------------       ------------       -----------    -----------       ----------
+Total                            100%             $ 4,882,505          $ 69,751          1.43%         $ 2,402
+                              -------------       ------------       -----------    -----------       ----------
+By geographic region (2):
+  Northwest                       21%             $ 1,005,200          $ 42,248          4.20%         $ 1,311
+  Southwest                       47%               2,308,729            18,809          0.81%             803
+  Mid-North                       13%                 633,931             2,070          0.33%             106
+  Mid-South                        5%                 264,382             4,516          1.71%               1
+  Northeast                        8%                 367,590             1,628          0.44%              72
+  Southeast                        6%                 302,673               480          0.16%             109
+                              -------------        ------------       -----------    -----------       ----------
+Total                            100%             $ 4,882,505          $ 69,751          1.43%         $ 2,402
+                              -------------        ------------       -----------    -----------       ----------
+By commodity:
+  Crops                            44%             $ 2,158,610          $ 26,994          1.25%           $ 336
+  Permanent plantings              27%               1,312,928            27,917          2.13%           1,755
+  Livestock                        22%               1,079,882            11,172          1.03%             160
+  Part-time farm                    6%                 297,210             3,668          1.23%             151
+  Other                             1%                  33,875                 -          0.00%               -
+                              -------------        ------------       -----------    -----------       ----------
+Total                             100%             $ 4,882,505          $ 69,751          1.43%         $ 2,402
+                              -------------        ------------       -----------    -----------       ----------
+<FN>
+(1)  Includes loans 90 days or more past due, in foreclosure, restructured after
+     delinquency,  in bankruptcy  (including loans performing under either their
+     original loan terms or a court-approved  bankruptcy  plan), and real estate
+     owned.
+(2)  Geographic  regions -  Northwest  (AK,  ID, MT,  ND,  NE, OR, SD, WA,  WY);
+     Southwest (AZ, CA, CO, HI, NM, NV, UT);  Mid-North (IA, IL, IN, MI, MN, MO,
+     WI); Mid-South (KS, OK, TX); Northeast (CT, DE, KY, MA, MD, ME, NC, NH, NJ,
+     NY, OH, PA, RI, TN, VA, VT, WV);  and  Southeast  (AL,  AR, FL, GA, LA, MS,
+     SC).
+</FN>
+</TABLE>
+
+<PAGE>
+
+
+     The following  table  presents  Farmer Mac's  cumulative  credit losses and
+current specific  allowances relative to the cumulative original balance for all
+loans  purchased  and loans  underlying  post-1996  Act Farmer Mac I  Guaranteed
+Securities and LTSPCs.  This  information  is presented by year of  origination,
+geographic  region  and  commodity.  The  purpose  of this  table is to  present
+information  regarding losses and collateral  deficiencies  relative to original
+guarantees and commitments.
+
+<TABLE>
+<CAPTION>
+                         Farmer Mac I Post-1996 Act Credit Losses and Specific Allowance for Losses
+                             Relative to all Cumulative Original Loans, Guarantees and LTSPCs
+-------------------------------------------------------------------------------------------------------------------------
+                                 Cumulative         Cumulative                                              Combined
+                                Original Loans,     Net Credit         Cumulative        Current           Credit Loss
+                                 Guarantees           Losses /            Loss           Specific          and Specific
+                                 and LTSPCs           (Gains)             Rate          Allowances        Allowance Rate
+                                --------------      -----------       ------------     ------------       --------------
+                                                           (dollars in thousands)
+<S>                             <C>                  <C>                <C>            <C>                   <C>
+By year of origination:
+  Before 1994                    $ 1,984,151               $ -           0.00%              $ -               0.00%
+  1994                               367,211                 -           0.00%                -               0.00%
+  1995                               324,103               961           0.30%               85               0.32%
+  1996                               630,513             1,943           0.31%              483               0.38%
+  1997                               721,131             2,879           0.40%              435               0.46%
+  1998                             1,071,287             3,017           0.28%              654               0.34%
+  1999                             1,062,603             1,196           0.11%              258               0.14%
+  2000                               661,879             1,615           0.24%              445               0.31%
+  2001                               878,099               650           0.07%               42               0.08%
+  2002                               815,108                 -           0.00%                -               0.00%
+  2003                               483,769                 -           0.00%                -               0.00%
+  2004                                98,658                 -           0.00%                -               0.00%
+                                 -----------         -----------      ------------    ------------        -----------
+Total                            $ 9,098,512          $ 12,261           0.13%          $ 2,402               0.16%
+                                 -----------         -----------                      ------------
+By geographic region (1):
+  Northwest                     $ 2,006,625            $ 5,389           0.27%          $ 1,311               0.33%
+  Southwest                       4,006,931              4,935           0.12%              803               0.14%
+  Mid-North                       1,137,205                 38           0.00%              106               0.01%
+  Mid-South                         444,199              1,782           0.40%                1               0.40%
+  Northeast                         726,350                  -           0.00%               72               0.01%
+  Southeast                         777,202                117           0.02%              109               0.03%
+                                -----------          -----------      ------------     ------------        -----------
+Total                           $ 9,098,512           $ 12,261           0.13%          $ 2,402               0.16%
+                                -----------          -----------                       ------------
+By commodity:
+  Crops                         $ 3,947,637               $ 552           0.01%           $ 336               0.02%
+  Permanent plantings             2,376,608               8,734           0.37%           1,755               0.44%
+  Livestock                       2,075,834               2,613           0.13%             160               0.13%
+  Part-time farm                    602,703                 362           0.06%             151               0.09%
+  Other                              95,730                   -           0.00%               -               0.00%
+                                 -----------          -----------      ------------    ------------        -----------
+Total                           $ 9,098,512            $ 12,261           0.13%         $ 2,402               0.16%
+                                 -----------          -----------                      ------------
+<FN>
+(1)  Geographic  regions -  Northwest  (AK,  ID, MT,  ND,  NE, OR, SD, WA,  WY);
+     Southwest (AZ, CA, CO, HI, NM, NV, UT);  Mid-North (IA, IL, IN, MI, MN, MO,
+     WI); Mid-South (KS, OK, TX); Northeast (CT, DE, KY, MA, MD, ME, NC, NH, NJ,
+     NY, OH, PA, RI, TN, VA, VT, WV);  and  Southeast  (AL,  AR, FL, GA, LA, MS,
+     SC).
+</FN>
+</TABLE>
+
+<PAGE>
+
+Liquidity and Capital Resources
+
+     Farmer Mac has  sufficient  liquidity and capital  resources to support its
+operations  for the next twelve  months and has a  contingency  funding  plan to
+handle unanticipated disruptions in its access to the capital markets.
+
+     Debt Issuance. Farmer Mac funds its program operations primarily by issuing
+debt  obligations of various  maturities in the public capital  markets.  Farmer
+Mac's  debt  obligations  consist  of  discount  notes  and  medium-term  notes,
+including  floating rate notes,  issued to obtain funds principally to cover the
+costs of  purchasing  and holding  loans and  securities  (including  Farmer Mac
+Guaranteed  Securities).  Farmer Mac also issues  discount notes and medium-term
+notes to obtain funds for investments, transaction costs and guarantee payments.
+The interest and principal on Farmer Mac's debt are not guaranteed by and do not
+constitute  debts or  obligations  of FCA or the United  States or any agency or
+instrumentality  of the United  States  other than Farmer Mac.  Farmer Mac is an
+institution  of the  Farm  Credit  System,  but is not  liable  for any  debt or
+obligation of any other institution of the Farm Credit System. Likewise, neither
+the Farm Credit System nor any other  individual  institution of the Farm Credit
+System is liable  for any debt or  obligation  of Farmer  Mac.  Income on Farmer
+Mac's discount notes and  medium-term  notes has no tax exemption  under federal
+law from federal,  state or local taxation. The Corporation's discount notes and
+medium-term notes are not currently rated by a nationally recognized statistical
+rating organization  (NRSRO),  although Farmer Mac intends to obtain a rating to
+eliminate  the  absence  of a rating  as a  future  point  of  contention.  (See
+"Management's  Discussion  and  Analysis of Financial  Condition  and Results of
+Operations--Regulatory Matters" below.)
+
+     Farmer Mac's board of directors has  authorized  the issuance of up to $5.0
+billion of  discount  notes and  medium-term  notes (of which $3.7  billion  was
+outstanding as of June 30, 2004),  subject to periodic review of the adequacy of
+that level relative to Farmer Mac's borrowing  requirements.  Farmer Mac invests
+the proceeds of such issuances in loans,  Farmer Mac  Guaranteed  Securities and
+non-program  investment assets in accordance with guidelines  established by its
+board of directors.
+
+     Liquidity.  The  funding  and  liquidity  needs of  Farmer  Mac's  business
+programs are driven by the purchase and  retention of eligible  loans and Farmer
+Mac  Guaranteed  Securities,  the  maturities of Farmer Mac's discount notes and
+medium-term notes and payment of principal and interest on Farmer Mac Guaranteed
+Securities. Farmer Mac's primary sources of funds to meet these needs are:
+
+          o    principal  and  interest   payments  and  ongoing  guarantee  and
+               commitment   fees  received  on  loans,   Farmer  Mac  Guaranteed
+               Securities and LTSPCs;
+          o    principal  and  interest   payments   received  from   investment
+               securities; and
+          o    the issuance of discount notes and medium-term notes.
+
+     As a result  of  Farmer  Mac's  regular  issuance  of  discount  notes  and
+medium-term   notes,   as  well  as  its   status  as  a   federally   chartered
+instrumentality  of the  United  States,  Farmer Mac has been able to issue debt
+securities in the capital markets at favorable rates of interest. Farmer Mac has
+also used  fixed-to-floating  interest  rate swaps,  combined  with  medium-term
+notes, as a source of floating rate funding, and floating-to-fixed interest rate
+swaps, combined with discount note issuances, as a source of fixed-rate funding.
+While the swap market may  provide  favorable  fixed  rates,  swap  transactions
+expose  Farmer Mac to the risk of future  widening of its own  issuance  spreads
+versus  corresponding  LIBOR  rates.  If the spreads on the Farmer Mac  discount
+notes  were to  increase  relative  to LIBOR,  Farmer  Mac would be exposed to a
+commensurate  reduction on its net interest yield on the notional  amount of its
+floating-to-fixed  interest  rate  swaps and  other  LIBOR-based  floating  rate
+assets.  Farmer Mac  compensates for this risk by maintaining the flexibility to
+adjust the required net yield on program  asset  purchases to reflect the change
+in the discount  note to LIBOR  relationship,  as  necessary.  During the second
+quarter,  Farmer Mac continued its practice of issuing floating rate notes as an
+alternative to discount notes.
+
+     For  liquidity,  Farmer Mac maintains an  investment  portfolio of cash and
+cash equivalents  (including  commercial paper and other short-term money market
+instruments)  and  investment  securities  consisting  mostly of  floating  rate
+securities  whose rates reset within one year,  and a Farmer Mac II portfolio of
+USDA Guaranteed Portions (full faith and credit of the U.S.  Government).  As of
+June 30, 2004, Farmer Mac's cash and cash equivalents, investment securities and
+USDA Guaranteed  Portions,  were $0.6 billion,  $1.1 billion,  and $0.7 billion,
+respectively,  a  combined  60 percent  of total  liabilities.  Farmer Mac has a
+policy of  maintaining a minimum of 60 days of liquidity and a target of 90 days
+of  liquidity.  For second  quarter  2004,  Farmer Mac  maintained an average of
+greater than 90 days of liquidity.
+
+
+Regulatory Matters
+
+     During second quarter 2004, FCA published a proposed regulation relating to
+Farmer Mac's investments and liquidity,  adding administrative  requirements and
+restricting  the future  composition  of the  non-program  investment  liquidity
+portfolio  and its growth in  proportion  to Farmer Mac's total  guarantees  and
+commitments.  Farmer Mac  believes  that the  proposed  regulation  would not be
+largely  inconsistent with the Corporation's  current policies and expects to be
+able to comply with the  regulation,  though  analysis  indicates it could limit
+future  increases  in Farmer  Mac's  non-program  investment  portfolio  and the
+related net interest  income.  Farmer Mac believes there are good and sufficient
+reasons why the  proposed  regulation  should not be adopted in its current form
+and, as part of the formal rule-making process, will provide written comments to
+FCA within the public comment period, which on ends on September 13, 2004.
+
+     Additionally,  on  June  10,  2004,  the  FCA  Board  approved  a  proposed
+regulation  that  would  establish  a  new  risk-weight  allocation  of  capital
+applicable to Farmer Mac transactions with FCS institutions,  a major segment of
+Farmer  Mac's  customer  base.  The  proposed   regulation   would  require  FCS
+institutions  to risk-weight  assets on their books that are guaranteed by a GSE
+based on the  financial  strength  rating of the GSE, as determined by an NRSRO.
+Under the proposed  regulation:  (a) the 20 percent  risk-weight  would apply to
+such assets only if the GSE guarantor had a AAA or AA rating from an NRSRO;  (b)
+an A rating would result in a 50 percent risk-weight; and (c) a lower rating (or
+no rating)  would result in a 100 percent  risk-weight.  Farmer Mac is currently
+unrated.  Currently,  all  banking  regulators  and  FCA  accord  a  20  percent
+risk-weight to assets backed by guarantees of government  sponsored  enterprises
+(GSEs) such as Fannie Mae, Freddie Mac or Farmer Mac.
+
+     The proposed  regulation was published in the Federal Register on August 6,
+2004, starting a 90-day public comment period. As proposed, the regulation would
+require FCS  institutions to comply with the  risk-weight  allocation of capital
+eighteen  months  after  the  effective  date of the  final  regulation.  If the
+proposed  regulation  is adopted as a final rule in its current  form and Farmer
+Mac does not receive a rating of at least AA within the period  provided  for in
+the proposed  regulation,  not only would the benefit to an FCS  institution  of
+doing  business  with  Farmer  Mac  be  diminished  after  the  adoption  of the
+regulation,  but also,  based on the  language  of the  proposed  regulation,  a
+significant  portion of the current  $2.8  billion of  outstanding  Farmer Mac I
+guarantees and  commitments  currently in place with FCS  institutions  might be
+subject to early termination.
+
+     There can be no  assurance  that the  regulation  will not be  adopted as a
+final rule in its current  form, or in a modified  form with  substantially  the
+same effect.  Likewise,  Farmer Mac currently is not rated,  and there can be no
+assurance  that  Farmer  Mac would  receive  a AAA or AA  rating  from an NRSRO.
+Without regard to the proposed regulation, Farmer Mac intends to obtain a rating
+from an NRSRO well before the effective date of any final regulation. Farmer Mac
+believes  there are good and  sufficient  reasons  why the  proposed  regulation
+should not be adopted in its current form and, as part of the formal rule-making
+process,  will  provide  written  comments to FCA setting  forth those  reasons.
+Farmer Mac's  comments  will include the facts that the proposed  regulation  is
+inconsistent with regulations with respect to secondary market GSEs currently in
+effect at other federal regulators;  that it would defeat the legislative intent
+of  Congress  that Farmer Mac should be able  reliably  to increase  the lending
+capacity  of all  agricultural  lenders;  and  that  its  logic  is  essentially
+circular, in that Farmer Mac's financial strength would become a function of the
+NRSRO's rating of its financial strength.  Always conscious of the importance of
+oversight  and  sound  regulation  in the  performance  of its  mission  for the
+farmers,  ranchers and rural homeowners of America,  Farmer Mac looks forward to
+participating in the regulatory process as to both of the proposed regulations.
+
+
+Other Matters
+
+     On August 3, 2004 the Board of Directors adopted a policy to begin paying a
+quarterly dividend of $0.10 per share on all classes of the Corporation's common
+stock in the fourth  quarter of 2004,  and authorized a program to repurchase up
+to ten percent of the Corporation's outstanding Class C non-voting common stock.
+The Board's  decisions were made in consideration of the  Corporation's  forward
+capital  requirements to support fulfillment of its mission of providing greater
+liquidity  and lending  capacity to  agricultural  lenders  and  increasing  the
+availability of capital markets-based funding for mortgage loans to the Nation's
+farmers,  ranchers and rural homeowners.  The Board determined that Farmer Mac's
+capital  was more than  sufficient  to meet those  requirements.  Likewise,  the
+Board's  decisions gave due regard to Farmer Mac's level of excess capital above
+both statutory minimum and risk-based capital  requirements,  66 percent and 391
+percent,  respectively,  and the annuity-like nature of the Corporation's income
+streams.
+
+     Considering  recent market price levels of Class C common stock,  the Board
+concluded  that the  repurchase  program  would  enable  Farmer Mac to reacquire
+shares at prices inconsistent with the Board's and management's positive view of
+the Corporation's long-term business outlook. Under the program, Farmer Mac will
+use a broker-dealer  as  repurchasing  agent to acquire shares from time to time
+over the next 2 years  through  open market  transactions,  block  purchases  or
+private  transactions.  The timing of  purchases  and the number of shares to be
+purchased  will  depend on market  conditions.  The plan does not  obligate  the
+Corporation to acquire any specific  number of shares and may be discontinued at
+any time.  Farmer Mac intends to fund such repurchases with currently  available
+working capital. Shares repurchased under the program will become authorized but
+unissued shares available for future issuance, as determined by the Board.
+
+
+Supplemental Information
+
+     The following  tables present  quarterly and annual  information  regarding
+loan purchases, guarantees and LTSPCs and outstanding guarantees and LTSPCs.
+
+<TABLE>
+<CAPTION>
+                 Farmer Mac Purchases, Guarantees and LTSPCs
+----------------------------------------------------------------------------
+                            Farmer Mac I
+                      ------------------------
+                        Loans and
+                       Guaranteed
+                       Securities      LTSPCs     Farmer Mac II     Total
+                      ------------- ----------- ---------------- -----------
+                                       (in thousands)
+For the quarter ended:
+
+<S>   <C> <C>        <C>           <C>            <C>           <C>
+  June 30, 2004       $ 27,520      $ 127,098      $ 34,671      $ 189,289
+  March 31, 2004        25,444        147,273        34,483        207,200
+  December 31, 2003     25,148        218,097        44,971        288,216
+  September 30, 2003    42,760        199,646       106,729        349,135
+  June 30, 2003         65,615        179,025        77,636        322,276
+  March 31, 2003        59,054        166,574        41,893        267,521
+  December 31, 2002     62,841        395,597        38,714        497,152
+  September 30, 2002    58,475        140,157        37,374        236,006
+  June 30, 2002        551,690        280,904        57,769        890,363
+
+For the year ended:
+  December 31, 2003    192,577        763,342       271,229      1,227,148
+  December 31, 2002    747,881      1,155,479       173,011      2,076,371
+</TABLE>
+
+<TABLE>
+<CAPTION>
+               Outstanding Balance of Farmer Mac Loans and
+            On- and Off-Balance Sheet Guarantees and LTSPCs (1)
+-------------------------------------------------------------------------------
+                                      Farmer Mac I
+                          ------------------------------------------
+                               Post-1996 Act
+                          -------------------------
+                           Loans and
+                           Guaranteed
+                           Securities       LTSPCs     Pre-1996 Act   Farmer Mac II     Total
+                          -------------    --------   -------------- --------------- -----------
+                                                      (in thousands)
+As of:
+<S>     <C> <C>          <C>            <C>            <C>            <C>          <C>
+    June 30, 2004         $ 2,521,026    $ 2,390,779    $ 22,155       $ 715,750    $ 5,649,710
+    March 31, 2004          2,566,412      2,382,648      22,261         722,978      5,694,299
+    December 31, 2003       2,696,530      2,348,702      24,734         729,470      5,799,436
+    September 30, 2003(2)   2,721,775      2,174,182      25,588         720,584      5,642,129
+    June 30, 2003           2,108,180      2,790,480      28,057         668,899      5,595,616
+    March 31, 2003          2,111,861      2,732,620      29,216         650,152      5,523,849
+    December 31, 2002       2,168,994      2,681,240      31,960         645,790      5,527,984
+    September 30, 2002      2,127,460      2,407,469      35,297         630,452      5,200,678
+    June 30, 2002           2,180,948      2,336,886      37,873         617,503      5,173,210
+
+<FN>
+(1)  Farmer Mac assumes 100 percent of the credit risk on  post-1996  Act loans.
+     Pre-1996 Act loans back securities that are supported by unguaranteed first
+     loss subordinated  interests representing  approximately  10 percent of the
+     balance of the loans. Farmer Mac II loans are guaranteed by the USDA.
+
+(2)  The  Loans  and  Guaranteed  Securities  and  LTSPCs  amounts  reflect  the
+     conversion  of  $722.3  million  of  existing  LTSPCs  to a  Farmer  Mac  I
+     Guaranteed  Security  during third quarter 2003 at the request of a program
+     participant, Farm Credit West, ACA, of which Farmer Mac director Kenneth A.
+     Graff is President.
+</FN>
+</TABLE>
+<TABLE>
+<CAPTION>
+                     Outstanding Balance of Loans Held and Loans Underlying
+                       On-Balance Sheet Farmer Mac Guaranteed Securities
+-----------------------------------------------------------------------------------------------
+                                                                                     Total
+                              Fixed Rate           5-to-10-Year   1-Month-to-3-Year   Held in
+                        (10-yr. wtd. avg.terms)   ARMs & Resets        ARMs          Portfolio
+                        -----------------------  --------------- -----------------  ------------
+                                                    (in thousands)
+As of:
+<S>     <C> <C>              <C>                  <C>              <C>             <C>
+    June 30, 2004             $ 782,854            $ 978,531        $ 529,654       $ 2,291,039
+    March 31, 2004              818,497              978,263          548,134         2,344,894
+    December 31, 2003           860,874            1,045,217          542,024         2,448,115
+    September 30, 2003          865,817            1,037,168          535,915         2,438,900
+    June 30, 2003               889,839            1,064,824          511,700         2,466,363
+    March 31, 2003              880,316            1,057,310          515,910         2,453,536
+    December 31, 2002         1,003,434              981,548          494,713         2,479,695
+    September 30, 2002        1,000,518              934,435          498,815         2,433,768
+    June 30, 2002             1,016,997              892,737          516,892         2,426,626
+
+</TABLE>
+
+
+Item 3. Quantitative and Qualitative Disclosures About Market Risk
+
+     Farmer Mac is exposed to market  risk  attributable  to changes in interest
+rates.  Farmer Mac manages this market risk by entering  into various  financial
+transactions, including financial derivatives, and by monitoring its exposure to
+changes  in  interest  rates.  See  "Management's  Discussion  and  Analysis  of
+Financial  Condition  and Results of  Operations--Quantitative  and  Qualitative
+Disclosures  About  Market  Risk   Management--Interest   Rate  Risk"  for  more
+information  about Farmer Mac's exposure to interest rate risk and strategies to
+manage such risk. For information  regarding  Farmer Mac's use of and accounting
+policies for financial derivatives,  see Note 1(c) to the condensed consolidated
+financial  statements.  See  "Management's  Discussion and Analysis of Financial
+Condition  and  Results of  Operations--Liquidity  and  Capital  Resources"  for
+further information regarding Farmer Mac's debt issuance and liquidity risks.
+
+
+Item 4. Controls and Procedures
+
+     Farmer Mac maintains  disclosure controls and procedures designed to ensure
+that information required to be disclosed in the Corporation's  periodic filings
+under the Securities  Exchange Act of 1934 (the "Exchange Act"),  including this
+report, is recorded, processed, summarized and reported on a timely basis. These
+disclosure  controls and procedures include controls and procedures  designed to
+ensure that  information  required to be  disclosed  under the  Exchange  Act is
+accumulated and communicated to the  Corporation's  management on a timely basis
+to allow decisions regarding required  disclosure.  Farmer Mac's Chief Executive
+Officer and Chief  Financial  Officer have  evaluated the  effectiveness  of the
+design and operation of the Corporation's disclosure controls and procedures (as
+defined under Rules  13a-15(e) and 15d-15(e) of the Exchange Act) as of June 30,
+2004. Based upon that evaluation, Farmer Mac's Chief Executive Officer and Chief
+Financial Officer have concluded that the Corporation's  disclosure controls and
+procedures  are adequate  and  effective.  For the quarter  ended June 30, 2004,
+there were no significant changes in Farmer Mac's internal controls, or in other
+factors that could materially  affect these controls,  subsequent to the date of
+their  evaluation,  including any corrective  actions with regard to significant
+deficiencies or material weaknesses.
+
+
+<PAGE>
+
+
+PART II - OTHER INFORMATION
+
+Item 1. Legal Proceedings
+
+     Farmer Mac is not a party to any material pending legal proceedings.
+
+Item 2. Changes in Securities and Use of Proceeds
+
+          (a)  Not applicable.
+
+          (b)  Not applicable.
+
+          (c)  Farmer Mac is a federally chartered instrumentality of the United
+               States and its Common Stock is exempt from registration  pursuant
+               to Section 3(a)(2) of the Securities Act of 1933.
+
+               Pursuant to Farmer Mac's policy that permits  Directors of Farmer
+               Mac to elect to receive shares of Class C Non-Voting Common Stock
+               in lieu of their annual cash retainers,  on April 2, 2004, Farmer
+               Mac issued an  aggregate  of 787 shares of its Class C Non-Voting
+               Common  Stock,  at an issue  price of $26.21  per  share,  to the
+               eleven  Directors  who  elected to receive  such stock in lieu of
+               their cash retainers.
+
+               During second quarter 2004,  Farmer Mac granted options under its
+               1997 Stock Option Plan to purchase an aggregate of 90,000  shares
+               of Class C  Non-Voting  Common  Stock,  at an  exercise  price of
+               $22.11 per share, to directors as incentive compensation.
+
+          (d)  Not applicable.
+
+          (e)  Not applicable.
+
+Item 3. Defaults Upon Senior Securities
+
+     Not applicable.
+
+Item 4. Submission of Matters to a Vote of Security Holders
+
+          (a)  Farmer Mac's Annual Meeting of  Stockholders  was held on June 3,
+               2004.
+
+          (b)  See paragraph (c)(1) below. In addition to the Directors  elected
+               at the  Annual  Meeting  of  Stockholders  on June 3,  2004,  the
+               following  Directors  appointed  by the  President  of the United
+               States continue to serve as Directors of Farmer Mac:
+
+                  Fred L. Dailey (Chairman)
+                  Julia Bartling
+                  Grace T. Daniel
+                  Lowell L. Junkins
+                  Glen O. Klippenstein
+
+          (c)  (1) Election of Directors (cumulative voting):
+
+                                            Class A Nominees
+                                            Number of Shares
+                                            For      Withheld
+                                        ------------------------
+                  Dennis L. Brack        698,366       2,100
+                  Dennis A. Everson      698,666       1,800
+                  Mitchell A. Johnson    698,266       2,200
+                  Timothy F. Kenny       698,366       2,100
+                  Charles E. Kruse       698,866       1,600
+
+                                          Class B Nominees
+                                          Number of Shares
+                                          For      Withheld
+                                       ------------------------
+                  Ralph "Buddy" Cortese  391,678         200
+                  Paul A. DeBriyn        391,678         200
+                  Kenneth E. Graff       892,443       1,050
+                  John G. Nelson, III    391,678         200
+                  John Dan Raines        391,678         200
+
+
+               (2)  Selection of Independent Auditors (Deloitte & Touche LLP):
+
+                                    Class A Stockholders
+                                      Number of Shares
+                                    --------------------
+                        For                697,166
+                        Against              1,300
+                        Abstain              2,000
+
+                                    Class B Stockholders
+                                      Number of Shares
+                                    --------------------
+                        For                492,401
+                        Against                  0
+                        Abstain                  0
+
+          (d)  Not applicable.
+
+Item 5. Other Information
+
+   None.
+
+
+
+<PAGE>
+
+
+Item 6. Exhibits and Reports on Form 8-K
+
+      (a)   Exhibits.
+
+*  3.1   -  Title  VIII of the  Farm  Credit  Act of  1971,  as   most  recently
+            amended by the  Farm Credit System  Reform Act of 1996, P.L. 104-105
+            (Form 10-K filed March 29, 1996).
+
+** 3.2    - Amended and restated By-Laws of the Registrant.
+
+*  4.1    - Specimen  Certificate for Farmer  Mac  Class A  Voting  Common Stock
+            (Form 10-Q filed May 15, 2003).
+
+*  4.2    - Specimen  Certificate  for  Farmer  Mac  Class B Voting Common Stock
+            (Form 10-Q filed May 15, 2003).
+
+*  4.3    - Specimen  Certificate   for  Farmer  Mac  Class C  Non-Voting Common
+            Stock (Form 10-Q filed May 15, 2003).
+
+*  4.4    - Certificate of Designation of  Terms  and  Conditions  of Farmer Mac
+            6.40% Cumulative Preferred Stock, Series A  (Form 10-Q filed May 15,
+            2003).
+
++* 10.1   - Stock  Option Plan  (Previously  filed as Exhibit  19.1 to Form 10-Q
+            filed August 14, 1992).
+
++* 10.1.1 - Amendment No. 1 to  Stock Option  Plan (Previously filed  as Exhibit
+            10.2 to Form 10-Q filed August 16, 1993).
+
++* 10.1.2 - 1996 Stock Option Plan (Form 10-Q filed August 14, 1996).
+
++* 10.1.3 - Amended  and Restated 1997 Incentive  Plan (Form 10-Q filed November
+            14, 2003).
+
++* 10.2   - Employment  Agreement  dated  May 5, 1989  between  Henry D. Edelman
+            and the Registrant (Previously  filed as  Exhibit  10.4 to Form 10-K
+            filed February 14, 1990).
+
++* 10.2.1 - Amendment No. 1 dated as  of January 10, 1991 to Employment Contract
+            between  Henry D. Edelman  and  the  Registrant (Previously filed as
+            Exhibit 10.4 to Form 10-K filed April 1, 1991).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
++* 10.2.2 - Amendment  to Employment Contract dated  as  of June 1, 1993 between
+            Henry D. Edelman  and the  Registrant  (Previously  filed as Exhibit
+            10.5 to Form 10-Q filed November 15, 1993).
+
++* 10.2.3 - Amendment  No. 3 dated  as  of June 1, 1994  to  Employment Contract
+            between  Henry D. Edelman  and  the  Registrant (Previously filed as
+            Exhibit 10.6 to Form 10-Q filed August 15, 1994).
+
+
++* 10.2.4 - Amendment No. 4 dated  as of February 8, 1996 to Employment Contract
+            between  Henry  D. Edelman  and  the  Registrant  (Form  10-K  filed
+            March 29, 1996).
+
++* 10.2.5 - Amendment  No. 5  dated  as  of June 13, 1996 to Employment Contract
+            between  Henry  D.  Edelman  and  the  Registrant (Form  10-Q  filed
+            August 14, 1996).
+
++* 10.2.6 - Amendment  No. 6 dated  as  of August 7, 1997 to Employment Contract
+            between  Henry  D. Edelman   and  the  Registrant (Form  10-Q  filed
+            November 14, 1997).
+
++* 10.2.7 - Amendment  No. 7  dated  as  of  June 4, 1998 to Employment Contract
+            between  Henry D. Edelman and the Registrant (Form 10-Q filed August
+            14, 1998).
+
++* 10.2.8 - Amendment No. 8 dated  as  of  June 3, 1999  to Employment  Contract
+            between  Henry D. Edelman and the Registrant (Form 10-Q filed August
+            12, 1999).
+
++* 10.2.9 - Amendment  No. 9  dated  as  of  June 1, 2000 to Employment Contract
+            between Henry D. Edelman  and the Registrant (Form 10-Q filed August
+            14, 2000).
+
++* 10.2.10- Amendment No. 10  dated  as  of  June 7, 2001 to Employment Contract
+            between  Henry  D. Edelman  and  the  Registrant  (Form  10-Q  filed
+            August 14, 2001).
+
++* 10.2.11- Amendment  No. 11  dated  as  of June 6, 2002 to Employment Contract
+            between  Henry  D.  Edelman  and  the  Registrant (Form  10-Q  filed
+            August 14, 2002).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
++* 10.2.12- Amendment No. 12  dated  as  of  June 5, 2003 to Employment Contract
+            between  Henry  D. Edelman  and  the  Registrant  (Form  10-Q  filed
+            August 14, 2003).
+
++* 10.3   - Employment Agreement dated  May 11, 1989 between Nancy E. Corsiglia
+            and the Registrant (Previously filed  as Exhibit 10.5 to Form 10-K
+            filed February 14, 1990).
+
++* 10.3.1 - Amendment  dated December 14, 1989 to  Employment  Agreement between
+            Nancy E. Corsiglia  and  the Registrant (Previously filed as Exhibit
+            10.5 to Form 10-K filed February  14, 1990).
+
+
++* 10.3.2 - Amendment  No. 2  dated  February  14, 1991  to Employment Agreement
+            between  Nancy E. Corsiglia and  the Registrant (Previously filed as
+            Exhibit 10.7 to Form 10-K filed April 1, 1991).
+
++* 10.3.3 - Amendment to Employment  Contract dated  as  of June 1, 1993 between
+            Nancy E. Corsiglia and the  Registrant (Previously filed  as Exhibit
+            10.9 to Form 10-Q filed November 15, 1993).
+
++* 10.3.4 - Amendment No. 4 dated June 1, 1993 to  Employment  Contract  between
+            Nancy E. Corsiglia and the  Registrant (Previously  filed as Exhibit
+            10.10 to Form 10-K filed March 31, 1994).
+
++* 10.3.5 - Amendment No. 5 dated  as  of  June 1, 1994  to  Employment Contract
+            between Nancy E. Corsiglia and  the  Registrant (Previously filed as
+            Exhibit 10.12 to Form 10-Q filed August 15, 1994).
+
++* 10.3.6 - Amendment No. 6 dated  as  of  June  1, 1995  to Employment Contract
+            between  Nancy E. Corsiglia  and  the  Registrant  (Form  10-Q filed
+            August 14, 1995).
+
++* 10.3.7 - Amendment No. 7 dated as of February 8, 1996  to Employment Contract
+            between Nancy E. Corsiglia and the Registrant (Form 10-K filed March
+            29, 1996).
+
++* 10.3.8 - Amendment No. 8 dated  as  of  June 13, 1996 to  Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            August 14, 1996).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
++* 10.3.9 - Amendment No. 9 dated  as  of  August 7, 1997 to Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            November 14, 1997).
+
++* 10.3.10- Amendment No. 10 dated  as  of  June  4, 1998 to Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            August 14, 1998).
+
++* 10.3.11- Amendment No. 11 dated  as  of  June  3, 1999 to Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            August 12, 1999).
+
++* 10.3.12- Amendment No. 12 dated  as  of  June 1, 2000  to Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            August 14, 2000).
+
++* 10.3.13- Amendment No. 13 dated  as  of  June 7, 2001  to Employment Contract
+            between  Nancy  E. Corsiglia  and  the  Registrant (Form  10-Q filed
+            August 14, 2001).
+
++* 10.3.14- Amendment  No. 14  dated  as  of June 6, 2002 to Employment Contract
+            between  Nancy  E.  Corsiglia  and  the  Registrant (Form 10-Q filed
+            August 14, 2002).
+
++* 10.3.15- Amendment No. 15  dated  as  of  June 5, 2003 to Employment Contract
+            between  Nancy  E.  Corsiglia  and  the  Registrant (Form 10-Q filed
+            August 14, 2003).
+
++* 10.4   - Employment  Contract  dated  as  of September 1, 1997 between Tom D.
+            Stenson and the Registrant (Previously filed as Exhibit 10.8 to Form
+            10-Q filed November 14, 1997).
+
++* 10.4.1 - Amendment No. 1 dated  as  of  June  4, 1998  to Employment Contract
+            between  Tom D. Stenson  and  the  Registrant  (Previously  filed as
+            Exhibit 10.8.1 to Form 10-Q filed August 14, 1998).
+
++* 10.4.2 - Amendment  No. 2  dated  as  of  June 3, 1999 to Employment Contract
+            between  Tom D. Stenson  and  the Registrant (Form 10-Q filed August
+            12, 1999).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
++* 10.4.3 - Amendment  No. 3  dated  as  of  June 1, 2000 to Employment Contract
+            between  Tom D. Stenson  and the Registrant (Form  10-Q filed August
+            14, 2000).
+
++* 10.4.4 - Amendment   No. 4  dated  as  of June 7, 2001 to Employment Contract
+            between  Tom  D.  Stenson and the Registrant (Form 10-Q filed August
+            14, 2001).
+
++* 10.4.5 - Amendment No. 5 dated  as  of  June  6, 2002  to Employment Contract
+            between  Tom  D. Stenson  and the Registrant (Form 10-Q filed August
+            14, 2002).
+
++* 10.4.6 - Amendment  No.  6 dated  as  of  June 5, 2003 to Employment Contract
+            between  Tom  D. Stenson and  the Registrant (Form 10-Q filed August
+            14, 2003).
+
++* 10.5   - Employment Contract dated February 1, 2000 between  Jerome G. Oslick
+            and  the  Registrant (Previously  filed as Exhibit 10.6 to Form 10-Q
+            filed May 11, 2000).
+
++* 10.5.1 - Amendment No. 1 dated  as  of  June  1, 2000  to Employment Contract
+            between  Jerome  G. Oslick  and  the Registrant (Previously filed as
+            Exhibit 10.6.1 to Form 10-Q filed August 14, 2000).
+
++* 10.5.2 - Amendment  No.  2  dated  as  of June 7, 2001 to Employment Contract
+            between  Jerome  G.  Oslick  and the Registrant (Previously filed as
+            Exhibit 10.6.2 to Form 10-Q filed August 14, 2001).
+
++* 10.5.3 - Amendment  No.  3  dated  as  of June 6, 2002 to Employment Contract
+            between Jerome G. Oslick and the Registrant (Form  10-Q filed August
+            14, 2002).
+
++* 10.5.4 - Amendment  No. 4  dated  as  of  June 5, 2003 to Employment Contract
+            between Jerome G. Oslick and the Registrant (Form  10-Q filed August
+            14, 2003).
+
++* 10.6   - Employment Contract dated June 5, 2003  between Timothy L. Buzby and
+            the Registrant (Form 10-Q filed August 14, 2003).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
+*  10.7   - Farmer Mac I Seller/Servicer  Agreement  dated  as of August 7, 1996
+            between Zions  First  National  Bank  and  the Registrant (Form 10-Q
+            filed November 14, 2002).
+
+*  10.8   - Medium-Term Notes U.S. Selling Agency Agreement  dated as of October
+            1, 1998  between  Zions First National Bank and the Registrant (Form
+            10-Q filed November 14, 2002).
+
+*  10.9   - Discount  Note  Dealer  Agreement  dated  as  of  September 18, 1996
+            between  Zions  First  National  Bank  and the Registrant (Form 10-Q
+            filed November 14, 2002).
+
+*# 10.10  - ISDA Master  Agreement and Credit Support Annex dated as of June 26,
+            1997 between Zions First National Bank and the Registrant (Form 10-Q
+            filed November 14, 2002).
+
+*# 10.11  - Master  Central  Servicing  Agreement  dated as of December 17, 1996
+            between Zions  First  National  Bank and  the  Registrant (Form 10-Q
+            filed November 14, 2002).
+
+*# 10.11.1- Amendment  No. 1  dated  as of  February  26, 1997 to Master Central
+            Servicing  Agreement  dated  as  of  December 17, 1996 between Zions
+            First National Bank and the Registrant (Form 10-Q filed November 14,
+            2002).
+
+**#10.11.2- Amended and Restated Master Central Servicing Agreement  dated as of
+            May 1, 2004 between Zions First National Bank and the Registrant.
+
+*# 10.12  - Loan File Review and Underwriting Agreement dated as of December 17,
+            1996 between Zions First National Bank and the Registrant (Form 10-Q
+            filed November 14, 2002).
+
+*# 10.12.1- Amendment No. 1 dated as of January 20, 2000 to Loan File Review and
+            Underwriting Agreement dated  as  of December 17, 1996 between Zions
+            First National Bank and the Registrant (Form 10-Q filed November 14,
+            2002).
+
+*# 10.13  - Long Term Standby Commitment to Purchase dated as  of August 1, 1998
+            between AgFirst Farm Credit Bank and the Registrant (Form 10-Q filed
+            November 14, 2002).
+
+*# 10.13.1- Amendment No. 1 dated  as  of  January 1,  2000 to Long Term Standby
+            Commitment  to  Purchase  dated as of August 1, 1998 between AgFirst
+            Farm  Credit  Bank  and the Registrant (Form 10-Q filed November 14,
+            2002).
+
+_________________________
+*    Incorporated by reference to the indicated prior filing.
+**   Filed herewith.
++    Management contract or compensatory plan.
+#    Portions  of this  exhibit  have been  omitted  pursuant  to a request  for
+     confidential treatment.
+
+<PAGE>
+
+*  10.13.2- Amendment No. 2 dated  as  of September 1, 2002 to Long Term Standby
+            Commitment  to  Purchase dated  as  of August 1, 1998, as amended by
+            Amendment No. 1 dated  as  of  January 1, 2000, between AgFirst Farm
+            Credit Bank and the Registrant (Form 10-Q filed November 14, 2002).
+
+*  10.14  - Lease  Agreement, dated  June  28, 2001 between EOP - Two Lafayette,
+            L.L.C. and the Registrant (Previously filed as Exhibit 10.10 to Form
+            10-K filed March 27, 2002).
+
++* 10.15  - Employment Contract dated October 31, 2003 between Michael P. Morris
+            and the Registrant (Form 10-K filed March 15, 2004).
+
+   21     - Farmer Mac Mortgage Securities Corporation, a Delaware corporation.
+
+** 31.1   - Certification   of   Chief   Executive   Officer  relating   to  the
+            Registrant's Quarterly  Report  on  Form  10-Q for the quarter ended
+            June 30, 2004, pursuant  to  Rule 13a-14(a),  as adopted pursuant to
+            Section 302 of the Sarbanes-Oxley Act of 2002.
+
+** 31.2   - Certification   of   Chief   Financial   Officer   relating  to  the
+            Registrant's Quarterly  Report  on  Form  10-Q for the quarter ended
+            June  30, 2004,  pursuant  to  Rule  13a-14(a), as  adopted pursuant
+            to  Section  302  of  the  Sarbanes-Oxley Act of 2002.
+
+** 32     - Certification  of   Chief   Executive   Officer and  Chief Financial
+            Officer relating to the  Registrant's Quarterly  Report on Form 10-Q
+            for the  quarter ended  June 30, 2004, pursuant to 18 U.S.C. Section
+            1350, as adopted  pursuant to  Section  906  of  the  Sarbanes-Oxley
+            Act of 2002.
+
+      (b) Reports on Form 8-K.
+
+     On April 6,  2004,  Farmer  Mac  filed  with the  Securities  and  Exchange
+Commission a Current Report on Form 8-K  announcing  that, on April 1, 2004, the
+Board of  Directors  of Farmer Mac had  declared  a  quarterly  dividend  on the
+Corporation's 6.40% Cumulative Preferred Stock, Series A.
+
+     On April 29,  2004,  Farmer Mac  furnished to the  Securities  and Exchange
+Commission a Current Report on Form 8-K that attached a press release announcing
+Farmer Mac's financial results for first quarter 2004.
+
+     On June 3, 2004,  Farmer  Mac  furnished  to the  Securities  and  Exchange
+Commission a Current Report on Form 8-K that attached a press release  regarding
+Farmer  Mac's  update to  Congress  on its mission  achievements  and  financial
+condition.
+
+
+
+<PAGE>
+
+
+
+                                   SIGNATURES
+
+     Pursuant  to the  requirements  of  Section  13 or 15(d) of the  Securities
+Exchange Act of 1934, the Registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                        FEDERAL AGRICULTURAL MORTGAGE CORPORATION
+
+
+August 9, 2004
+
+                      By:          /s/ Henry D. Edelman
+                              ----------------------------------------
+                                Henry D. Edelman
+                                President and Chief Executive Officer
+                                (Principal Executive Officer)
+
+
+
+                                  /s/ Nancy E. Corsiglia
+                              ----------------------------------------
+                               Nancy E. Corsiglia
+                               Vice President - Finance
+                               (Principal Financial Officer)
+
+
+
+
+
+</TEXT>
+</DOCUMENT>

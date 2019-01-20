@@ -1,0 +1,3098 @@
+<DOCUMENT>
+<TYPE>10-K
+<SEQUENCE>1
+<FILENAME>c65120e10-k.txt
+<DESCRIPTION>FORM 10-K FOR PERIOD ENDING JUNE 30, 2001
+<TEXT>
+<PAGE>   1
+
+                                   FORM 10-K
+                       SECURITIES AND EXCHANGE COMMISSION
+                              Washington, DC 20549
+(Mark One)
+            [X] ANNUAL REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+                       For the fiscal year June 30, 2001
+                                       OR
+          [ ] TRANSITION REPORT PURSUANT TO SECTION 13 OR 15(D) OF THE
+                        SECURITIES EXCHANGE ACT OF 1934
+           For the transition period from             to
+                         Commission File Number 0-19266
+
+                        -------------------------------
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+             [EXACT NAME OF REGISTRANT AS SPECIFIED IN ITS CHARTER]
+
+<Table>
+<S>                                            <C>
+                  DELAWARE                                      25-1370721
+       (STATE OR OTHER JURISDICTION OF             (I.R.S. EMPLOYER IDENTIFICATION NO.)
+       INCORPORATION OR ORGANIZATION)
+            1720 SUBLETTE AVENUE
+             ST. LOUIS, MISSOURI                                   63110
+  (ADDRESS OF PRINCIPAL EXECUTIVE OFFICES)                      (ZIP CODE)
+</Table>
+
+       REGISTRANT'S TELEPHONE NUMBER, INCLUDING AREA CODE (314) 771-2400
+                        -------------------------------
+
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(B) OF THE ACT:
+
+<Table>
+<Caption>
+                                                           Name of each exchange
+             Title of each class                            on which registered
+             -------------------                           ---------------------
+<S>                                            <C>
+</Table>
+
+                                      None
+          SECURITIES REGISTERED PURSUANT TO SECTION 12(G) OF THE ACT:
+                                  Common Stock
+                                Preferred Stock
+                        Preferred Stock Purchase Rights
+                                (Title of class)
+                        -------------------------------
+
+    Indicate by check mark whether the Registrant: (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding 12 months (or for such shorter period that the
+Registrant was required to file such reports), and (2) has been subject to such
+filing requirements for the past 90 days. Yes. X  No.
+
+    Indicate by check mark if disclosure of delinquent filers pursuant to Item
+405 of Regulation S-K is not contained herein, and will not be contained, to the
+best of Registrant's knowledge, in definitive proxy or information statements
+incorporated by reference in Part III of this Form 10-K or any amendment to this
+Form 10-K.
+
+    As of September 19, 2001, the aggregate market value of the voting stock
+held by non-affiliates of the Registrant was approximately $12,800,000.
+
+    As of September 19, 2001, there were 7,806,682 shares of common stock, $0.01
+par value (the "Common Stock"), outstanding.
+
+                      DOCUMENTS INCORPORATED BY REFERENCE
+
+           Proxy Statement dated October 5, 2001 (portion) (Part III)
+<PAGE>   2
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                               INDEX TO FORM 10-K
+
+<Table>
+<Caption>
+                                                                            Page
+                                                                            ----
+<S>         <C>                                                             <C>
+                                       PART I
+Item 1.     Business....................................................      1
+Item 2.     Properties..................................................      9
+Item 3.     Legal Proceedings...........................................      9
+Item 4.     Submission of Matters to a Vote of Security Holders.........      9
+
+                                      PART II
+Item 5.     Market for Registrant's Common Stock and Related Stockholder
+            Matters.....................................................     10
+Item 6.     Selected Financial Data.....................................     10
+Item 7.     Management's Discussion and Analysis of Financial Condition
+            and Results of Operations...................................     11
+Item 8.     Financial Statements and Supplementary Data.................     20
+Item 9.     Changes in and Disagreements with Accountants on Accounting
+            and Financial Disclosure....................................     38
+
+                                      PART III
+Item 10.    Directors and Executive Officers of the Registrant..........     38
+Item 11.    Executive Compensation......................................     38
+Item 12.    Security Ownership of Certain Beneficial Owners and
+            Management..................................................     38
+Item 13.    Certain Relationships and Related Transactions..............     38
+
+                                      PART IV
+Item 14.    Exhibits, Financial Statement Schedule, and Reports on Form
+            8-K.........................................................     39
+</Table>
+<PAGE>   3
+
+         SAFE HARBOR" STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION
+                               REFORM ACT OF 1995
+
+Statements contained in this Report which are not historical facts or
+information are "forward-looking statements." Words such as "believe," "expect,"
+"intend," "will," "should," and other expressions that indicate future events
+and trends identify such forward-looking statements. These forward-looking
+statements involve risks and uncertainties which could cause the outcome and
+future results of operations and financial condition to be materially different
+than stated or anticipated based on the forward-looking statements. Such risks
+and uncertainties include both general economic risks and uncertainties, risks
+and uncertainties affecting the demand for and economic factors affecting the
+delivery of health care services, and specific matters which relate directly to
+the Company's operations and properties as discussed in Items 1, 3 and 7 in this
+Report. The Company cautions that any forward-looking statements contained in
+this report reflects only the belief of the Company or its management at the
+time the statement was made. Although the Company believes such forward-looking
+statements are based upon reasonable assumptions, such assumptions may
+ultimately prove inaccurate or incomplete. The Company undertakes no obligation
+to update any forward-looking statement to reflect events or circumstances after
+the date on which the statement was made.
+
+                                     PART I
+
+ITEM 1. BUSINESS
+
+GENERAL
+
+     Allied Healthcare Products, Inc. ("Allied" or the "Company") manufactures a
+variety of respiratory products used in the health care industry in a wide range
+of hospital and alternate site settings, including sub-acute care facilities,
+home health care and emergency medical care. The Company's product lines include
+respiratory care products, medical gas equipment and emergency medical products.
+The Company believes that it maintains significant market shares in selected
+product lines.
+
+     The Company's products are marketed under well-recognized and respected
+brand names to hospitals, hospital equipment dealers, hospital construction
+contractors, home health care dealers, emergency medical products dealers and
+others. Allied's product lines include:
+
+     RESPIRATORY CARE PRODUCTS
+
+     - respiratory care/anesthesia products
+
+     - home respiratory care products
+
+     MEDICAL GAS EQUIPMENT
+
+     - medical gas system construction products
+
+     - medical gas system regulation devices
+
+     - disposable oxygen and specialty gas cylinders
+
+     - portable suction equipment
+
+     EMERGENCY MEDICAL PRODUCTS
+
+     - respiratory/resuscitation products
+
+     - trauma and patient handling products
+
+     The Company's principal executive offices are located at 1720 Sublette
+Avenue, St. Louis, Missouri 63110, and its telephone number is (314) 771-2400.
+
+                                        1
+<PAGE>   4
+
+MARKETS AND PRODUCTS
+
+     In fiscal 2001, respiratory care products, medical gas equipment and
+emergency medical products represented approximately 28%, 57% and 15%,
+respectively, of the Company's net sales. The Company operates in a single
+industry segment and its principal products are described in the following
+table:
+
+<Table>
+<Caption>
+                                                                       Principal
+         Product                        Description                   Brand Names            Primary Users
+--------------------------    -------------------------------    ----------------------    ------------------
+<S>                           <C>                                <C>                       <C>
+RESPIRATORY CARE PRODUCTS
+  Respiratory Care/           Large volume compressors;          Timeter                   Hospitals and sub-
+  Anesthesia Products         ventilator calibrators;                                      acute facilities
+                              humidifiers and mist tents
+  Home Respiratory Care       O2 cylinders; pressure             Timeter; B&F; Schuco      Patients at home
+  Products                    regulators; nebulizers;
+                              portable large volume
+                              compressors; portable suction
+                              equipment and disposable
+                              respiratory products
+
+MEDICAL GAS EQUIPMENT
+  Construction Products       In-wall medical gas system         Chemetron; Oxequip        Hospitals and sub-
+                              components; central suction                                  acute facilities
+                              pumps and compressors and
+                              headwalls
+  Regulation Devices          Flowmeters; vacuum regulators;     Chemetron; Oxequip;       Hospitals and sub-
+                              pressure regulators and related    Timeter                   acute facilities
+                              products
+  Disposable Cylinders        Disposable oxygen and gas          Lif-O-Gen                 First aid
+                              cylinders                                                    providers and
+                                                                                           specialty gas
+                                                                                           distributors
+  Suction Equipment           Portable suction equipment and     Gomco; Allied; Schuco     Hospitals; sub-
+                              disposable suction canisters                                 acute facilities
+                                                                                           and home care
+                                                                                           products
+
+EMERGENCY MEDICAL PRODUCTS
+                              Demand resuscitation valves;       LSP; Omni- Tech           Emergency service
+ Respiratory/Resuscitation    bag mask resuscitators;                                      providers
+                              emergency transport ventilators
+                              and oxygen regulators
+  Trauma and Patient          Spine immobilization products;     LSP                       Emergency service
+  Handling Products           pneumatic anti-shock garments                                providers
+                              and trauma burn kits
+</Table>
+
+RESPIRATORY CARE PRODUCTS
+
+     MARKET. Respiratory care products are used in the treatment of acute and
+chronic respiratory disorders such as asthma, emphysema, bronchitis and
+pneumonia. Respiratory care products are used in both hospitals and alternate
+care settings. Sales of respiratory care products are made through distribution
+channels focusing on hospitals and other sub-acute facilities. Sales of home
+respiratory care products are made through durable medical equipment dealers
+through telemarketing, and by contract sales with national chains.
+
+     RESPIRATORY CARE/ANESTHESIA PRODUCTS. The Company manufactures and sells a
+broad range of products for use in respiratory care and anesthesia delivery.
+These products include large volume air compressors,
+
+                                        2
+<PAGE>   5
+
+calibration equipment, humidifiers, croup tents, equipment dryers, CO2 absorbent
+and a complete line of respiratory disposable products such as oxygen tubing,
+face masks, cannulas and ventilator circuits.
+
+     HOME RESPIRATORY CARE PRODUCTS. Home respiratory care products represent
+one of Allied's potential growth areas. Allied's broad line of home respiratory
+care products include aluminum oxygen cylinders, oxygen regulators, pneumatic
+nebulizers, portable suction equipment and the full line of respiratory
+disposable products.
+
+MEDICAL GAS EQUIPMENT
+
+     MARKET. The market for medical gas equipment consists of hospitals,
+alternate care settings and surgery centers. The medical gas equipment group is
+broken down into three separate categories: construction products, regulation
+devices and suction equipment, and disposable cylinders.
+
+     CONSTRUCTION PRODUCTS. Allied's medical gas system construction products
+consist of in-wall medical system components, central station pumps and
+compressors, and headwalls. These products are typically installed during
+construction or renovation of a health care facility and are built in as an
+integral part of the facility's physical plant. Typically, the contractor for
+the facility's construction or renovation purchases medical gas system
+components from manufacturers and ensures that the design specifications of the
+health care facility are met.
+
+     Allied's in-wall components, including outlets, manifolds, alarms, ceiling
+columns and zone valves, serve a fundamental role in medical gas delivery
+systems.
+
+     Central station pumps and compressors are individually engineered systems
+consisting of compressors, reservoirs, valves and controls designed to drive a
+hospital's medical gas and suction systems. Each system is designed specifically
+for a given hospital or facility, which purchases pumps and compressors from
+suppliers. The Company's sales of pumps and compressors are driven, in large
+part, by its share of the in-wall components market.
+
+     The Company's construction products are sold primarily to hospitals,
+alternate care settings and hospital construction contractors. The Company
+believes that it holds a major share of the U.S. market for its construction
+products, that these products are installed in more than three thousand
+hospitals in the United States and that its installed base of equipment in this
+market will continue to generate follow-on sales. The Company believes that most
+hospitals and sub-acute care facility construction spending is for expansion or
+renovation of existing facilities. Many hospital systems and individual
+hospitals undertake major renovations to upgrade their operations to improve the
+quality of care they provide, reduce costs and attract patients and personnel.
+
+     While Allied sold the assets of its headwall manufacturing division,
+Hospital Systems, Inc. on May 28, 1999, the Company continues to sell headwall
+products in the construction product market. Allied's participation in this
+market includes the distribution of headwall components utilized by various
+headwall manufacturers, as well as the distribution of complete headwall systems
+purchased from outside manufacturers that are utilized in hospital construction
+and renovation.
+
+     REGULATION DEVICES AND SUCTION EQUIPMENT. The Company's medical gas system
+regulation products include flowmeters, vacuum regulators and pressure
+regulators, as well as related adapters, fittings and hoses which measure,
+regulate, monitor and help transfer medical gases from walled piping or
+equipment to patients in hospital rooms, operating theaters or intensive care
+areas. The Company's leadership position in the in-wall components market
+provides a competitive advantage in marketing medical gas system regulation
+devices that are compatible with those components.
+
+     Portable suction equipment is typically used when in-wall suction is not
+available or when medical protocol specifically requires portable suction. The
+Company also manufactures disposable suction canisters, which are clear
+containers used to collect the fluids suctioned by in-wall or portable suction
+systems. The containers have volume calibrations which allow the medical
+practitioner to measure the volume of fluids suctioned.
+
+                                        3
+<PAGE>   6
+
+     The market for regulation devices and suction equipment includes hospital
+and sub-acute care facilities. Sales of these products are made through the same
+distribution channel as our respiratory care products. The Company believes that
+it holds a significant share of the U.S. market in both regulation devices and
+suction equipment.
+
+     DISPOSABLE CYLINDERS. Disposable oxygen cylinders are designed to provide
+oxygen for short periods of time in emergency situations. Since they are not
+subjected to the same pressurization as standard containers, they are much
+lighter and less expensive than standard gas cylinders. The Company markets
+filled disposable oxygen cylinders through industrial safety distributors and
+similar customers, principally to first aid providers, restaurants, industrial
+plants and other customers that require oxygen for infrequent emergencies.
+
+EMERGENCY MEDICAL PRODUCTS
+
+     MARKET. Emergency medical products are used in the treatment of
+trauma-induced injuries. The Company's emergency medical products provide
+patients resuscitation or ventilation during cardiopulmonary resuscitation or
+respiratory distress as well as immobilization and treatment for burns. The
+Company believes that the trauma care venue for health care services is
+positioned for growth in light of the continuing trend towards providing health
+care outside the traditional hospital setting. The Company also expects that
+other countries will develop trauma care systems in the future, although no
+assurance can be given that such systems will develop or that they will have a
+favorable impact on the Company. Sales of emergency medical products are made
+through specialized emergency medical products distributors to ambulance
+companies, fire departments and emergency medical systems volunteer
+organizations.
+
+     The emergency medical products are broken down into two account groups:
+respiratory/resuscitator products and trauma patient handling products.
+
+     RESPIRATORY/RESUSCITATION PRODUCTS. The Company's respiratory/resuscitation
+products include demand resuscitation valves, portable resuscitation systems,
+bag masks and related products, emergency transport ventilators, precision
+oxygen regulators, minilators, multilators and humidifiers.
+
+     Demand resuscitation valves are designed to provide 100% oxygen to
+breathing or non-breathing patients. In an emergency situation, they can be used
+with a mask or tracheotomy tubes and operate from a standard regulated oxygen
+system. The Company's portable resuscitation systems provide fast, simple and
+effective means of ventilating a non-breathing patient during cardiopulmonary
+resuscitation and 100% oxygen to breathing patients on demand with minimal
+inspiratory effort. The Company also markets a full line of disposable and
+reusable bag mask resuscitators, which are available in a variety of adult and
+child-size configurations. Disposable mouth-to-mask resuscitation systems have
+the added advantage of reducing the risk of transmission of communicable
+diseases.
+
+     The Company's autovent transport ventilator can meet a variety of needs in
+different applications ranging from typical emergency medical situations to more
+sophisticated air and ground transport. Each autovent is accompanied by a
+patient valve which provides effective ventilation during cardiopulmonary
+resuscitation or respiratory distress. When administration of oxygen is required
+at the scene of a disaster, in military field hospitals or in a multiple-victim
+incident, Allied's minilators and multilators are capable of providing oxygen to
+one or a large number of patients.
+
+     To complement the family of respiratory/resuscitation products, the Company
+offers a full line of oxygen product accessories. This line of accessory
+products includes reusable aspirators, tru-fit masks, disposable cuffed masks
+and related accessories.
+
+     TRAUMA AND PATIENT HANDLING PRODUCTS. The Company's trauma and patient
+handling products include spine immobilization products, pneumatic anti-shock
+garments and trauma burn kits. Spine immobilization products include a backboard
+that is designed for safe immobilization of injury victims and provides a
+durable and cost effective means of emergency patient transportation and
+extrication. The infant/pediatric immobilization board is durable and scaled for
+children. The half back extractor/rescue vest is useful for both suspected
+cervical/spinal injuries and for mountain and air rescues. The Company's
+pneumatic anti-shock
+
+                                        4
+<PAGE>   7
+
+garments are used to treat victims experiencing hypovolemic shock. Allied's
+trauma burn kits contain a comprehensive line of products for the treatment of
+trauma and burns.
+
+SALES AND MARKETING
+
+     Allied sells its products primarily to respiratory care/anesthesia product
+distributors, hospital construction contractors, emergency medical equipment
+dealers and directly to hospitals. The Company maintains a sales force of 37
+sales professionals, all of whom are full-time employees of the Company.
+
+     The sales force includes 25 medical gas specialists, 5 emergency
+specialists and 7 international sales representatives. Four product managers are
+responsible for the marketing activities of our product lines.
+
+     The 25 medical gas specialists are responsible for sales of all Allied
+products with the exception of emergency products within their territory. Sales
+of products are accomplished through respiratory care/ anesthesia distributors
+for the regulation devices, suction equipment, respiratory care/anesthesia
+products and disposable cylinders. The homecare products are sold primarily
+through our own in house telemarketing. Construction products are sold direct to
+hospital construction contractors and through distributors.
+
+     Emergency medical specialists are responsible for sales of
+respiratory/resuscitation products, trauma and patient handling products. These
+products are principally sold to ambulance companies, fire departments and
+emergency medical systems volunteer organizations through specialized emergency
+medical products distributors.
+
+INTERNATIONAL
+
+     Allied's international business represents a potential growth area that the
+Company has been pursuing. Allied's net sales to foreign markets totaled 21% of
+the Company's net sales in fiscal 2001. International sales are made through a
+network of doctors, agents and U.S. exporters who distribute the Company's
+products throughout the world. Allied has market presence in Canada, Mexico,
+Central and South America, Europe, the Middle East and the Far East.
+
+MANUFACTURING
+
+     Allied's manufacturing processes include fabrication, electro-mechanical
+assembly operations and plastics manufacturing. A significant part of Allied's
+manufacturing operations involves electro-mechanical assembly of proprietary
+products and the Company is vertically integrated in most elements of metal
+machining and fabrication. Most of Allied's hourly employees are involved in
+machining, metal fabrication, plastics manufacturing and product assembly.
+
+     Allied manufactures small metal components from bar stock in a machine shop
+which includes automatic screw machines, horizontal lathes and drill presses and
+six computer controlled machining centers. The Company makes larger metal
+components from sheet metal using computerized punch presses, brake presses and
+shears. In its plastics manufacturing processes, the Company utilizes both
+extrusion and injection molding. The Company believes that its production
+facilities and equipment are in good condition and sufficient to meet planned
+increases in volume over the next few years and that conditions in local labor
+markets should permit the implementation of additional shifts and days operated.
+
+     In August 1998, Allied announced the closing of its Toledo, Ohio facility
+and subsequent consolidation of the production of its B&F disposable product
+line into the St. Louis facility. This move was completed during the second
+quarter of fiscal 1999. See further discussion of the closure of the Toledo
+operation in the following MDA section of this Form 10-K.
+
+RESEARCH AND DEVELOPMENT
+
+     Allied's research and development group is responsible for the development
+of new products. This group is staffed with mechanical and electrical engineers.
+During the 2000 fiscal year this group was segregated from the product support
+function to allow the group to focus on the introduction of new products.
+
+                                        5
+<PAGE>   8
+
+     During fiscal 2001 the Company released several new products as a result of
+research and development programs. These products include a new B & F Oxygen
+regulator that now has a body made of brass, as well as a new articulating arm
+which allows gas and electrical connections to be positioned closer to the
+patient in operating rooms. The group also engaged in several research projects,
+one leading to a patent application.
+
+GOVERNMENT REGULATION
+
+     The Company's products and its manufacturing activities are subject to
+extensive and rigorous government regulation by federal and state authorities in
+the United States and other countries. In the United States, medical devices for
+human use are subject to comprehensive review by the United States Food and Drug
+Administration (the "FDA"). The Federal Food, Drug, and Cosmetic Act ("FDC
+Act"), and other federal statutes and regulations, govern or influence the
+research, testing, manufacture, safety, labeling, storage, record keeping,
+approval, advertising and promotion of such products. Noncompliance with
+applicable requirements can result in warning letters, fines, recall or seizure
+of products, injunction, refusal to permit products to be imported into or
+exported out of the United States, refusal of the government to clear or approve
+marketing applications or to allow the Company to enter into government supply
+contracts, or withdrawal of previously approved marketing applications and
+criminal prosecution.
+
+     The Company is required to file a premarket notification in the form of a
+premarket approval ("PMA") with the FDA before it begins marketing a new medical
+device that offers new technology that is currently not on the market. The
+Company also must file a premarket notification in the form of a 510(k) with the
+FDA before it begins marketing a new medical device that utilizes existing
+technology for devices that are currently on the market. The 510(k) submission
+process is also required when the Company makes a change or modifies an existing
+device in a manner that could significantly affect the device's safety or
+effectiveness.
+
+     Compliance with the regulatory approval process in order to market a new or
+modified medical device can be uncertain, lengthy and, in some cases, expensive.
+There can be no assurance that necessary regulatory approvals will be obtained
+on a timely basis, or at all. Delays in receipt or failure to receive such
+approvals, the loss of previously received approvals, or failure to comply with
+existing or future regulatory requirements could have a material adverse effect
+on the Company's business, financial condition and results of operations.
+
+     The Company manufactures and distributes a broad spectrum of respiratory
+therapy equipment, emergency medical equipment and medical gas equipment. To
+date, all of the Company's FDA clearances have been obtained through the 510(k)
+clearance process. These determinations are very fact specific and the FDA has
+stated that, initially, the manufacturer is best qualified to make these
+determinations, which should be based on adequate supporting data and
+documentation. The FDA however, may disagree with a manufacturer's determination
+not to file a 510(k) and require the submission of a new 510(k) notification for
+the changed or modified device. Where the FDA believes that the change or
+modification raises significant new questions of safety or effectiveness, the
+agency may require a manufacturer to cease distribution of the device pending
+clearance of a new 510(k) notification. Certain of the Company's medical devices
+have been changed or modified subsequent to 510(k) marketing clearance of the
+original device by the FDA. Certain of the Company's medical devices, which were
+first marketed prior to May 28, 1976, and therefore, grandfathered and exempt
+from the 510(k) notification process, also have been subsequently changed or
+modified. The Company believes that these changes or modifications do not
+significantly affect the device's safety or effectiveness or make a major change
+or modification in the device's intended uses and, accordingly, submission of
+new 510(k) notification to FDA is not required. There can be no assurance,
+however, that FDA would agree with the Company's determinations.
+
+     In addition, commercial distribution in certain foreign countries is
+subject to additional regulatory requirements and receipt of approvals that vary
+widely from country to country. The Company believes it is in compliance with
+regulatory requirements of the countries in which it sells its products.
+
+     The Medical Device Reporting regulation requires that the Company provide
+information to FDA on deaths or serious injuries alleged to have been associated
+with the use of its devices, as well as product malfunctions that would likely
+cause or contribute to death or serious injury if the malfunction were to recur.
+The Medical Device Tracking regulation requires the Company to adopt a method of
+device tracking of
+                                        6
+<PAGE>   9
+
+certain devices, such as ventilators, which are life-supporting or
+life-sustaining devices used outside of a device user facility, some of which
+are permanently implantable devices. The regulation requires that the method
+adopted by the Company ensures that the tracked device can be traced from the
+device manufacturer to the person for whom the device is indicated (i.e., the
+patient). In addition, FDA prohibits a company from promoting an approved device
+for unapproved applications and reviews a company's labeling for accuracy.
+Labeling and promotional activities also are in certain instances, subject to
+scrutiny by the Federal Trade Commission.
+
+     The Company's medical device manufacturing facilities are registered with
+the FDA, and have received ISO 9001 Certification for the St. Louis facility and
+certification per the Medical Device Directive (MDD -- European) for certain
+products in 1998. As such, the Company will be audited by FDA, ISO, and European
+auditors for compliance with the Good Manufacturing Practices ("GMP"), ISO and
+MDD regulations for medical devices. These regulations require the Company to
+manufacture its products and maintain its products and documentation in a
+prescribed manner with respect to design, manufacturing, testing and control
+activities. The Company also is subject to the registration and inspection
+requirements of state regulatory agencies.
+
+     In March through June 2000, the FDA conducted an inspection of the
+Company's St. Louis facility and provided a written report, known as an "FDA
+Form 483" or simply a "483," citing FDA observations concerning GMP compliance
+and quality control issues applicable to demand valves, emergency ventilators,
+circumcision clamps, and regulators. The Company provided a written response to
+the FDA and in August 2000, the FDA issued a warning letter and requested that
+the Company clarify and supplement its responses to the 483 observations. As a
+result, the Company has submitted to the FDA a written supplemental response and
+is in the process of implementing actions to address the FDA concerns. The
+Company met with the FDA at their Kansas City field office in March 2001 to
+discuss the responses and actions. The Company believes that its responses to
+date and its continuing attention to the matters raised by the FDA will avert
+any FDA action seeking to interrupt or suspend manufacturing or to require any
+recall or modification of products.
+
+     There can be no assurance that any required FDA or other governmental
+approval will be granted, or, if granted, will not be withdrawn. Governmental
+regulation may prevent or substantially delay the marketing of the Company's
+proposed products and cause the Company to undertake costly procedures. In
+addition, the extent of potentially adverse government regulation that might
+arise from future administrative action or legislation cannot be predicted. Any
+failure to obtain, or delay in obtaining, such approvals could adversely affect
+the Company's ability to market its proposed products.
+
+     Sales of medical devices outside the United States are subject to foreign
+regulatory requirements that vary widely from country to country. Medical
+products shipped to the European Community require CE certification. Whether or
+not FDA approval has been obtained, approval of a device by a comparable
+regulatory authority of a foreign country generally must be obtained prior to
+the commencement of marketing in those countries. The time required to obtain
+such approvals may be longer or shorter than that required for FDA approval. In
+addition, FDA approval may be required under certain circumstances to export
+certain medical devices.
+
+     The Company is also subject to numerous federal, state and local laws
+relating to such matters as safe working conditions, manufacturing practices,
+environmental protections, fire hazard control and disposal of hazardous or
+potentially hazardous substances.
+
+THIRD PARTY REIMBURSEMENT
+
+     The cost of a majority of medical care in the United States is funded by
+the U.S. Government through the Medicare and Medicaid programs and by private
+insurance programs, such as corporate health insurance plans. Although the
+Company does not receive payments for its products directly from these programs,
+home respiratory care providers and durable medical equipment suppliers, who are
+the primary customers for several of the Company's products, depend heavily on
+payments from Medicare, Medicaid and private insurers as a major source of
+revenues. In addition, sales of certain of the Company's products are affected
+by the extent of hospital and health care facility construction and renovation
+at any given time. The federal government
+                                        7
+<PAGE>   10
+
+indirectly funds a significant percentage of such construction and renovation
+costs through Medicare and Medicaid reimbursements. In recent years,
+governmentally imposed limits on reimbursement to hospitals and other health
+care providers have impacted spending for services, consumables and capital
+goods. In addition the Balanced Budget Act of 1997 reduced reimbursements by 25%
+for oxygen and oxygen equipment. A material decrease from current reimbursement
+levels or a material change in the method or basis of reimbursing health care
+providers is likely to adversely affect future sales of the Company's products.
+
+PATENTS, TRADEMARKS AND PROPRIETARY TECHNOLOGY
+
+     The Company owns and maintains patents on several products that it believes
+are useful to the business and provides the Company with an advantage over its
+competitors. During fiscal 2001 the Company applied for one patent.
+
+     The Company owns and maintains U.S. trademark registrations for Chemetron,
+Gomco, Oxequip, Lif-O-Gen, Life Support Products, Timeter, Vacutron and Schuco,
+its principal trademarks. Registrations for these trademarks are also owned and
+maintained in countries where such products are sold and such registrations are
+considered necessary to preserve the Company's proprietary rights therein.
+
+COMPETITION
+
+     The Company has different competitors within each of its product lines.
+Many of the Company's principal competitors are larger than Allied and the
+Company believes that most of these competitors have greater financial and other
+resources. The Company competes primarily on the basis of price, quality and
+service. The Company believes that it is well positioned with respect to product
+cost, brand recognition, product reliability, and customer service to compete
+effectively in each of its markets.
+
+EMPLOYEES
+
+     At June 30, 2001, the Company had approximately 465 full-time employees.
+Approximately 281 employees in the Company's principal manufacturing facility
+located in St. Louis, Missouri, are covered by a collective bargaining agreement
+that will expire on May 31, 2003. Approximately 13 employees at the Company's
+facility in Stuyvesant Falls, New York are also covered by a collective
+bargaining agreement that will expire on April 15, 2004.
+
+ENVIRONMENTAL AND SAFETY REGULATION
+
+     The Company is subject to federal, state and local environmental laws and
+regulations that impose limitations on the discharge of pollutants into the
+environment and establish standards for the treatment, storage and disposal of
+toxic and hazardous wastes. The Company is also subject to the federal
+Occupational Safety and Health Act and similar state statutes. From time to time
+the Company has been involved in environmental proceedings involving clean up of
+hazardous waste. There are no such material proceedings currently pending. Costs
+of compliance with environmental, health and safety requirements have not been
+material to the Company. The Company believes it is in material compliance with
+all applicable environmental laws and regulations.
+
+                                        8
+<PAGE>   11
+
+ITEM 2. PROPERTIES
+
+     The Company's headquarters are located in St. Louis, Missouri and the
+Company maintains manufacturing facilities in Missouri and New York. Set forth
+below is certain information with respect to the Company's manufacturing
+facilities.
+
+<Table>
+<Caption>
+                              SQUARE FOOTAGE    OWNED/
+         LOCATION             (APPROXIMATE)     LEASED              ACTIVITIES/PRODUCTS
+--------------------------    --------------    ------    ----------------------------------------
+<S>                           <C>               <C>       <C>
+St. Louis, Missouri              270,000        Owned     Headquarters; medical gas equipment;
+                                                          respiratory care products; emergency
+                                                          medical products
+Stuyvesant Falls, New York        30,000        Owned     CO2 absorbent
+</Table>
+
+     In addition, the Company owns a 16.8-acre parcel of undeveloped land in
+Stuyvesant Falls, New York. As indicated elsewhere in this Form 10-K, Allied's
+former manufacturing facility in Toledo was shut down and the operations
+consolidated into St. Louis during the second quarter of fiscal 1999.
+
+ITEM 3. LEGAL PROCEEDINGS
+
+     Product liability lawsuits are filed against the Company from time to time
+for various injuries alleged to have resulted from defects in the manufacture
+and/or design of the Company's products. Several such proceedings are currently
+pending, which are not expected to have a material adverse effect on the
+Company. The Company maintains comprehensive general liability insurance
+coverage which it believes to be adequate for the continued operation of its
+business, including coverage of product liability claims.
+
+     In addition, from time to time the Company's products may be subject to
+product recalls in order to correct design or manufacturing flaws in such
+products. The Company has voluntarily effectuated the recall of its aluminum
+body regulators manufactured under the Life Supports Products, Inc. brand name
+in cooperation with the U.S. Food and Drug Administration ("FDA") under Product
+Recall No. Z-693/698-9 to conform with the industry wide recommendation to cease
+use of aluminum parts in oxygen regulators. The recall is complete and a final
+audit of the results thereof was completed on December 22, 2000 by the FDA.
+
+     In March through June 2000, the FDA conducted an inspection of the
+Company's St. Louis facility and provided a written report, known as an "FDA
+Form 483" or simply a "483," citing FDA observations concerning GMP compliance
+and quality control issues applicable to demand valves, emergency ventilators,
+circumcision clamps, and regulators. The Company provided a written response to
+the FDA and in August 2000, the FDA issued a warning letter and requested that
+the Company clarify and supplement its responses to the 483 observations. As a
+result, the Company has submitted to the FDA a written supplemental response and
+is in the process of implementing actions to address the FDA concerns. The
+Company met with the FDA at their Kansas City field office in March 2001 to
+discuss the responses and actions. The Company believes that its responses to
+date and its continuing attention to the matters raised by the FDA will avert
+any FDA action seeking to interrupt or suspend manufacturing or to require any
+recall or modification of products.
+
+ITEM 4. SUBMISSION OF MATTERS TO A VOTE OF SECURITY HOLDERS
+
+     None
+
+                                        9
+<PAGE>   12
+
+                                    PART II
+
+ITEM 5. MARKET FOR REGISTRANT'S COMMON STOCK AND RELATED STOCKHOLDER MATTERS
+
+     Allied Healthcare Products, Inc. began trading on the NASDAQ National
+market under the symbol AHPI on January 14, 1992, following its initial public
+offering. As of September 19, 2001, there were 234 record owners of the
+Company's Common Stock. The following tables summarize information with respect
+to the high and low closing prices for the Company's Common Stock as listed on
+the NASDAQ National market for each quarter of fiscal 2001 and 2000,
+respectively. The Company currently does not pay any dividend on its Common
+Stock.
+
+COMMON STOCK INFORMATION
+
+<Table>
+<Caption>
+2001                             HIGH      LOW          2000                             HIGH      LOW
+-----------------------------    -----    -----         -----------------------------    -----    -----
+<S>                              <C>      <C>           <C>                              <C>      <C>
+September quarter                $3.38    $2.69         September quarter                $2.94    $1.66
+December quarter                 $3.25    $2.58         December quarter                 $2.94    $2.13
+March quarter                    $3.69    $2.97         March quarter                    $3.63    $2.50
+June quarter                     $3.50    $3.10         June quarter                     $3.77    $3.06
+</Table>
+
+ITEM 6. SELECTED CONSOLIDATED FINANCIAL DATA
+
+<Table>
+<Caption>
+(In thousands, except per share data)
+Year ended June 30,                                2001       2000       1999       1998        1997
+------------------------------------------------------------------------------------------------------
+<S>                                               <C>        <C>        <C>        <C>        <C>
+STATEMENT OF OPERATIONS DATA
+Net sales                                         $64,928    $65,995    $74,666    $98,619    $120,582
+Cost of sales                                      48,265     50,511     58,440     72,076      85,887
+Gross profit                                       16,663     15,484     16,226     26,543      34,695
+Selling, general and administrative expenses       14,573     16,097     18,024     23,074      32,852
+Provision for restructuring and consolidation
+  (1)                                                  --         --        758         --          --
+Provision for product recall(2)                        80        (18)     1,500         --          --
+Gain on sale of business(3)                            --         --        (27)   (12,813)         --
+Non-recurring impairment losses(4)                     --         --         --      9,779          --
+Income (loss) from operations                       2,010       (595)    (4,029)     6,503       1,843
+Interest expense                                    1,530      1,664      1,926      4,152       7,606
+Other, net                                             74        149         36        198         186
+Income (loss) before provision (benefit) for
+  income taxes and extraordinary loss                 406     (2,408)    (5,991)     2,153      (5,949)
+Provision (benefit) for income taxes(5)               172       (695)    (1,873)     9,019      (1,428)
+Income (loss) before extraordinary loss               234     (1,713)    (4,118)    (6,866)     (4,521)
+Extraordinary loss on early extinguishment of
+  debt, Net of income tax benefit                      --         --         --        530          --
+Net income (loss)                                 $   234    $(1,713)   $(4,118)   $(7,396)   $ (4,521)
+Basic and diluted earnings (loss) per share       $  0.03    $ (0.22)   $ (0.53)   $ (0.95)   $  (0.58)
+Basic weighted average common shares
+  outstanding                                       7,807      7,807      7,807      7,805       7,797
+Diluted weighted average common shares
+  outstanding                                       8,126      7,807      7,807      7,805       7,797
+</Table>
+
+                                        10
+<PAGE>   13
+
+<Table>
+<Caption>
+(In thousands)
+June 30,                                           2001       2000       1999       1998        1997
+------------------------------------------------------------------------------------------------------
+<S>                                               <C>        <C>        <C>        <C>        <C>
+CONSOLIDATED BALANCE SHEET DATA
+Working capital                                   $20,682    $20,261    $22,619    $21,308    $ 18,743
+Total assets                                       65,993     67,212     74,275     80,180     126,343
+Short-term debt                                     1,169      1,017        908      3,443      12,891
+Long-term debt (net of current portion)            11,019     13,056     16,330     14,972      34,041
+Stockholders' equity                               46,440     46,206     47,919     52,037      59,365
+</Table>
+
+(1) See Note 5 to the June 30, 2001 Consolidated Financial Statements for
+    further discussion.
+
+(2) See Note 3 to the June 30, 2001 Consolidated Financial Statements for
+    further discussion.
+
+(3) Gain on sale of Hospital Systems, Inc. in 1999 & Bear Medical Systems, Inc.
+    in 1998.
+
+(4) Non-recurring impairment loss on goodwill recorded during fiscal 1998.
+
+(5) See Note 8 to the June 30, 2001 Consolidated Financial Statements for
+    further discussion of the Company's effective tax rate.
+
+ITEM 7. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+     Certain statements contained herein are forward-looking statements. Actual
+results could differ materially from those anticipated as a result of various
+factors, including cyclical and other industry downturns, the effects of federal
+and state legislation on health care reform, including Medicare and Medicaid
+financing, the inability to realize the full benefit of recent capital
+expenditures or consolidation and rationalization activities, difficulties or
+delays in the introduction of new products or disruptions in selling,
+manufacturing and/or shipping efforts.
+
+OVERVIEW
+
+     The following discussion summarizes the significant factors affecting the
+consolidated operating results and financial condition of the Company for the
+three fiscal years ended June 30, 2001. This discussion should be read in
+conjunction with the consolidated financial statements, notes to the
+consolidated financial statements and selected consolidated financial data
+included elsewhere herein.
+
+     The results of operations for fiscal 2001 were affected by several unusual
+items, which are discussed further below. In the first quarter , on July 31,
+2000 , the Company reached agreement with District No. 9 of the International
+Association of Machinist and Aerospace Workers. The strike had adversely
+affected shipments, revenue and income in the first quarter of fiscal 2001. Past
+due backlog increased while orders and shipments were missed. Additionally, the
+Company continued to benefit from the 15% workforce reduction initiated in the
+second quarter of fiscal 2000. Results for fiscal 2001 also benefited from the
+elimination of the valuation allowance for $0.3 million in state net operating
+loss carryforwards. This valuation allowance was previously established for the
+carryforwards due to uncertainty as to their eventual utilization.
+
+     The results of operations for fiscal 2000 were affected by several unusual
+items, which are discussed further below. In the first quarter of fiscal 2000
+the Company recorded a $0.4 million charge for legal costs associated with
+defending product liability litigation. In addition, due to the resignation of
+the Company's President, Chief Executive Officer and Director, Uma Nandan
+Aggarwal on July 28, 1999, the Company recorded a $0.2 million charge for
+severance costs. In the second quarter the Company recorded a $0.2 million
+charge to operations for severance and related expenses to cover the cost of the
+previously announced 15% work force reduction estimated to yield $2.6 million
+annualized savings in payroll and benefit costs. In the fourth quarter the
+Company was impacted by a labor strike at the Company's St. Louis facility that
+was initiated on June 1, 2000 and settled on July 31, 2000. The strike adversely
+affected shipments, revenue and income in the quarter. Past due backlog
+increased while orders and shipments were missed. Additionally, in the fourth
+quarter the Company took a $0.9 million charge to provide for excess and slow
+moving inventory purchased in prior years, recorded a $0.2 million charge
+related to the resolution of a vendor contract entered into in a prior year, and
+recorded an additional $.1 million charge related to product liability legal
+expenses.
+                                        11
+<PAGE>   14
+
+     The results of operations for fiscal 1999 were affected by several
+non-recurring or unusual items, which are discussed further below. During the
+second quarter of fiscal 1999 the Company closed the Toledo, Ohio facility of
+its disposable products division and consolidated production of the B&F line of
+home care products into its manufacturing facility in St. Louis, Missouri. As a
+result of this shutdown the Company recorded a $0.8 million net provision, $0.5
+million after tax, for restructuring and consolidation. The Company also
+recorded a $1.5 million provision, $0.9 million after tax, in connection with a
+product recall of aluminum oxygen regulators during the third quarter of fiscal
+1999. Also, on May 28, 1999 the Company sold the assets of its headwall products
+division for a gain of $0.03 million before tax, with the proceeds being used to
+pay down debt.
+
+RESULTS OF OPERATIONS
+
+     Allied manufactures and markets respiratory products, including respiratory
+care products, medical gas equipment and emergency medical products. Set forth
+below is certain information with respect to amounts and percentages of net
+sales attributable to respiratory care products, medical gas equipment and
+emergency medical products for the fiscal years ended June 30, 2001, 2000, and
+1999.
+
+<Table>
+<Caption>
+                                                                Dollars in thousands
+                                                                        2001
+                    Year ended June 30,                         ---------------------
+                                                                  Net      % of Total
+                                                                 Sales     Net Sales
+                                                                -------    ----------
+<S>                                                             <C>        <C>
+Respiratory care products                                       $18,042       27.8%
+Medical gas equipment                                            36,916       56.9%
+Emergency medical products                                        9,970       15.3%
+                                                                -------      ------
+Total                                                           $64,928      100.0%
+                                                                =======      ======
+</Table>
+
+<Table>
+<Caption>
+                                                                        2000
+                    Year ended June 30,                         ---------------------
+                                                                  Net      % of Total
+                                                                 Sales     Net Sales
+                                                                -------    ----------
+<S>                                                             <C>        <C>
+Respiratory care products                                       $19,550       29.6%
+Medical gas equipment                                            35,406       53.7%
+Emergency medical products                                       11,039       16.7%
+                                                                -------      ------
+Total                                                           $65,995      100.0%
+                                                                =======      ======
+</Table>
+
+<Table>
+<Caption>
+                                                                        1999
+                    Year ended June 30,                         ---------------------
+                                                                  Net      % of Total
+                                                                 Sales     Net Sales
+                                                                -------    ----------
+<S>                                                             <C>        <C>
+Respiratory care products                                       $23,869       32.0%
+Medical gas equipment                                            40,201       53.8%
+Emergency medical products                                       10,596       14.2%
+                                                                -------      ------
+Total                                                           $74,666      100.0%
+                                                                =======      ======
+</Table>
+
+                                        12
+<PAGE>   15
+
+     The following table sets forth, for the fiscal periods indicated, the
+percentage of net sales represented by certain items reflected in the Company's
+consolidated statement of operations.
+
+<Table>
+<Caption>
+YEAR ENDED JUNE 30,                                             2001       2000       1999
+------------------------------------------------------------    -----      -----      -----
+<S>                                                             <C>        <C>        <C>
+Net sales                                                       100.0%     100.0%     100.0%
+Cost of sales                                                    74.3       76.5       78.3
+                                                                -----      -----      -----
+Gross profit                                                     25.7       23.5       21.7
+Selling, general and administrative expenses                     22.4       24.4       24.1
+Provision for product recall                                      0.1         --        2.0
+Provision for restructuring and consolidation                      --         --       (1.0)
+                                                                -----      -----      -----
+Income (loss) from operations                                     3.2       (0.9)      (5.4)
+Interest expense                                                  2.4        2.5        2.6
+Other, net                                                        0.1        0.2         --
+                                                                -----      -----      -----
+Income (loss) before provision (benefit) for income taxes         0.7       (3.6)      (8.0)
+Provision (benefit) for income taxes                              0.3       (1.1)      (2.5)
+                                                                -----      -----      -----
+Net income (loss)                                                 0.4%      (2.6)%     (5.5)%
+                                                                =====      =====      =====
+</Table>
+
+FISCAL 2001 COMPARED TO FISCAL 2000
+
+     Net sales for fiscal 2001 of $65.0 million were $1.0 million, or 1.6% less
+than net sales of $66.0 million in fiscal 2000. The $1.0 million decline in
+product sales is discussed below.
+
+     Respiratory care product sales in fiscal 2001 of $18.0 million were $1.6
+million, or 8.2%, less than sales of $19.6 million in the prior year. The
+majority of this decline can be attributed to the delays we have experienced in
+our B & F disposable production.
+
+     Medical gas equipment sales of $37.0 million in fiscal 2001 were $1.6
+million, or 4.5%, above prior year sales of $35.4 million. Medical gas equipment
+sales experienced a $2.0 million increase resulting from growth achieved with
+our vacuum regulator line. The intermittent mini-vacutron was introduced in the
+second half of fiscal 2000. It was the final unit needed to complete the full
+offering for the mini-vacutron line. This increase is offset by a $0.5 million
+decline in construction products resulting from the continued decline in the
+hospital construction market.
+
+     Emergency medical product sales in fiscal 2001 of $10.0 million were $1.0
+million, or 9.1%, less than fiscal 2000 sales of $11.0 million. The decline in
+emergency medical product sales is a result of higher sales of oxygen regulators
+during fiscal 2000 as a result of a trade-in program offered in connection with
+the LSP regulator recall. These sales did not recur in fiscal 2001.
+
+     International sales, which are included in the product lines discussed
+above increased $1.1 million, or 11.3%, to $13.7 million in fiscal 2001 compared
+to sales of $12.6 million in fiscal 2000. Export sales are affected by
+international economic conditions and the relative value of foreign currencies.
+
+     Gross profit in fiscal 2001 was $16.7 million, or 25.7% of net sales,
+compared to a gross profit of $15.5 million, or 23.5% of net sales in fiscal
+2000. Fiscal 2000 gross profit was adversely effected by a $0.9 million charge
+to write off excess and slow moving inventory purchased in prior years, and a
+$0.2 million charge related to the resolution of a vendor contract entered into
+in a prior year. Although the gross margin percentage continued to improve in
+fiscal 2001, the Company is continuing its efforts for further improvements in
+manufacturing efficiency.
+
+     Selling, General and Administrative ("SG&A") expenses for fiscal 2001 were
+$14.6 million, a decrease of $1.5 million over SG&A expenses of $16.1 million in
+fiscal 2000. The decrease in fiscal 2001 SG&A costs can be attributed to cost
+reduction efforts initiated during the second quarter of fiscal 2000, primarily
+the 15% salary staff reduction. As a percentage of net sales, fiscal 2001 SG&A
+expenses were 22.4% compared to 24.4% in fiscal 2000. Interest expense decreased
+$0.2 million, or 10.5%, to $1.5 million in fiscal 2001 from
+
+                                        13
+<PAGE>   16
+
+$1.7 million in fiscal 2000. Interest expense has been reduced due to the
+reduction in debt, and a reduction in interest rates.
+
+     The Company had income before taxes of $0.4 million in fiscal 2001,
+compared to loss before taxes of $2.4 million in fiscal 2000. The Company
+recorded income tax expense of $0.2 million in fiscal 2001 compared to a benefit
+for income taxes of $0.7 million in fiscal 2000. Results for fiscal 2001
+benefited from the release of the valuation allowance for $0.3 million in state
+net operating loss carryforwards. This valuation allowance was previously
+established for the carryforwards due to uncertainty as to their eventual
+utilization. For further discussion of the Company's income taxes please refer
+to the "Notes to Consolidated Financial Statements" section included in this
+Form 10-K.
+
+     Net income in fiscal 2001 was $0.2 million, or $0.03 per diluted share, an
+improvement of $1.9 million from the net loss of $1.7 million, or $0.22 per
+diluted share, in fiscal 2000. Earnings per share amounts are diluted earnings
+per share, which are substantially the same as basic earnings per share. The
+weighted number of shares used in the calculation of the diluted per share loss
+was 8,125,699 in fiscal 2001 and 7,806,682 in fiscal 2000.
+
+FISCAL 2000 COMPARED TO FISCAL 1999
+
+     Net sales for fiscal 2000 of $66.0 million were $8.7 million, or 11.6% less
+than net sales of $74.7 million in fiscal 1999. Of the $8.7 million decline,
+$3.2 million is related to the divested headwall products division. The
+remaining $5.5 million decline in product sales was due to various internal and
+external factors including:
+
+- There was a strike initiated on June 1, 2000 by union workers at the Company's
+  St. Louis facility. Although the Company continued to ship product, shipments
+  were at a reduced rate and the strike had an adverse affect on shipments,
+  revenues and income in the fourth quarter of fiscal 2000. The strike was
+  settled on July 31, 2000.
+
+- Home care product sales, mainly the B&F line, continue to be lower due to
+  customer shipment disruptions caused by the relocation of the Company's Toledo
+  operations in 1999. The Company continues efforts to improve efficiency and
+  increase stocking levels of the B&F disposable products and has the goal of
+  increasing the sale of these products.
+
+- The hospital construction market showed a decline in fiscal 2000 due primarily
+  to reduced construction.
+
+- Certain external issues have continued to impact the Company's operations in
+  fiscal 2000. The emphasis on cost containment by health care providers has
+  resulted in significant consolidation in the health care environment and
+  pricing pressures for the past several years. Home care sales have also been
+  adversely affected by reductions in Medicare reimbursements.
+
+     While the Company is unable to predict when these issues will be resolved,
+management believes that over a long-term horizon, Allied is well positioned to
+capitalize on the demands for its products caused by an aging population, an
+increase in the occurrence of lung disease, advances in treatment of other
+respiratory illnesses in the home, hospital, and sub-acute care facilities and
+upgrading of medical treatment around the world.
+
+     Respiratory care product sales in fiscal 2000 of $19.6 million were $4.3
+million, or 18.0%, less than sales of $23.9 million in the prior year. This was
+primarily due to lower home care product sales, mainly the B&F line, due to
+customer shipment disruptions caused by the relocation of the Company's Toledo
+operations in 1999. The Company continues efforts to improve efficiency and
+increase stocking levels of the B&F disposable products and has the goal of
+increasing the sale of these products. Other causes included the fourth quarter
+fiscal 2000 strike by union workers at the Company's St. Louis plant and
+continued pricing pressures caused by the consolidation of home health care
+dealers.
+
+     Medical gas equipment sales of $35.4 million in fiscal 2000 were $4.8
+million, or 11.9%, below prior year sales of $40.2 million. Of the decline, $3.2
+million is related to the divested headwall products division. Medical gas
+construction product sales are affected by large bid orders on new hospital
+construction and renovation of medical facilities. Hospital consolidation and
+budget constraints have resulted in decreased
+                                        14
+<PAGE>   17
+
+orders for these products. The strike in the fourth quarter of fiscal 2000 and
+late product introductions were also contributing factors.
+
+     Emergency medical product sales in fiscal 2000 of $11.0 million were $0.4
+million, or 3.8%, more than fiscal 1999 sales of $10.6 million.
+
+     International sales, which are included in the product lines discussed
+above decreased $0.9 million, or 6.4%, to $12.6 million in fiscal 2000 compared
+to sales of $13.5 million in fiscal 1999. Export sales are affected by
+international economic conditions and the relative value of foreign currencies.
+
+     Gross profit in fiscal 2000 was $15.5 million, or 23.5% of net sales,
+compared to a gross profit of $16.2 million, or 21.7% of net sales in fiscal
+1999. The increased percentage was due to the Company's successful steps to
+reduce manufacturing overhead, focusing on selling higher margin products, and
+modest price increases during fiscal 2000. Although the gross margin percentage
+improved in fiscal 2000, the Company is continuing its efforts for further
+improvements in manufacturing efficiency. The improvements in fiscal 2000 were
+achieved despite the fourth quarter fiscal 2000 strike and continued pricing
+pressures brought on by the consolidations and cost containment initiatives of
+health care providers.
+
+     Selling, General and Administrative ("SG&A") expenses for fiscal 2000 were
+$16.1 million, a decrease of $1.9 million over SG&A expenses of $18.0 million in
+fiscal 1999. The decrease in fiscal 2000 SG&A costs can be attributed to cost
+reduction efforts initiated during the second quarter, primarily the 15% salary
+staff reduction. As a percentage of net sales, fiscal 2000 SG&A expenses were
+24.4% compared to 24.1% in fiscal 1999. This increase was attributable to lower
+sales in fiscal 2000, as discussed above.
+
+     As discussed in the preceding Overview section, financial results for
+fiscal 2000 were impacted by certain unusual transactions and events which make
+meaningful comparisons to prior years more difficult. These specific
+transactions and events include the following items:
+
+          In the first quarter of fiscal 2000 the Company recorded a $0.4
+     million charge for legal costs associated with defending product liability
+     litigation. In addition, due to the resignation of the Company's President,
+     Chief Executive Officer and Director, Uma Nandan Aggarwal on July 28, 1999,
+     the Company recorded a $0.2 million charge for severance related costs.
+
+          In the second quarter of fiscal 2000 the Company recorded a $0.2
+     million charge to operations for severance and related expenses to cover
+     the cost of the previously announced 15% work force reduction estimated to
+     yield $2.6 million annualized savings in payroll and benefit costs.
+
+          In the fourth quarter of fiscal 2000 the Company was affected by a
+     labor strike at the Company's St. Louis facility that was initiated on June
+     1, 2000 and settled July 31, 2000. The strike adversely affected shipments,
+     revenue and income in the quarter. Also, in the fourth quarter, the Company
+     took a $0.9 million charge to write off excess and slow moving inventory
+     purchased in prior years, recorded a $0.2 million charge related to the
+     settlement of a vendor contract entered into in a prior year, and recorded
+     an additional $0.1 million charge related to product liability legal
+     expenses.
+
+     Loss from operations in fiscal 2000 was $0.6 million compared to a loss
+from operations of $4.0 million in fiscal 1999. Fiscal 2000 loss from operations
+includes charges for the unusual items discussed above which have an unfavorable
+impact of $2.0 million.
+
+     Interest expense decreased $0.2 million, or 10.5%, to $1.7 million in
+fiscal 2000 from $1.9 million in fiscal 1999. Interest expense has been reduced
+due to the reduction in debt.
+
+     The Company had a loss before taxes of $2.4 million in fiscal 2000,
+compared to loss before taxes of $6.0 million in fiscal 1999. The Company
+recorded an income tax benefit of $0.7 million in fiscal 2000 compared to a
+benefit for income taxes of $1.9 million in fiscal 1999. For further discussion
+of the Company's income tax calculation please refer to the "Notes to
+Consolidated Financial Statements" section included in this Form 10-K.
+
+     Net loss in fiscal 2000 was $1.7 million, or $0.22 per diluted share, a
+decrease of $2.4 million from the net loss of $4.1 million, or $0.53 per diluted
+share, in fiscal 1999. Earnings per share amounts are diluted earnings
+                                        15
+<PAGE>   18
+
+per share, which are substantially the same as basic earnings per share. The
+weighted number of shares used in the calculation of the diluted per share loss
+was 7,806,682 in both fiscal 2000 and fiscal 1999.
+
+FINANCIAL CONDITION, LIQUIDITY AND CAPITAL RESOURCES
+
+     The following table sets forth selected information concerning Allied's
+financial condition:
+
+<Table>
+<Caption>
+               Dollars in thousands                     2001       2000       1999
+               --------------------                     ----       ----       ----
+<S>                                                    <C>        <C>        <C>
+Cash...............................................    $    20    $   568    $   587
+Working Capital....................................    $20,682    $20,261    $22,619
+Total Debt.........................................    $12,188    $14,073    $17,238
+Current Ratio......................................     3.44:1     3.55:1     3.30:1
+</Table>
+
+     The Company's working capital was $20.7 million at June 30, 2001 compared
+to $20.3 million at June 30, 2000. The increase in working capital is primarily
+attributable to the factors discussed below. Accounts receivable increased to
+$11.4 million at June 30, 2001, up $0.9 million from $10.5 million at June 30,
+2000. The increase in accounts receivable is a result of increased sales in the
+fourth quarter of fiscal 2001 compared to the fourth quarter of fiscal 2000.
+Accounts receivable as measured in days sales outstanding ("DSO") decreased to
+65 DSO at June 30, 2001 from 68 DSO at June 30, 2000, as collection efforts have
+improved the average time that is needed to collect from a customer. Collection
+efforts at the end of fiscal 2000 were hampered by the temporary reassignment of
+the collection staff to production and shipping assignments during the work
+stoppage by the union work force at the St. Louis production facility.
+Inventories increased to $17.1 million at June 30, 2001 from $16.7 million at
+June 30, 2000. Programs and policies were implemented during fiscal 2001 to
+reduce inventories, however, the effect of these programs have not been realized
+at June 30, 2001. Accounts payable decreased to $3.8 million at June 30, 2001,
+down $0.3 million from $4.1 million at June 30, 2000. Accrued liabilities
+increased by $0.6 million due to increases in accrued income tax and accrued
+compensation expense.
+
+     The Company's working capital was $20.3 million at June 30, 2000 compared
+to $22.6 million at June 30, 1999. The decrease in working capital is primarily
+attributable to the factors discussed below. Accounts receivable declined to
+$10.5 million at June 30, 2000, down $2.1 million from $12.6 million at June 30,
+1999. Accounts receivable as measured in days sales outstanding ("DSO")
+increased to 68 DSO at June 30, 2000 from 62 DSO at June 30, 1999. As discussed
+previously, collection efforts at the end of fiscal 2000 were hampered by the
+temporary reassignment of the collection staff to production and shipping
+assignments during the work stoppage by the union work force at the St. Louis
+production facility. Inventories declined to $16.7 million at June 30, 2000 from
+$17.5 million at June 30, 1999. The majority of this $0.8 million decline is
+attributable to an increase in the reserve for obsolete and slow moving
+inventory as previously discussed. Income taxes receivable decreased $1.6
+million from June 30, 1999 to June 30, 2000. Accounts payable decreased to $4.1
+million at June 30, 2000, down $1.3 million from $5.4 million at June 30, 1999.
+
+     The net decrease in cash for the fiscal years ended June 30, 2001, 2000,
+and 1999 was $0.5 million, $0.02 million, and $0.6 million, respectively. Net
+cash provided by (used) operating activities was $2.1 million, $3.4 million, and
+$(0.2) million for the same periods.
+
+     Cash flows provided by operating activities for the fiscal year ended June
+30, 2001 consisted of a net income of $0.2 million, and $3.0 million in non-cash
+charges to operations for amortization and depreciation. Changes in working
+capital and deferred tax accounts unfavorably impacted cash flow from operations
+by $1.1 million. Cash flow was used to reduce debt and capital lease obligations
+by $1.9 million and make capital expenditures of $0.8 million.
+
+     Cash flows provided by operating activities for the fiscal year ended June
+30, 2000 consisted of a net loss of $1.7 million, which was offset by $3.3
+million in non-cash charges to operations for amortization and depreciation. The
+provision for product recall was reduced and used $0.4 million. Changes in
+working capital and deferred tax accounts favorably impacted cash flow from
+operations by $2.2 million. Cash flow was used to reduce debt and capital lease
+obligations by $3.2 million and make capital expenditures of $0.3 million.
+
+                                        16
+<PAGE>   19
+
+     Cash flows used in operating activities for the fiscal year ended June 30,
+1999 consisted of a net loss of $4.1 million, which was offset by $3.8 million
+in non-cash charges to operations for amortization and depreciation,
+restructuring and consolidation of $0.2 million and product recall of $0.6
+million. Changes in working capital and deferred tax accounts unfavorably
+impacted cash flow from operations by $0.7 million. Cash provided by investing
+activities, consisting of $1.4 million from the proceeds on the sale of the
+Toledo, Ohio facilities and $0.5 million of proceeds from the sale of the
+headwall products division, was used to fund capital expenditures of $1.1
+million and reduce debt and capital lease obligations by $1.2 million.
+
+     At June 30, 2001 the Company had aggregate indebtedness of $12.2 million,
+including $1.2 million of short-term debt and $11.0 million of long-term debt.
+At June 30, 2000 the Company had aggregate indebtedness of $14.1 million,
+including $1.0 million of short-term debt and $13.1 million of long-term debt.
+
+     On August 7, 1998, the Company obtained a $5.0 million mortgage loan on its
+principal facility in St. Louis, Missouri with LaSalle National Bank. Under
+terms of this agreement the Company makes monthly principal and interest
+payments, with a balloon payment in 2003. Proceeds of the loan were used to
+reduce the obligation under the revolving credit agreement with Foothill Capital
+Corporation. The mortgage loan carries a fixed rate of interest of 7.75%,
+compared to the then current rate of 9.0% under the revolving credit agreement.
+The LaSalle credit facility was amended in the second quarter of fiscal 1999 and
+the first quarter of fiscal 2000 resulting in changes to certain debt covenants.
+
+     On September 8, 1998, the Company's credit facilities with Foothill Capital
+Corporation were amended. The Company's existing term loan was eliminated and
+replaced with an amended revolving credit facility. As amended, the revolving
+credit facility remained at $25.0 million. The interest rate on the facility was
+reduced from the floating reference rate (6.75% at June 30, 2001) plus 0.50% to
+the floating reference rate plus 0.25%. The reference rate as defined in the
+credit agreement, is the variable rate of interest, per annum, most recently
+announced by Wells Fargo Bank, National Association, or any successor thereto,
+as its "base rate". This amendment also provides the Company with a rate of
+LIBOR +2.5%. Amounts outstanding under this revolving credit facility, which
+expires on January 6, 2003, totaled $7.5 million at June 30, 2001. At June 30,
+2001, $5.0 million was available under the revolving facility for additional
+borrowings based on working capital requirements under the terms of the
+agreement.
+
+     Capital expenditures, net of capital leases, were $0.8 million, $0.3
+million and $1.1 million in fiscal 2001, 2000, and 1999, respectively. The
+Company believes that cash flow from operations and available borrowings under
+its credit facilities will be sufficient to finance fixed payments and planned
+capital expenditures in 2002.
+
+     Inflation has not had a material effect on the Company's business or
+results of operations. The Company makes its foreign sales in dollars and,
+accordingly, sales proceeds are not affected by exchange rate fluctuations,
+although the effect on its customers does impact the pace of incoming orders.
+
+SEASONALITY AND QUARTERLY RESULTS
+
+     In past fiscal years, the Company has experienced seasonal increases in net
+sales during its second and third fiscal quarter (October 1 through March 31)
+which in turn have affected net income. Such seasonal variations were likely
+attributable to an increase in hospital equipment purchases at the beginning of
+each calendar year (which coincides with many hospitals' fiscal years) and an
+increase in the severity of influenza during winter months.
+
+     The following table sets forth selected operating results for the eight
+quarters ended June 30, 2001. The information for each of these quarters is
+unaudited, but includes all normal recurring adjustments which the Company
+considers necessary for a fair presentation thereof. These operating results,
+however, are not necessarily indicative of results for any future period.
+Further, operating results may fluctuate as a result of the timing of orders,
+the Company's product and customer mix, the introduction of new products by the
+Company and its competitors, and overall trends in the health care industry and
+the economy. While these patterns have
+
+                                        17
+<PAGE>   20
+
+an impact on the Company's quarterly operations, the Company is unable to
+predict the extent of this impact in any particular period.
+
+<Table>
+<Caption>
+                          June 30,   March 31,    Dec. 31,   Sept. 30,   June 30,   March 31,    Dec. 31,   Sept. 30,
+  Three months ended,         2001        2001        2000        2000       2000        2000        1999        1999
+---------------------------------------------------------------------------------------------------------------------
+<S>                       <C>        <C>         <C>         <C>         <C>        <C>         <C>         <C>
+Net sales                 $16,556     $16,643     $16,709     $15,020    $15,174     $17,218     $17,160     $16,443
+Gross profit                4,705       4,175       4,176       3,607      2,813       4,481       4,362       3,829
+Income (loss) from          1,014         598         418         (20)      (956)        919         359        (917)
+  operations
+Net income (loss)             631          40         (90)       (347)      (894)        210        (126)       (903)
+Basic and diluted            0.08        0.01       (0.01)      (0.04)     (0.11)        .03       (0.02)      (0.12)
+  earnings (loss) per
+  share
+    Dollars in thousands, except per share data
+</Table>
+
+LITIGATION AND CONTINGENCIES
+
+     The Company becomes, from time to time, a party to personal injury
+litigation arising out of incidents involving the use of its products. More
+specifically, there have been a number of lawsuits filed against the Company
+alleging that its aluminum oxygen pressure regulator, marketed under its Life
+Support Products label, has caused fires that have led to personal injury. The
+Company believes, based on preliminary findings, that its products did not cause
+the fires. The Company intends to defend these claims in cooperation with its
+insurers. Based on the progression of certain cases the Company recorded
+additional charges to operations during fiscal 2001 for amounts estimated to be
+payable by the Company under its self-insurance retention for legal costs
+associated with defending these claims. The Company believes that any potential
+judgments resulting from these claims over its self-insured retention will be
+covered by the Company's product liability insurance.
+
+     In March through June 2000, the FDA conducted an inspection of the
+Company's St. Louis facility and provided a written report, known as an "FDA
+Form 483" or simply a "483," citing FDA observations concerning GMP compliance
+and quality control issues applicable to demand valves, emergency ventilators,
+circumcision clamps, and regulators. The Company provided a written response to
+the FDA and in August 2000, the FDA issued a warning letter and requested that
+the Company clarify and supplement its responses to the 483 observations. As a
+result, the Company has submitted to the FDA a written supplemental response and
+is in the process of implementing actions to address the FDA concerns. The
+Company met with the FDA at their Kansas City field office in March 2001 to
+discuss the responses and actions. The Company believes that its responses to
+date and its continuing attention to the matters raised by the FDA will avert
+any FDA action seeking to interrupt or suspend manufacturing or to require any
+recall or modification of products.
+
+LSP OXYGEN REGULATOR RECALL
+
+     On February 4, 1999, Allied announced a voluntary recall of aluminum oxygen
+regulators marketed under its Life Support Products label. These products are
+used to regulate pressure of bottled oxygen for administration to patients under
+emergency situations. Following reports of regulator fires, the Company
+instituted the voluntary recall in May 1997, under which it provided retrofit
+kits to prevent contaminants from entering the regulators. The Company has also
+been testing regulator design with the help of the National Aeronautical and
+Space Administration's White Sands National Laboratories. While findings led the
+Company to believe the Company's products did not cause those fires, there was
+enough concern among the users that the Company, in cooperation with the U. S.
+Food and Drug Administration ("FDA"), agreed to institute a voluntary recall to
+replace aluminum components in the high pressure chamber of the regulators with
+brass components. The FDA has recommended that all regulator manufacturers cease
+use of aluminum in regulators. Accordingly, the Company has introduced new brass
+regulators. As a result of the recall, the Company recorded a charge of $1.5
+million pre-tax, $0.9 million after tax, or $0.12 per share in the second
+quarter of fiscal 1999. The recall is complete and a final audit of the results
+thereof was completed on December 22, 2000 by the FDA. The Company continues to
+experience minor expenditures relative to the recall and expects these
+expenditures to be substantially completed during fiscal 2002. As of June 30,
+2001 the
+
+                                        18
+<PAGE>   21
+
+Company has incurred $1.4 million for costs associated with the recall and has a
+remaining accrual balance of $0.1 million for future expected costs which
+management estimates to be appropriate.
+
+SALE OF HEADWALL PRODUCTS DIVISION
+
+     On May 28, 1999, the Company sold the assets of Hospital Systems, Inc.
+("HSI") to David Miller (former General Manager-Hospital Systems, Inc.) for $0.5
+million. The net proceeds of $0.5 million were utilized to repay a portion of
+its revolving credit facility. The sale of HSI, located in Oakland, California,
+resulted in a gain before taxes for financial reporting purposes of $0.03
+million.
+
+B&F CONSOLIDATION PROVISION
+
+     On August 5, 1998 the Company's Board of Directors voted to close the
+Toledo facility of its disposable products division and consolidate production
+of the B&F line of home care products into its manufacturing facility in St.
+Louis, Missouri. This move was announced on August 10, 1998. The move was
+substantially completed during the second quarter of fiscal 1999. In connection
+with the shutdown of the facility, Allied recorded a provision of approximately
+$1.0 million pre-tax, $0.6 million after tax, or $0.07 per share, in the first
+quarter of fiscal 1999 to cover the cost of closing the facility. The provision
+reflects costs of certain fixed asset impairments, employee severance benefits
+and other related exit costs. Subsequently, during the second quarter of fiscal
+1999, the company negotiated and received a $0.2 million cash payment from the
+City of Toledo as partial reimbursement for closure costs. Accordingly, Allied
+recorded this cash payment, in the second quarter of fiscal 1999, as a reduction
+to the aforementioned provision resulting in a net charge of $0.8 million
+pre-tax, $0.5 million after tax, or $0.06 per share for the fiscal year ended
+June 30, 1999
+
+RECENT ACCOUNTING PRONOUNCEMENTS
+
+     As required, Allied adopted Staff Accounting Bulletin No. 101, "Revenue
+Recognition in Financial Statements" ("SAB 101"), effective for the fourth
+quarter of fiscal 2001. The adoption of SAB 101 did not result in a change to
+the Company's revenue recognition policy.
+
+     Statement of Financial Accounting Standards No. 133 ("SFAS 133"),
+"Accounting for Derivative Instruments and Hedging Activities", establishes new
+accounting and reporting standards for derivative financial instruments. The
+Company adopted SFAS 133 during the first quarter of fiscal 2001. The adoption
+of SFAS 133 did not have a material impact on the consolidated financial
+position, or results of operations of the Company
+
+     Statement of Financial Accounting Standards No. 141 ("SFAS 141"), "Business
+Combinations", and Statement of Financial Accounting Standards No. 142 ("SFAS
+142"), "Goodwill and Other Intangible Assets", establish new accounting and
+reporting standards for purchase business combinations and goodwill. The Company
+is currently in the process of evaluating the impact of the adoption of SFAS 141
+and SFAS 142 and presently plans to adopt these pronouncements for the fiscal
+year ending June 30, 2002. Management has not assessed the impact that the
+adoption of SFAS 141 and SFAS 142 will have on the consolidated financial
+position, or results of operation of the Company.
+
+ITEM 7A. QUANTITATIVE AND QUALITATIVE DISCLOSURES ABOUT MARKET RISK
+
+     At June 30, 2001, the Company had $11.4 million in debt outstanding, of
+which $3.9 million is a term loan with a fixed interest rate of 7.75%. The
+remaining balance of $7.5 million represents amounts outstanding under the
+Company's revolving credit facility. The revolving credit facility bears an
+interest rate using the commercial bank's "floating reference rate" or LIBOR as
+the basis, as defined in the loan agreement, and therefore is subject to
+additional expense should there be an increase in market interest rates. With
+respect to the Company's fixed-rate debt outstanding at June 30, 2001, a 10%
+increase in interest rates would have resulted in approximately $0.05 million
+decrease in the market value of the debt and a 10% decrease in interest rates
+would have resulted in approximately $0.05 increase in the fair value of the
+debt respect to the Company's variable-debt.
+
+                                        19
+<PAGE>   22
+
+     The Company had no holdings of derivative financial or commodity
+instruments at June 30, 2001. Allied Healthcare Products has international
+sales, however these sales are denominated in U.S. dollars, mitigating foreign
+exchange rate fluctuation risk.
+
+ITEM 8. FINANCIAL STATEMENTS AND SUPPLEMENTARY DATA
+
+     The following described consolidated financial statements of Allied
+Healthcare Products, Inc. are included in response to this item:
+
+        Report of Independent Accountants.
+
+        Consolidated Statement of Operations for the fiscal years ended June 30,
+        2001, 2000 and 1999.
+
+        Consolidated Balance Sheet for the fiscal years ended June 30, 2001 and
+        2000
+
+        Consolidated Statement of Changes in Stockholders' Equity for the fiscal
+        years ended June 30, 2001, 2000 and 1999.
+
+        Consolidated Statement of Cash Flows for the fiscal years ended June 30,
+        2001, 2000 and 1999.
+
+        Notes to Consolidated Financial Statements.
+
+        Schedule of Valuation and Qualifying Accounts and Reserves.
+
+                                        20
+<PAGE>   23
+
+                       REPORT OF INDEPENDENT ACCOUNTANTS
+
+To the Board of Directors and Shareholders
+of Allied Healthcare Products, Inc.
+
+     In our opinion, the consolidated financial statements listed in the
+accompanying index present fairly, in all material respects, the financial
+position of Allied Healthcare Products, Inc. and its subsidiaries at June 30,
+2001 and 2000, and the results of their operations and their cash flows for each
+of the three years in the period ended June 30, 2001, in conformity with
+accounting principles generally accepted in the United States of America. In
+addition, in our opinion, the financial statement schedule listed in the
+accompanying index presents fairly, in all material respects, the information
+set forth therein when read in conjunction with the related consolidated
+financial statements. These financial statements and financial statement
+schedule are the responsibility of the Company's management; our responsibility
+is to express an opinion on these financial statements and financial statement
+schedule based on our audits. We conducted our audits of these statements in
+accordance with auditing standards generally accepted in the United States of
+America, which require that we plan and perform the audit to obtain reasonable
+assurance about whether the financial statements are free of material
+misstatement. An audit includes examining, on a test basis, evidence supporting
+the amounts and disclosures in the financial statements, assessing the
+accounting principles used and significant estimates made by management, and
+evaluating the overall financial statement presentation. We believe that our
+audits provide a reasonable basis for our opinion.
+
+PricewaterhouseCoopers LLP
+
+St. Louis, Missouri
+August 17, 2001
+
+                                        21
+<PAGE>   24
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED STATEMENT OF OPERATIONS
+
+<Table>
+<Caption>
+Year ended June 30,                                          2001           2000           1999
+---------------------------------------------------------------------------------------------------
+<S>                                                       <C>            <C>            <C>
+Net sales                                                 $64,927,678    $65,994,968    $74,666,513
+Cost of sales                                              48,265,110     50,510,411     58,440,766
+                                                          -----------    -----------    -----------
+Gross profit                                               16,662,568     15,484,557     16,225,747
+Selling, general and administrative expenses               14,572,963     16,096,687     18,024,156
+Provision for product recall                                   79,303        (17,600)     1,500,000
+Gain on sale of business                                           --             --        (27,246)
+Provision for restructuring and consolidation                      --             --        758,467
+                                                          -----------    -----------    -----------
+Income (loss) from operations                               2,010,302       (594,530)    (4,029,630)
+                                                          -----------    -----------    -----------
+Other expenses:
+  Interest expense                                          1,530,481      1,664,477      1,925,757
+  Other, net                                                   73,793        149,433         35,984
+                                                          -----------    -----------    -----------
+                                                            1,604,274      1,813,910      1,961,741
+                                                          -----------    -----------    -----------
+Income (loss) before provision (benefit) for income
+  taxes                                                       406,028     (2,408,440)    (5,991,371)
+Provision (benefit) for income taxes                          171,892       (694,963)    (1,872,976)
+                                                          -----------    -----------    -----------
+Net income (loss)                                         $   234,136    $(1,713,477)   $(4,118,395)
+                                                          ===========    ===========    ===========
+Basic and diluted income (loss) per share:
+  Income (loss) per share                                 $      0.03    $     (0.22)   $     (0.53)
+                                                          ===========    ===========    ===========
+Weighted average shares outstanding -- Basic                7,806,682      7,806,682      7,806,682
+                                                          -----------    -----------    -----------
+Weighted average common shares outstanding -- Diluted       8,125,699      7,806,682      7,806,682
+                                                          -----------    -----------    -----------
+</Table>
+
+See accompanying Notes to Consolidated Financial Statements
+
+                                        22
+<PAGE>   25
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED BALANCE SHEET
+
+<Table>
+<Caption>
+                          June 30,                                  2001            2000
+--------------------------------------------------------------------------------------------
+<S>                                                             <C>             <C>
+ASSETS
+
+Current assets:
+  Cash and cash equivalents                                     $     20,365    $    568,197
+  Accounts receivable, net of allowance for doubtful
+     accounts of $605,714 and $882,874, respectively              11,395,224      10,542,264
+  Inventories, net                                                17,079,033      16,742,178
+  Deferred income taxes -- current                                   369,453              --
+  Other current assets                                               292,596         358,407
+                                                                ------------    ------------
+     Total current assets                                         29,156,671      28,211,046
+                                                                ------------    ------------
+
+  Property, plant and equipment, net                              10,892,268      12,176,616
+  Deferred income taxes                                              197,008         218,671
+  Goodwill, net                                                   25,579,830      26,395,241
+  Other assets, net                                                  107,377         210,503
+                                                                ------------    ------------
+     Total assets                                               $ 65,933,154    $ 67,212,077
+                                                                ============    ============
+
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+Current liabilities:
+  Accounts payable                                              $  3,843,092    $  4,055,739
+  Current portion of long-term debt                                1,169,044       1,016,611
+  Accrual for product recall                                         146,181         185,241
+  Other accrued liabilities                                        3,316,015       2,692,901
+                                                                ------------    ------------
+     Total current liabilities                                     8,474,332       7,950,492
+                                                                ------------    ------------
+
+Long-term debt                                                    11,019,081      13,055,980
+
+Commitments and contingencies (Notes 7 and 13)                            --              --
+
+Stockholders' equity:
+  Preferred stock; $0.01 par value; 1,500,000 shares
+     authorized; no shares issued and outstanding                         --              --
+  Series A preferred stock; $0.01 par value; 200,000 shares
+     authorized; no shares issued and outstanding                         --              --
+  Common stock; $0.01 par value; 30,000,000 shares
+     authorized; 7,806,682 shares issued and outstanding at
+     June 30, 2001 and 2000                                          101,102         101,102
+  Additional paid-in capital                                      47,014,621      47,014,621
+  Retained earnings                                               20,055,446      19,821,310
+  Common stock in treasury, at cost                              (20,731,428)    (20,731,428)
+                                                                ------------    ------------
+     Total stockholders' equity                                   46,439,741      46,205,605
+                                                                ------------    ------------
+     Total liabilities and stockholders' equity                 $ 65,933,154    $ 67,212,077
+                                                                ============    ============
+</Table>
+
+See accompanying Notes to Consolidated Financial Statements
+
+                                        23
+<PAGE>   26
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED STATEMENT OF CHANGES IN STOCKHOLDERS' EQUITY
+
+<Table>
+<Caption>
+                                                               Additional
+                                     Preferred      Common        paid-in       Retained        Treasury
+                                         Stock       stock        capital       Earnings           stock
+--------------------------------------------------------------------------------------------------------
+<S>                                  <C>          <C>         <C>            <C>            <C>
+Balance, June 30, 1998                $    --     $101,102    $47,014,621    $25,653,182    $(20,731,428)
+
+Net loss for the year ended
+  June 30, 1999                            --          --              --     (4,118,395)             --
+                                      -------     --------    -----------    -----------    ------------
+Balance, June 30, 1999                     --     101,102      47,014,621     21,534,787     (20,731,428)
+
+Net loss for the year ended
+  June 30, 2000                            --          --              --     (1,713,477)             --
+                                      -------     --------    -----------    -----------    ------------
+Balance, June 30, 2000                     --     101,102      47,014,621     19,821,310     (20,731,428)
+
+Net income for the year ended
+  June 30, 2001                            --          --              --        234,136              --
+                                      -------     --------    -----------    -----------    ------------
+Balance, June 30, 2001                $    --     $101,102    $47,014,621    $20,055,446    $(20,731,428)
+                                      =======     ========    ===========    ===========    ============
+</Table>
+
+See accompanying Notes to Consolidated Financial Statements
+
+                                        24
+<PAGE>   27
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+
+<Table>
+<Caption>
+                Year ended June 30,                        2001            2000            1999
+---------------------------------------------------------------------------------------------------
+<S>                                                    <C>             <C>             <C>
+Cash flows from operating activities:
+  Net income (loss)                                    $    234,136    $ (1,713,477)   $ (4,118,395)
+  Adjustments to reconcile net income (loss) to net
+     cash provided by (used in) operating
+     activities:
+     Depreciation and amortization                        2,954,090       3,332,350       3,781,063
+     Provision for restructuring and consolidation               --              --         217,926
+     Provision for product recall                           (39,060)       (409,484)        594,725
+     Gain on sale of Hospital Systems, Inc.                      --              --         (27,246)
+     Deferred income taxes                                 (356,668)       (645,048)       (375,435)
+     Changes in operating assets and liabilities:
+       Accounts receivable, net                            (852,960)      2,058,901       1,626,149
+       Inventories, net                                    (336,855)        757,644         407,134
+       Income taxes receivable                                   --       1,635,866      (1,635,866)
+       Other current assets                                  65,811        (220,047)        133,307
+       Accounts payable                                    (212,647)     (1,378,564)       (373,046)
+       Other accrued liabilities                            631,992         (30,034)       (455,986)
+                                                       ------------    ------------    ------------
+     Net cash provided by (used in) operating
+       activities                                         2,087,839       3,448,175        (225,670)
+Cash flows from investing activities:
+  Capital expenditures                                     (751,205)       (298,040)     (1,061,309)
+  Proceeds on sale of Toledo, Ohio facilities                    --              --       1,393,287
+  Proceeds on sale of Hospital Systems, Inc. -- Net
+     of disposal costs                                           --              --         495,178
+                                                       ------------    ------------    ------------
+     Net cash provided by (used in) investing
+       activities                                          (751,205)       (298,040)        827,156
+Cash flows from financing activities:
+  Proceeds from issuance of long-term debt                       --              --       5,000,000
+  Payment of long-term debt                                (413,313)       (367,206)     (6,783,646)
+  Payment of capital lease obligations                     (565,751)       (569,679)       (627,812)
+  Borrowings under revolving credit agreement            63,807,625      69,661,053      88,063,847
+  Payments under revolving credit agreement             (64,713,027)    (71,893,563)    (86,829,127)
+  Debt issuance costs                                            --              --         (32,104)
+                                                       ------------    ------------    ------------
+     Net cash used in financing activities               (1,884,466)     (3,169,395)     (1,208,842)
+Net decrease in cash and equivalents                       (547,832)        (19,260)       (607,356)
+Cash and equivalents at beginning of year                   568,197         587,457       1,194,813
+                                                       ------------    ------------    ------------
+Cash and equivalents at end of year                    $     20,365    $    568,197    $    587,457
+                                                       ============    ============    ============
+Supplemental disclosures of cash flow information:
+  Cash paid during the year for:
+     Interest                                          $  1,431,750    $  1,662,150    $  2,046,103
+     Income taxes                                      $    154,892    $    252,869    $    541,756
+</Table>
+
+See accompanying Notes to Consolidated Financial Statements
+
+                                        25
+<PAGE>   28
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+1. ORGANIZATION
+
+     Allied Healthcare Products, Inc. (the "Company" or "Allied") is a
+manufacturer of respiratory products used in the health care industry in a wide
+range of hospital and alternate site settings, including post-acute care
+facilities, home health care and trauma care. The Company's product lines
+include respiratory care products, medical gas equipment and emergency medical
+products.
+
+2. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+     The significant accounting policies followed by Allied are described below.
+
+USE OF ESTIMATES
+
+     The policies utilized by the Company in the preparation of the financial
+statements conform to accounting principles generally accepted in the United
+States of America, and require management to make estimates and assumptions that
+affect the reported amounts of assets and liabilities at the date of the
+financial statements and the reported amounts of revenues and expenses during
+the reporting period. Actual amounts could differ from those estimates.
+
+PRINCIPLES OF CONSOLIDATION
+
+     The consolidated financial statements include the accounts of the Company
+and its wholly owned subsidiaries. All significant intercompany transactions and
+intercompany balances are eliminated.
+
+RECLASSIFICATIONS
+
+     Certain financial statement amounts have been reclassified to conform with
+the current year presentation.
+
+REVENUE RECOGNITION
+
+     Revenue is recognized for all sales, including sales to agents and
+distributors, at the time products are shipped and title has transferred to the
+customer, provided that a purchase order has been received or a contract has
+been executed, there are no uncertainties regarding customer acceptance, the
+sales price is fixed and determinable and collectibility is deemed probable. The
+Company's standard shipping terms are FOB shipping point. Sales discounts,
+returns and allowances are included in net sales, and the provision for doubtful
+accounts is included in selling, general and administrative expenses.
+Additionally, it is the Company's practice to include revenues generated from
+freight billed to customers in net sales with corresponding freight expense
+included in cost of sales in the Consolidated Statement of Operations.
+
+     Allied adopted Staff Accounting Bulletin No. 101, "Revenue Recognition in
+Financial Statements" ("SAB 101"), in the fourth quarter of fiscal 2001. The
+adoption of SAB 101 did not result in a change to the Company's revenue
+recognition policy.
+
+CASH AND CASH EQUIVALENTS
+
+     For purposes of the statement of cash flows, the Company considers all
+highly liquid investments with a maturity of three months or less when acquired
+to be cash equivalents. Book cash overdrafts on the Company's disbursement
+accounts totaling $1,053,134 and $1,290,277 at June 30, 2001 and 2000,
+respectively, are included in accounts payable.
+
+FOREIGN CURRENCY TRANSACTIONS
+
+     Allied Healthcare Products has international sales, however, these sales
+are denominated in U.S. dollars mitigating the foreign exchange rate fluctuation
+risk.
+
+                                        26
+<PAGE>   29
+
+CONCENTRATIONS OF CREDIT RISK
+
+     The Company performs ongoing credit evaluations of its customers and
+generally does not require collateral. The Company maintains reserves for
+potential credit losses and historically such losses have been within
+management's expectations. The Company's customers can be grouped into three
+main categories: medical equipment distributors, construction contractors and
+health care institutions. At June 30, 2001 the Company believes that it has no
+significant concentration of credit risk.
+
+INVENTORIES
+
+     Inventories are stated at the lower of cost, determined using the last-in,
+first-out ("LIFO") method, or market. If the first-in, first-out method (which
+approximates replacement cost) had been used in determining cost, inventories
+would have been $758,770 and $842,770 higher at June 30, 2001 and 2000,
+respectively. Changes in the LIFO reserve are included in cost of sales. In
+fiscal 2001, the cost of sales was reduced by $84,000 as a result of a LIFO
+liquidation. Costs in inventory include raw materials, direct labor and
+manufacturing overhead.
+
+     Inventory is recorded net of a reserve for obsolete and excess inventory of
+$2,572,967 and $2,894,610 at June 30, 2001 and 2000, respectively.
+
+PROPERTY, PLANT AND EQUIPMENT
+
+     Property, plant and equipment are recorded at cost and are depreciated
+using the straight-line method over the estimated useful lives of the assets
+which range from 3 to 36 years. Properties held under capital leases are
+recorded at the present value of the non-cancelable lease payments over the term
+of the lease and are amortized over the shorter of the lease term or the
+estimated useful lives of the assets. Expenditures for repairs, maintenance and
+renewals are charged to income as incurred. Expenditures which improve an asset
+or extend its estimated useful life are capitalized. When properties are retired
+or otherwise disposed of, the related cost and accumulated depreciation are
+removed from the accounts and any gain or loss is included in income.
+
+GOODWILL
+
+     The excess of the purchase price over the fair value of net assets acquired
+in business combinations is capitalized and amortized on a straight-line basis
+over the estimated period benefited, not to exceed 40 years. The amortization
+period for all acquisitions to date ranges from 37 to 40 years. Amortization
+expense for the years ended June 30, 2001, 2000 and 1999 was $815,411.
+Accumulated amortization at June 30, 2001 and 2000 was $7,946,509 and
+$7,131,098, respectively.
+
+OTHER ASSETS
+
+     Other assets are primarily comprised of debt issuance costs. These costs
+are amortized using the effective interest rate method over the life of the
+related obligations.
+
+IMPAIRMENT OF LONG-LIVED ASSETS
+
+     The Company evaluates impairment of long-lived assets under the provisions
+of Statement of Financial Accounting Standards No. 121 ("SFAS 121"), "Accounting
+for the Impairment of Long-Lived Assets to be Disposed Of." SFAS 121 requires
+that long-lived assets, identifiable intangibles and goodwill related to those
+assets to be held and used by an entity be reviewed for impairment whenever
+events or changes in circumstances indicated that the carrying amount of the
+assets may not be recoverable. Under SFAS 121, if the sum of the expected future
+cash flows (undiscounted and without interest charges) of the long-lived assets
+is less than the carrying amount of such assets, an impairment loss will be
+recognized. No impairment losses were recorded by the Company for fiscal years
+ended June 30, 2001, 2000 and 1999.
+
+                                        27
+<PAGE>   30
+
+FAIR VALUE OF FINANCIAL INSTRUMENTS
+
+     The Company's financial instruments consist of cash, accounts receivable,
+accounts payable and debt. The carrying amounts for cash, accounts receivable
+and accounts payable approximate their value due to the short maturity of these
+instruments. The fair value of long-term debt, excluding capital leases was
+$11.5 million and $12.6 million at June 30, 2001 and 2000, respectively, and the
+related carrying amounts were $11.4 million and $12.8 million, respectively. The
+Company estimated the fair value of its long-term, fixed-rate debt using
+discounted cash flow analysis based on the Company's current borrowing rates for
+debt with similar maturities.
+
+INCOME TAXES
+
+     The Company accounts for income taxes under Statement of Financial
+Accounting Standards No. 109, "Accounting for Income Taxes" ("SFAS 109"). Under
+SFAS 109, the deferred tax provision is determined using the liability method,
+whereby deferred tax assets and liabilities are recognized based upon temporary
+differences between the financial statement and income tax bases of assets and
+liabilities using presently enacted tax rates. Valuation allowances are
+established when necessary to reduce deferred tax assets to the amounts expected
+to be realized.
+
+RESEARCH AND DEVELOPMENT COSTS
+
+     Research and development costs are expensed as incurred and are included in
+selling, general and administrative expenses. Research and development expense
+for the years ended June 30, 2001, 2000 and 1999 was $592,815, $726,315 and
+$1,315,593, respectively.
+
+EARNINGS PER SHARE
+
+     Basic earnings per share are based on the weighted average number of shares
+of common stock outstanding during the year. Diluted earnings per share are
+based on the sum of the weighted averaged number of shares of common stock and
+common stock equivalents outstanding during the year. The number of basic shares
+outstanding for the years ended June 30, 2001, 2000 and 1999 was 7,806,682. The
+number of diluted shares outstanding for the years ended June 30, 2001, 2000 and
+1999 was 8,125,699, 7,806,682, and 7,806,682 shares, respectively. The dilutive
+effect of Company's employee's and director's stock option plans are determined
+by use of the treasury stock method. Employee and director stock option plans
+are not included as common stock equivalents for earnings per share purposes in
+fiscal 2000 and 1999 as the impact on the number of shares outstanding would
+have been anti-dilutive.
+
+EMPLOYEE STOCK-BASED COMPENSATION
+
+     The Company accounts for employee stock options and variable stock awards
+in accordance with Accounting Principles Board No. 25, "Accounting for Stock
+Issued to Employees" ("APB 25") and its related interpretations. Under APB 25,
+the Company applies the intrinsic value method of accounting. For employee stock
+options accounted for using the intrinsic value method, no compensation expense
+is recognized because the options are granted with an exercise price equal to
+the market value of the stock on the date of grant.
+
+     During fiscal 1996, Statement of Financial Accounting Standards No. 123,
+"Accounting for Stock-Based Compensation" ("SFAS 123"), became effective for the
+Company and prescribes the recognition of compensation expense based on the fair
+value of options or stock awards determined on the date of grant. Companies that
+elect to account for stock-based compensation plans in accordance with APB 25
+are required to make certain pro forma disclosures as if the fair value method
+had been utilized. See Note 10 for additional disclosure.
+
+                                        28
+<PAGE>   31
+
+NEW ACCOUNTING STANDARDS
+
+     Statement of Financial Accounting Standards No. 133 ("SFAS 133"),
+"Accounting for Derivative Instruments and Hedging Activities", establishes new
+accounting and reporting standards for derivative financial instruments. The
+Company adopted SFAS 133 during the first quarter of fiscal 2001. The adoption
+of SFAS 133 did not have a material impact on the consolidated financial
+position, or results of operations of the Company.
+
+     Statement of Financial Accounting Standards No. 141 ("SFAS 141"), "Business
+Combinations," and Statement of Financial Accounting Standards No. 142 ("SFAS
+142"),"Goodwill and Other Intangible Assets," establish new accounting and
+reporting standards for purchase business combinations and goodwill. The Company
+is currently in the process of evaluating the impact of the adoption of SFAS 141
+and SFAS 142 and presently plans to adopt these pronouncements for the fiscal
+year ending June 30, 2002. Management has not assessed the impact that the
+adoption of SFAS 141 and SFAS 142 will have on the consolidated financial
+position, or results of operations.
+
+3. LSP OXYGEN REGULATOR RECALL
+
+     On February 4, 1999, Allied announced a voluntary recall of aluminum oxygen
+regulators marketed under its Life Support Products ("LSP") label. These
+products are used to regulate pressure of bottled oxygen for administration to
+patients under emergency situations. Following reports of regulator fires, the
+Company instituted a recall in May 1997, under which it provided retrofit kits
+to prevent contaminants from entering the regulators. The Company has also been
+testing regulator design with the help of the National Aeronautical and Space
+Administration's White Sands National Laboratories. While preliminary findings
+led the Company to believe the Company's products did not cause those fires,
+there was enough concern among the users that the Company, in cooperation with
+the U. S. Food and Drug Administration ("FDA"), agreed to institute a voluntary
+recall to replace aluminum components in the high pressure chamber of the
+regulators with brass components. The FDA has recommended that all regulator
+manufacturers cease use of aluminum in regulators. Accordingly, the Company
+introduced new brass regulators and also offered a trade-in program to the
+existing users. As a result of the recall, the Company recorded a charge of $1.5
+million pre-tax, $0.9 million after tax, or $0.12 per share in the second
+quarter of fiscal 1999. The original provision for regulator recall included
+estimated costs of $1.3 million for aluminum regulator retrofitting and
+replacement, as well as $0.2 million for certain communications and legal costs
+expected to be incurred by the Company under the terms of the recall.
+
+     A reconciliation of activity with respect to the Company's product recall
+is as follows:
+
+<Table>
+<Caption>
+                                                                  2001        2000         1999
+                                                                  ----        ----         ----
+<S>                                                             <C>         <C>         <C>
+Balance, beginning of year                                      $185,241    $594,725    $       --
+Provision for recall established                                      --          --     1,500,000
+Addition to provision for recall                                  79,303     300,000            --
+Reduction to provision for recall                                     --    (317,600)           --
+Costs incurred related to product retrofitting and
+  replacement                                                    118,363     391,885       905,275
+                                                                ----------------------------------
+Balance, end of year                                            $146,181    $185,241    $  594,725
+                                                                ==================================
+</Table>
+
+     During the first quarter of fiscal 2000, the Company recorded an additional
+provision of $0.3 million relative to the regulator recall. The addition
+represented a provision for additional aluminum regulator inventory not
+identified as part of the original $1.5 million estimate. The $0.3 million
+reduction to the provision in fiscal 2000 represented the subsequent disposal of
+the aluminum regulator inventory on a basis more favorable than originally
+estimated. During fiscal 2001 the Company recorded an additional provision of
+$0.1 million for the estimated additional cost to be incurred for product
+retrofitting and replacement.
+
+     The Company has incurred various legal expenses related to claims
+associated with the LSP regulator recall. Accordingly, the Company recorded an
+additional provision for product liability litigation during fiscal 2001 for
+amounts estimated to be payable by the company under its self-insurance
+retention for legal costs
+
+                                        29
+<PAGE>   32
+
+associated with defending these claims. These amounts are included along with
+other legal expenses of the Company as selling, general and administrative
+expenses. At June 30, 2001, the Company has a litigation cost accrual balance of
+$0.1 million for legal expense associated to the LSP regulator recall. The
+Company received notification from the FDA that the recall was complete in
+December 2000. The Company continues to experience minor expenditures relative
+to the recall and expects these expenditures to be substantially completed
+during fiscal 2002.
+
+4. SALE OF HEADWALL PRODUCTS DIVISION
+
+     On May 28, 1999, the Company sold the assets of Hospital Systems, Inc.
+("HSI") to David Miller (former General Manager-Hospital Systems, Inc.) for $0.5
+million. The net proceeds of $0.5 million were utilized to repay a portion of
+its revolving credit facility. The sale of HSI, located in Oakland, California,
+resulted in a gain before taxes for financial reporting purposes of $0.03
+million.
+
+5. B&F CONSOLIDATION PROVISION
+
+     In the first quarter of fiscal 1999, the city of Toledo, Ohio exercised the
+right of eminent domain on the B&F manufacturing facility. Pursuant to the
+pending sale of the B&F facility to the city of Toledo, Allied's board of
+directors voted to close the facility and consolidate production of the B&F line
+of home care products into its manufacturing facility in St. Louis, Missouri.
+The consolidation of the B&F facility eliminated excess capacity at the St.
+Louis facility and reduced manufacturing and overhead costs associated with the
+B&F facility. In connection with the shutdown of the facility, Allied recorded a
+provision of approximately $1.0 million pre-tax, $0.6 million after tax, or
+$0.07 per share, in the first quarter of fiscal 1999 to cover the cost of
+closing the facility. The original provision included a $0.4 million provision
+for severance liabilities associated with the closure of the Toledo facility.
+The severance liabilities related to the 140 hourly production employees and 29
+production management and administrative employees at the Toledo facility. The
+severance payments were substantially complete in the second quarter of fiscal
+1999. Approximately $0.2 million was included in the original provision for
+impaired assets to be disposed of in connection with the facility shutdown
+representing the excess of book value of land, building, machinery and equipment
+to be disposed of pursuant to the closure of the facility over estimated sales
+proceeds. The building was subsequently sold at its net realizable value and no
+further gain or loss was recorded. The remaining $0.4 million included in the
+original provision related to other exit costs including costs incurred to
+prepare the building for sale, travel and legal costs associated with the
+closure of the Toledo facility.
+
+     Subsequent to the recording of the original $1.0 million provision, during
+the second quarter of fiscal 1999, the Company negotiated and received a $0.2
+million cash payment from the City of Toledo as a partial reimbursement for
+closure costs. Accordingly, Allied recorded this cash payment as a reduction to
+the aforementioned provision resulting in a net provision of $0.8 million
+pre-tax, $0.5 million after tax, or $0.06 per share for the fiscal year ended
+June 30, 1999. The relocation of the Toledo facility was substantially complete
+during the second quarter of fiscal 1999.
+
+                                        30
+<PAGE>   33
+
+6. FINANCING
+
+     Long-term debt consisted of the following at June 30, 2001 and 2000:
+
+<Table>
+<Caption>
+                                                                   2001           2000
+                                                                -----------    -----------
+<S>                                                             <C>            <C>
+UNSUBORDINATED DEBT
+Notes payable to bank or other financial lending institution
+  Term loan -- principal due in varying monthly maturities
+     ranging from $27,714 to $40,518 with remaining balance
+     due August 1, 2003                                         $ 3,950,049    $ 4,347,118
+  Revolving credit facility -- aggregate revolving
+     commitment of $25,000,000; principal due at maturity on
+     January 6, 2003                                              7,493,505      8,398,907
+Other                                                                    --         16,244
+                                                                -----------    -----------
+                                                                 11,443,554     12,762,269
+                                                                -----------    -----------
+SUBORDINATED DEBT
+Capital lease obligations                                           744,571      1,310,322
+                                                                -----------    -----------
+                                                                 12,188,125     14,072,591
+Less -- Current portion of long-term debt, including
+  $744,571 and $603,297 of capital lease obligations at June
+  30, 2001 and June 30, 2000, respectively                       (1,169,044)    (1,016,611)
+                                                                -----------    -----------
+                                                                $11,019,081    $13,055,980
+                                                                ===========    ===========
+</Table>
+
+     On August 7, 1998, the Company borrowed approximately $5.0 million from a
+bank. The term loan is collateralized by the Company's St. Louis facility. The
+term loan requires monthly principal and interest payments of $0.06 million,
+with a final payment of all principal and interest remaining unpaid due at
+maturity on August 1, 2003. Interest is fixed at 7.75% annum. Proceeds from the
+borrowing were used to pay down existing debt, which bore a higher interest
+rate. The term loan was amended on March 24 and September 1, 1999 resulting in
+changes to certain debt covenants for which the Company was in compliance at
+June 30, 2001 and 2000.
+
+     On September 8, 1998, the Company's revolving credit facility with a bank
+was amended. As amended, the revolving credit facility provides for borrowings
+up to $25.0 million. The revolving credit facility provides a borrowing base of
+the lesser of 85% of eligible accounts receivable or $8.0 million plus the
+lesser of 45% of eligible inventory or $10.0 million, adjusted as deemed
+appropriate by the bank. At June 30, 2001 and 2000, $5.0 million and $5.5
+million , respectively, was available under the revolving credit facility for
+additional borrowings. The revolving credit facility accrues interest at the
+floating reference rate (6.75% and 9.25% at June 30, 2001 and 2000,
+respectively) plus 0.25%, as defined in the agreement. The amended revolving
+credit facility also provides the Company with a rate of LIBOR + 2.50%. At June
+30, 2001 and 2000 no portion of the revolving credit facility was subject to the
+LIBOR provision. The amended revolving credit facility is collateralized by
+substantially all of the assets of the company. On June 28, 1999, the Company's
+credit facilities with a bank were further amended. The amendment provided for
+favorable interest rate reduction, based upon annual profitability, for fiscal
+years 2001 and 2002. The amendment also extended the maturity date to January 6,
+2003 along with a favorable change to certain debt covenants for which the
+Company was in compliance at June 30, 2001 and 2000.
+
+     The revolving credit facility also provides for a commitment guarantee up
+to a maximum of $3.0 million for letters of credit and requires a per annum fee
+of 0.75% on unused letters of credit. At June 30, 2001 and 2000, the Company had
+no letters of credit outstanding.
+
+                                        31
+<PAGE>   34
+
+     Aggregate maturities of long-term debt, excluding capital leases, for each
+of the five fiscal years subsequent to June 30, 2001 are as follows:
+
+<Table>
+<Caption>
+Fiscal          Revolving
+ Year        Credit Facility        Term Loan            Total
+------       ---------------       ------------       -----------
+<S>          <C>                   <C>                <C>
+2002                   --           $  424,473        $   424,473
+2003           $7,493,505              463,411          7,956,916
+2004                   --            3,062,165          3,062,165
+               ----------           ----------        -----------
+               $7,493,505           $3,950,049        $11,443,554
+               ==========           ==========        ===========
+</Table>
+
+7. LEASE COMMITMENTS
+
+     The Company leases certain of its electronic data processing and
+manufacturing equipment under non-cancelable lease agreements. These agreements
+extend for a period of up to 60 months and contain purchase or renewal options
+on a month-to-month basis. The leases are reflected in the consolidated
+financial statements as capitalized leases in accordance with the requirements
+of Statement of Financial Accounting Standards No. 13 ("SFAS 13"), "Accounting
+for Leases". In addition, the Company leases certain office equipment under
+noncancelable operating leases.
+
+     Minimum lease payments under long-term capital leases and operating leases
+at June 30, 2001 are as follows:
+
+<Table>
+<Caption>
+Fiscal                                                          Capital     Operating
+Year                                                             Leases      Leases
+------                                                          --------    ---------
+<S>                                                             <C>         <C>
+2002                                                            $779,851    $235,085
+2003                                                                  --     154,030
+2004                                                                  --      83,378
+                                                                --------    --------
+Total minimum lease payments                                     779,851    $472,493
+                                                                --------    ========
+Less amount representing interest                                (35,280)
+                                                                --------
+Present value of future net minimum lease payments,
+  including current portion of $744,571                         $744,571
+                                                                ========
+</Table>
+
+     Rental expense incurred on operating leases in fiscal 2001, 2000, and 1999
+totaled $538,426, $678,888 and $647,550, respectively.
+
+8. INCOME TAXES
+
+     The provision (benefit) for income taxes consists of the following:
+
+<Table>
+<Caption>
+                                                                2001        2000          1999
+                                                              --------    ---------    -----------
+<S>                                                           <C>         <C>          <C>
+Current:
+  Federal                                                     $528,560    $ (49,915)   $(1,497,541)
+  State                                                             --           --             --
+                                                              --------    ---------    -----------
+  Total current                                                528,560      (49,915)    (1,497,541)
+                                                              --------    ---------    -----------
+Deferred:
+  Federal                                                     (110,410)    (561,137)      (113,472)
+  State                                                       (246,258)     (83,911)      (261,963)
+                                                              --------    ---------    -----------
+  Total Deferred                                              (356,668)    (645,048)      (375,435)
+                                                              --------    ---------    -----------
+                                                              $171,892    $(694,963)   $(1,872,976)
+                                                              ========    =========    ===========
+</Table>
+
+                                        32
+<PAGE>   35
+
+     Income taxes were 42.3%, 28.9%, and 31.3% of pre-tax earnings (losses) in
+2001, 2000, and 1999, respectively. The Company reversed $0.3 million in
+deferred tax valuation allowances during fiscal 2001 pursuant to the Company's
+reassessment of the underlying deferred tax assets and determination that it is
+more likely than not that the deferred tax assets will be fully utilized. The
+valuation allowance was previously established for state tax net operating tax
+carryforwards due to uncertainty as to their eventual utilization. The Company
+now believes that these carryforwards will be fully utilized. A reconciliation
+of income taxes, with the amounts computed at the statutory federal rate is as
+follows:
+
+<Table>
+<Caption>
+                                                                2001        2000          1999
+                                                              --------    ---------    -----------
+<S>                                                           <C>         <C>          <C>
+Computed tax at federal statutory rate                        $138,050    $(818,869)   $(2,037,066)
+State income taxes, net of federal tax benefit                 (43,799)     (55,381)      (172,876)
+Non deductible goodwill                                        277,240      277,240        277,240
+Change in valuation allowance                                 (325,391)          --             --
+Other, net                                                      38,214      (97,953)        59,726
+                                                              --------    ---------    -----------
+Total                                                         $171,892    $(694,963)   $(1,872,976)
+                                                              ========    =========    ===========
+</Table>
+
+     The deferred tax assets and deferred tax liabilities recorded on the
+balance sheet as of June 30, 2001 and 2000 are as follows:
+
+<Table>
+<Caption>
+                                                        2001                            2000
+                                                        ----                            ----
+                                              Deferred      Deferred Tax      Deferred      Deferred Tax
+                                             Tax Assets     Liabilities      Tax Assets     Liabilities
+                                            ------------    ------------    ------------    ------------
+<S>                                         <C>             <C>             <C>             <C>
+Current:
+  Bad debts                                  $  236,228       $     --       $  344,321       $     --
+  Accrued liabilities                           328,817             --          208,515             --
+  Inventory                                          --        646,275               --        561,714
+  Other property basis                          450,683             --               --             --
+                                             ----------       --------       ----------       --------
+                                              1,015,728        646,275          552,836        561,714
+                                             ----------       --------       ----------       --------
+Non Current:
+  Depreciation                                  107,753             --               --         (5,407)
+  Other property basis                               --        147,192               --        (97,665)
+  Intangible assets                             176,737             --          530,163             --
+  Net operating loss carryforward               170,998             --          264,274             --
+  Other                                              --        111,288               --        353,447
+                                             ----------       --------       ----------       --------
+                                                455,488        258,480          794,437        250,375
+                                             ----------       --------       ----------       --------
+Valuation allowance                                  --             --         (325,391)            --
+                                             ----------       --------       ----------       --------
+Total deferred taxes                         $1,471,216       $904,755       $1,021,882       $812,089
+                                             ==========       ========       ==========       ========
+</Table>
+
+9. RETIREMENT PLAN
+
+     The Company offers a retirement savings plan under Section 401(k) of the
+Internal Revenue Code to certain eligible salaried employees. Each employee may
+elect to enter a written salary deferral agreement under which a portion of such
+employee's pre-tax earnings may be contributed to the plan.
+
+     During the fiscal years ended June 30, 2001, 2000 and 1999, the Company
+made contributions of $234,472, $296,134, and $359,087 respectively.
+
+10. STOCKHOLDERS' EQUITY
+
+     The Company has established a 1991 Employee Non-Qualified Stock Option
+Plan, a 1994 Employee Stock Option Plan, and a 1999 Incentive Stock Plan
+(collectively the"Employee Plans"). The Employee Plans provide for the granting
+of options to the Company's executive officers and key employees to purchase
+
+                                        33
+<PAGE>   36
+
+shares of common stock at prices equal to the fair market value of the stock on
+the date of grant. Options to purchase up to 1,800,000 shares of common stock
+may be granted under the Employee Plans. Options generally become exercisable
+ratably over a four year period or one-fourth of the shares covered thereby on
+each anniversary of the date of grant, commencing on the first or second
+anniversary of the date granted, except certain options granted under the 1994
+Employee Stock Option Plan which become exercisable when the fair market value
+of the common stock exceeds required levels. The right to exercise the options
+expires in ten years, from the date of grant, or earlier if an option holder
+ceases to be employed by the Company.
+
+     In addition, the Company has established a 1991 Directors Non-Qualified
+Stock Option Plan and a 1995 Directors Non-Qualified Stock Option Plan
+(collectively the"Directors Plans"). The Directors Plans provide for the
+granting of options to the Company's directors who are not employees of the
+Company to purchase shares of common stock at prices equal to the fair market
+value of the stock on the date of grant. Options to purchase up to 250,000
+shares of common stock may be granted under the Directors Plans. Options shall
+become exercisable with respect to one-fourth of the shares covered thereby on
+each anniversary of the date of grant, commencing on the second anniversary of
+the date granted, except for certain options granted under the 1995 Directors
+Non-Qualified Stock Option Plan which become exercisable with respect to all of
+the shares covered thereby one year after the grant date. The right to exercise
+the options expires in ten years from the date of grant, or earlier if an option
+holder ceases to be a director of the Company.
+
+     A summary of stock option transactions in 2001, 2000 and 1999,
+respectively, pursuant to the Employee Plans and the Directors Plans is as
+follows:
+
+<Table>
+<Caption>
+                                                Weighted Average     Shares Subject
+                                                     Price             To Option
+                                               ------------------    --------------
+<S>                                            <C>                   <C>
+June 30, 1998                                         $8.39              625,450
+  Options granted                                      1.97               54,000
+  Options exercised                                      --                   --
+  Options canceled                                    10.54             (149,700)
+                                                                        --------
+June 30, 1999                                         $7.13              529,750
+                                                                        --------
+Exercisable at June 30, 1999                                             148,500
+                                                                        ========
+June 30, 1999                                         $7.13              529,750
+  Options granted                                      2.00              567,500
+  Options exercised                                                           --
+  Options canceled                                     7.89             (329,500)
+                                                                        --------
+June 30, 2000                                         $3.50              767,750
+                                                                        --------
+Exercisable at June 30, 2000                                             227,000
+                                                                        ========
+June 30, 2000                                         $3.50              767,750
+  Options granted                                      3.17               95,500
+  Options exercised                                                           --
+  Options canceled                                     3.04              (67,850)
+                                                                        --------
+June 30, 2001                                         $3.50              795,400
+                                                                        --------
+Exercisable at June 30, 2001                                             369,025
+                                                                        ========
+</Table>
+
+                                        34
+<PAGE>   37
+
+     The following table provides additional information for options outstanding
+and exercisable at June 30, 2001.
+
+OPTIONS OUTSTANDING
+
+<Table>
+<Caption>
+                               Weighted Average     Weighted Average
+Range of Prices    Number       Remaining Life       Exercise Price
+---------------   ---------   ------------------   ------------------
+<S>               <C>         <C>                  <C>
+  $ 1.00-1.99       25,500        8.0 years               $1.90
+         2.00      542,000        8.3 years                2.00
+    2.01-6.99       99,000        8.5 years                4.05
+    7.00-7.99       71,000        6.4 years                7.52
+   8.00-18.50       57,900        3.4 years               12.40
+                   -------
+  $1.00-18.50      795,400        7.8 years               $3.50
+</Table>
+
+OPTIONS EXERCISABLE
+
+<Table>
+<Caption>
+                                   Weighted Average
+    Range of Prices    Number       Exercise Price
+    ---------------   ---------   ------------------
+    <S>               <C>         <C>                  <C>
+      $ 1.00-1.99       10,500            $1.89
+             2.00      237,125             2.00
+        2.01-6.99       27,500             5.24
+        7.00-7.99       39,750             7.50
+       8.00-18.50       54,150            12.67
+                       -------
+      $1.00-18.50      369,025            $5.31
+</Table>
+
+     The Company has elected to follow the provisions prescribed by APB 25 and
+its related interpretations, for financial reporting purposes, whereby the
+difference between the exercise price and the fair value at the date of grant is
+recognized as compensation expense.
+
+     The Company has elected to follow the disclosure provisions of SFAS No.
+123. Accordingly, no compensation expense has been recognized for the plans
+under the provisions of SFAS No. 123. Had compensation cost for the plans been
+determined based upon the fair value at the grant date for employee awards under
+the Plan consistent with the methodology prescribed under SFAS No. 123, the
+Company's net loss would have been increased or decreased, respectively, to the
+following pro forma amount (in thousands, except per share).
+
+<Table>
+<Caption>
+                                                                2001         2000          1999
+                                                                -----       -------       -------
+<S>                                                             <C>         <C>           <C>
+Reported net income/(loss)                                      $ 234       $(1,713)      $(4,118)
+Pro forma net income/(loss)                                     $  45       $(1,918)      $(4,374)
+Basic and diluted earnings per share -- as reported             $0.03       $ (0.22)      $ (0.53)
+Basic and diluted earnings per share -- pro forma               $0.01       $ (0.25)      $ (0.56)
+</Table>
+
+     The fair value of options granted, which is amortized to expense over the
+option vesting period in determining the pro forma impact, has been estimated on
+the date of grant using the Black-Scholes option-pricing model with the
+following weighted average assumptions:
+
+<Table>
+<Caption>
+                                                                 2001           2000           1999
+                                                               --------       --------       --------
+<S>                                                            <C>            <C>            <C>
+Expected life of option                                        10 years       10 years       10 years
+Risk-free interest rate                                             5.0%           5.9%           5.2%
+Expected volatility                                                  49%            50%            37%
+Expected dividend yield                                               0%             0%             0%
+</Table>
+
+                                        35
+<PAGE>   38
+
+     The weighted-average fair value of options granted during fiscal 2001 and
+2000 determined using the Black-Scholes options pricing model is as follows:
+
+<Table>
+<Caption>
+                                                                2001        2000        1999
+                                                                -----       -----       -----
+<S>                                                             <C>         <C>         <C>
+Per share value                                                 $2.20       $1.38       $1.27
+Aggregate value (in thousands)                                  $ 210       $ 780       $  70
+</Table>
+
+     In conjunction with a refinancing, 28,124 warrants were issued to the
+holders of the subordinated notes payable and 50,000 warrants were issued to the
+commercial lender providing the revolving credit facilities and the term loan
+facilities on August 7, 1997. Each warrant entitles the holder to purchase one
+share of common stock at $7.025 per share through August 7, 2002. The fair value
+of the warrants using the Black-Scholes option pricing model was not
+significant.
+
+STOCKHOLDER RIGHTS PLAN
+
+     The Board of Directors adopted a Stockholder Rights Plan in 1996 that would
+permit stockholders to purchase common stock at prices substantially below
+market value under certain change-in-control scenarios. At June 30, 2001, no
+common stock has been purchased under this plan.
+
+11. EXPORT SALES
+
+     Export sales for the years ended June 30, 2001, 2000, and 1999 are
+approximately as follows (in thousands):
+
+<Table>
+<Caption>
+                                                                 2001          2000          1999
+                                                                -------       -------       -------
+<S>                                                             <C>           <C>           <C>
+Europe                                                          $ 1,500       $ 2,100       $ 2,600
+Canada                                                            1,500         1,800         1,900
+Latin America                                                     3,200         3,900         3,500
+Middle East                                                       1,200         1,300         1,300
+Far East                                                          4,200         2,600         2,700
+Other                                                             2,100           900         1,500
+                                                                -------       -------       -------
+                                                                $13,700       $12,600       $13,500
+                                                                =======       =======       =======
+</Table>
+
+                                        36
+<PAGE>   39
+
+12. SUPPLEMENTAL BALANCE SHEET INFORMATION
+
+<Table>
+<Caption>
+                                                                                 June 30,
+                                                                          2001               2000
+                                                                      ------------       ------------
+<S>                                                 <C>               <C>                <C>
+INVENTORIES
+  Work in progress                                                    $    801,965       $  1,237,534
+  Component parts                                                       12,018,928         11,209,463
+  Finished goods                                                         4,258,140          4,295,181
+                                                                      ------------       ------------
+                                                                      $ 17,079,033       $ 16,742,178
+                                                                      ============       ============
+                                                     Estimated
+                                                    Useful Life
+                                                      (years)
+PROPERTY, PLANT AND EQUIPMENT
+  Machinery and equipment                              5-10           $ 15,670,224       $ 15,096,250
+  Buildings                                            28-35            11,928,686         11,751,455
+  Land and land improvements                            5-7                934,216            934,216
+  Property held under capital leases                     5               4,518,761          4,518,761
+                                                                      ------------       ------------
+  Total property, plant and equipment at cost                           33,051,887         32,300,682
+  Less accumulated depreciation and
+     amortization, including $4,260,952 and
+     $3,526,799, respectively, related to
+     property held under capital leases                                (22,159,619)       (20,124,066)
+                                                                      ------------       ------------
+                                                                      $ 10,892,268       $ 12,176,616
+                                                                      ============       ============
+OTHER ACCRUED LIABILITIES
+  Accrued compensation expense                                        $  1,114,128       $    756,328
+  Accrued interest expense                                                  89,468            101,142
+  Accrued income tax                                                     1,621,785          1,247,546
+  Other                                                                    490,634            587,885
+                                                                      ------------       ------------
+                                                                      $  3,316,015       $  2,692,901
+                                                                      ============       ============
+</Table>
+
+13. COMMITMENTS AND CONTINGENCIES
+
+     The Company is subject to various investigations, claims and legal
+proceedings covering a wide range of matters that arise in the ordinary course
+of its business activities. In March through June 2000, the FDA conducted an
+inspection of the Company's St. Louis facility and provided a written report,
+known as an "FDA Form 483" or simply a "483," citing FDA observations concerning
+GMP compliance and quality control issues applicable to demand valves, emergency
+ventilators, circumcision clamps, and regulators. The Company provided a written
+response to the FDA and in August 2000, the FDA issued a warning letter and
+requested that the Company clarify and supplement its responses to the 483
+observations. As a result, the Company has submitted to the FDA a written
+supplemental response and is in the process of implementing actions to address
+the FDA concerns. The Company met with the FDA at their Kansas City field office
+in March 2001 to discuss the responses and actions. The Company believes that
+its responses to date and its continuing attention to the matters raised by the
+FDA will avert any FDA action seeking to interrupt or suspend manufacturing or
+to require any recall or modification of products.
+
+     The Company has recognized the costs and associated liabilities only for
+those investigations, claims and legal proceedings for which, in its view, it is
+probable that liabilities have been incurred and the related amounts are
+estimable. Based upon information currently available, management believes that
+existing accrued liabilities are sufficient and that it is not reasonably
+possible at this time that any additional liabilities will result from the
+resolution of these matters that would have a material adverse effect on the
+Company's consolidated results of operations or financial position.
+
+                                        37
+<PAGE>   40
+
+14. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+     Summarized quarterly financial data for fiscal 2001 and 2000 appears below
+(all amounts in thousands except per share data):
+
+<Table>
+<Caption>
+                          June 30,   March 31,   Dec. 31,    Sept. 30,   June 30,   March 31,   Dec. 31,    Sept. 30,
+  Three months ended,       2001       2001        2000        2000        2000       2000        1999        1999
+---------------------------------------------------------------------------------------------------------------------
+<S>                       <C>        <C>         <C>         <C>         <C>        <C>         <C>         <C>
+Net sales                 $16,556     $16,643     $16,709     $15,020    $15,174     $17,218     $17,160     $16,443
+Gross profit                4,705       4,175       4,176       3,607      2,813       4,481       4,362       3,829
+Income (loss) from          1,014         598         418         (20)      (956)        919         359        (917)
+  operations
+Net income (loss)             631          40         (90)       (347)      (894)        210        (126)       (903)
+Basic and diluted            0.08        0.01       (0.01)      (0.04)     (0.11)        .03       (0.02)      (0.12)
+  earnings
+  (loss) per share
+</Table>
+
+15. SEGMENT INFORMATION
+
+     The Company operates in one segment consisting of the manufacturing,
+marketing and distribution of a variety of respiratory products used in the
+health care industry to hospitals, hospital equipment dealers, hospital
+construction contractors, home health care dealers and emergency medical product
+dealers. The Company's product lines include respiratory care products, medical
+gas equipment and emergency medical products. The Company does not have any one
+single customer that represents more than 10 percent of total sales.
+
+ITEM 9. CHANGES IN AND DISAGREEMENTS WITH ACCOUNTANTS ON ACCOUNTING AND
+FINANCIAL DISCLOSURE
+
+     None
+
+                                    PART III
+
+ITEM 10. DIRECTORS AND EXECUTIVE OFFICERS OF THE REGISTRANT
+
+     A definitive proxy statement is expected to be filed with the Securities
+and Exchange Commission on or about October 3, 2001. The information required by
+this item is set forth under the caption "Election of Directors" on pages 2
+through 3, under the caption "Executive Officers" on page 6 and under the
+caption Section 16(a) Beneficial Ownership Reporting Compliance on page 14 of
+the definitive proxy statement, which information is incorporated herein by
+reference thereto.
+
+ITEM 11. EXECUTIVE COMPENSATION
+
+     The information required by this item is set forth under the caption
+"Executive Compensation" on pages 7 through 8 of the definitive proxy statement,
+which information is incorporated herein by reference thereto.
+
+ITEM 12. SECURITY OWNERSHIP OF CERTAIN BENEFICIAL OWNERS AND MANAGEMENT
+
+     The information required by this item is set forth under the caption
+"Security Ownership of Certain Beneficial Owners and Management" on pages 4
+through 5 of the definitive proxy statement, which information is incorporated
+herein by reference thereto.
+
+ITEM 13. CERTAIN RELATIONSHIPS AND RELATED TRANSACTIONS
+
+     None
+
+                                        38
+<PAGE>   41
+
+                                    PART IV
+
+ITEM 14. EXHIBITS, FINANCIAL STATEMENT SCHEDULE, AND REPORTS ON FORM 8-K
+
+1. FINANCIAL STATEMENTS
+
+     The following consolidated financial statements of the Company and its
+subsidiaries are included in response to Item 8:
+
+        Consolidated Statement of Operations for the years ended June 30, 2001,
+         2000, and 1999
+
+        Consolidated Balance Sheet at June 30, 2001 and 2000
+
+        Consolidated Statement of Changes in Stockholders' Equity for the years
+         ended June 30, 2001, 2000 and 1999
+
+        Consolidated Statement of Cash Flows for the years ended June 30, 2001,
+         2000 and 1999
+
+        Notes to Consolidated Financial Statements
+
+        Report of Independent Accountants
+
+2. FINANCIAL STATEMENT SCHEDULE
+
+        Valuation and Qualifying Accounts and Reserves for the Years Ended June
+         30, 2001, 2000 and 1999
+
+     All other schedules are omitted because they are not applicable or the
+required information is shown in the financial statements or notes thereto.
+
+3. EXHIBITS
+
+     The exhibits listed on the accompanying Index to Exhibits are filed as part
+of this Report.
+
+4. REPORTS ON FORM 8-K
+
+     None.
+
+                                        39
+<PAGE>   42
+
+                                   SIGNATURES
+
+     Pursuant to the requirements of Section 13 or 15(d) of the Securities
+Exchange Act of 1934, the registrant has duly caused this report to be signed on
+its behalf by the undersigned, thereunto duly authorized.
+
+                                             ALLIED HEALTHCARE PRODUCTS, INC.
+                                                           By:
+
+                                                 /s/ EARL R. REFSLAND
+                                          --------------------------------------
+                                                     Earl R. Refsland
+                                          President and Chief Executive Officer
+
+                                                  /s/ DANIEL C. DUNN
+                                          --------------------------------------
+                                                      Daniel C. Dunn
+                                             Vice President, Chief Financial
+                                                  Officer, and Secretary
+
+Dated: September 27, 2001
+
+     Pursuant to the requirements of the Securities Exchange Act of 1934, this
+report has been signed below by the following persons on behalf of the
+registrant and in the capacities indicated on September 27, 2001.
+
+<Table>
+<Caption>
+                 SIGNATURES                                               TITLE
+<S>                                                <C>
+                      *                            Chairman of the Board
+---------------------------------------------
+                John D. Weil
+
+                      *                            President, Chief Executive Officer and Director
+---------------------------------------------      (principal Executive Officer)
+              Earl R. Refsland
+
+                      *                            Director
+---------------------------------------------
+               William A. Peck
+
+                      *                            Director
+---------------------------------------------
+               Brent D. Baird
+
+                      *                            Director
+---------------------------------------------
+            James B. Hickey, Jr.
+
+          *By: /s/ EARL R. REFSLAND
+   ---------------------------------------
+              Earl R. Refsland
+              Attorney-in-Fact
+</Table>
+
+-------------------------
+* Such signature has been affixed pursuant to the following Power of Attorney.
+
+                                        40
+<PAGE>   43
+
+                      REPORT OF INDEPENDENT ACCOUNTANTS ON
+
+                          FINANCIAL STATEMENT SCHEDULE
+
+To the Board of Directors of
+Allied Healthcare Products, Inc.
+
+
+Our audits of the consolidated financial statements referred to in our report
+dated August 9, 2000, appearing in the 2000 Annual Report to Shareholders of
+Allied Healthcare Products, Inc. (which report and consolidated financial
+statements are incorporated by reference in this Annual Report on Form 10-K)
+also included an audit of the Financial Statement Schedule listed in item
+14(a)(2) of this Form 10-K. In our opinion, this Financial Statement Schedule
+presents fairly, in all material aspects, the information set forth therein
+when read in conjunction with the related consolidated financial statements.
+
+
+/s/ PricewaterhouseCoopers LLP
+
+St. Louis, Missouri
+August 17, 2001
+
+
+
+
+
+
+
+                                      S-1
+
+<PAGE>   44
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+            RULE 12-09 VALUATION AND QUALIFYING ACCOUNTS AND RESERVES
+
+<TABLE>
+<CAPTION>
+        COLUMN A              COLUMN B                     COLUMN C                   COLUMN D                COLUMN E
+---------------------------------------------------------------------------------------------------------------------------
+                             BALANCE AT          CHARGED TO        CHARGED TO
+                            BEGINNING OF            COSTS        OTHER ACCOUNTS -   DEDUCTIONS -           BALANCE AT END
+      DESCRIPTION              PERIOD           AND EXPENSES         DESCRIBE         DESCRIBE               OF PERIOD
+---------------------------------------------------------------------------------------------------------------------------
+<S>                         <C>                 <C>              <C>                <C>                   <C>
+                                             FOR THE YEAR ENDED JUNE 30, 2001
+
+Reserve For
+Doubtful Accounts                 $(882,874)          $(259,997)                          $537,157  (1)         $(605,714)
+
+Inventory Allowance
+For Obsolescence
+
+And Excess Quantities           $(2,894,610)          $(149,000)                          $470,643  (2)       $(2,572,967)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+                                             FOR THE YEAR ENDED JUNE 30, 2000
+
+Reserve For
+Doubtful Accounts                 $(834,883)           $(68,667)                           $20,676  (1)         $(882,874)
+
+Inventory Allowance
+For Obsolescence
+
+And Excess Quantities           $(1,936,402)          $(958,208)                                --            $(2,894,610)
+
+---------------------------------------------------------------------------------------------------------------------------
+
+                                             FOR THE YEAR ENDED JUNE 30, 1999
+
+Reserve For
+Doubtful Accounts              $ (1,035,833)         $ (175,496)                         $ 376,446   (1)       $ (834,883)
+
+Inventory Allowance
+For Obsolescence
+
+And Excess Quantities          $ (2,189,000)          $(200,000)                          $452,598   (3)      $(1,936,402)
+
+---------------------------------------------------------------------------------------------------------------------------
+</TABLE>
+
+(1)      Decrease due to bad debt write-offs and  recoveries.
+
+(2)      Decrease due to disposal of obsolete inventory.
+
+(3)      Decrease due to disposal of obsolete inventory and a decrease of
+         $228,928 due to the sale of the Headwall Products Division.
+
+
+
+
+                                      S-2
+<PAGE>   45
+
+                                INDEX TO EXHIBITS
+
+
+   EXHIBIT
+     NO.       Description
+
+  3.1          Amended and Restated Certificate of Incorporation of the
+               Registrant (filed as Exhibit 3(1) to the Company's Registration
+               Statement on Form S-1, as amended, Registration No. 33-40128,
+               filed with the Commission on May 8, 1991 (the "Registration
+               Statement") and incorporated herein by reference)
+
+  3.2          By-Laws of the Registrant (filed as Exhibit 3(2) to the
+               Registration Statement and incorporated herein by reference)
+
+  4.1          Certificate of Designations, Preferences and Rights of Series A
+               Preferred Stock of Allied Healthcare Products, Inc. dated August
+               21, 1996 (filed with the Commission as Exhibit 4(1) to the
+               Company's Annual Report on Form 10-K for the fiscal year ended
+               June 30, 1997 (the "1997 Form 10-K") and incorporated herein by
+               reference)
+
+  10.1         NCG Trademark License Agreement, dated April 16, 1982, between
+               Liquid Air Corporation and Allied Healthcare Products, Inc.
+               (filed as Exhibit 10(24) to the Registration Statement and
+               incorporated herein by reference)
+
+  10.2         Allied Healthcare Products, Inc. 1991 Employee Non-Qualified
+               Stock Option Plan (filed as Exhibit 10(26) to the Registration
+               Statement and incorporated herein by reference)
+
+  10.3         Employee Stock Purchase Plan (filed as Exhibit 10(3) to the
+               Company's Annual Report on Form 10-K for the year ended June 30,
+               1998 (the "1998 Form 10-K") and incorporated by reference)
+
+  10.4         Allied Healthcare Products, Inc. 1994 Employee Stock Option Plan
+               (filed with the Commission as Exhibit 10(39) to the Company's
+               Annual Report on Form 10-K for the year ended June 30, 1994 (the
+               "1994 Form 10-K") and incorporated herein by reference)
+
+  10.5         Allied Healthcare Products, Inc. 1995 Directors Non-Qualified
+               Stock Option Plan (filed with the Commission as Exhibit 10(25) to
+               the Company's Annual Report on Form 10-K for the fiscal year
+               ended June 30, 1995 (the "1995 Form 10-K") and incorporated
+               herein by reference)
+
+  10.6         Allied Healthcare Products, Inc. Amended 1994 Employee Stock
+               Option Plan (filed with the Commission as Exhibit 10(28) to the
+               Company's Annual Report on Form 10-K for the fiscal year ended
+               June 30, 1996 (the "1996 Form 10-K") and incorporated herein by
+               reference)
+
+  10.7         Employment Agreement dated November 19, 1996 by and between
+               Allied Healthcare Products, Inc. and Uma N. Aggarwal (filed as
+               Exhibit 10(1) to the Company's Quarterly Report on Form 10-Q for
+               the quarter ended December 31, 1996 and incorporated herein by
+               reference)
+
+  10.8         Option Agreement dated November 19, 1996 by and between Allied
+               Healthcare Products, Inc. and Uma N. Aggarwal (filed as Exhibit
+               10(2) to the Company's Quarterly Report on Form 10-Q for the
+               quarter ended December 31, 1996 and incorporated herein by
+               reference)
+
+  10.9         Option Agreement dated November 19, 1996 between Allied
+               Healthcare Products, Inc. and Uma N. Aggarwal (filed as Exhibit
+               10(3) to the Company's Quarterly Report on Form 10-Q for the
+               quarter ended December 31, 1996 and incorporated herein by
+               reference)
+
+
+
+
+<PAGE>   46
+
+  10.11        Loan and Security Agreement, dated as of August 7, 1997 by and
+               among Allied Healthcare Products, Inc., B&F Medical Products,
+               Inc., Bear Medical Systems, Inc., Hospital Systems, Inc., Life
+               Support Products, Inc., and BiCore Monitoring Systems, Inc., as
+               Borrowers, and Foothill Capital Corporation (filed with the
+               Commission as Exhibit 10(31) to the Company's Annual Report on
+               Form 10-K for the fiscal year ended June 20, 1997 (the "1997 Form
+               10-K") and incorporated herein by reference)
+
+  10.12        Warrant dated August 7, 1997 issued by Allied Healthcare
+               Products, Inc. in favor of Woodbourne Partners, L.P. (filed with
+               the Commission as Exhibit 10(36) to the 1997 Form 10-K and
+               incorporated herein by reference)
+
+  10.13        Warrant dated August 7, 1997 issued by Allied Healthcare
+               Products, Inc. in favor of Donald E. Nickelson (filed with the
+               Commission as Exhibit 10(37) to the 1997 Form 10-K and
+               incorporated herein by reference)
+
+  10.14        Warrant dated August 7, 1997 issued by Allied Healthcare
+               Products, Inc. in favor of Dennis W. Sheehan (filed with the
+               Commission as Exhibit 10(38) to the 1997 form 10-K and
+               incorporated herein by reference)
+
+  10.15        Agreement effective as of June 1, 1997 between Allied Healthcare
+               Products, Inc. and District No. 9 International Association of
+               Machinists and Aerospace Workers (filed with the Commission as
+               Exhibit 10(39) to the 1997 Form 10-K and incorporated herein by
+               reference)
+
+  10.16        Asset Purchase Agreement by and between BM Acquisition Corp.,
+               ThermoElectron Corporation, Bear Medical Systems, Inc., BiCore
+               Monitoring Systems, Inc., Allied Healthcare Products AG, Bear
+               Medical Systems Foreign Sales Corporation and Allied Healthcare
+               Products, Inc. (filed with the Commission as Exhibit 2.1 to the
+               Form 8-K filed on November 14, 1997 and incorporated herein by
+               reference)
+
+  10.17        Amendment Number One to Loan and Security Agreement dated as of
+               March 3, 1998 among Allied Healthcare Products, Inc., B&F Medical
+               Products, Inc., Hospital Systems, Inc. and Life Support Products,
+               Inc. as Borrowers, and Foothill Capital Corporation (filed with
+               the Commission as Exhibit 10.1 to the Company's Quarterly Report
+               on Form 10-Q for the quarter ended March 31, 1998 and
+               incorporated herein by reference)
+
+  10.18        Loan and Security Agreement, dated as of August 7, 1998 by and
+               between Allied Healthcare Products, Inc. and LaSalle National
+               Bank (filed with the Commission as Exhibit 10(24) to the
+               Company's Annual Report on Form 10-K for the fiscal year ended
+               June 30, 1998 (the "1998 Form 10-K") and incorporated herein by
+               reference)
+
+  10.19        Amendment Number Two to Loan and Security Agreement dated as of
+               September 10, 1998 among Allied Healthcare Products, Inc., B&F
+               Medical Products, Inc., Hospital Systems, Inc. and Life Support
+               Products, Inc. as Borrowers, and Foothill Capital Corporation
+               (filed with the Commission as Exhibit 10(25) to the 1998 Form
+               10-K and incorporated herein by reference)
+
+  10.20        Letter Agreement dated February 11, 1999 between Allied
+               Healthcare Products, Inc. and Gabriel S. Kohn (filed with the
+               Commission as Exhibit 10(20) to the Company's Annual Report on
+               Form 10-K for the fiscal year ended June 30, 1999 (the "1999 Form
+               10-K") and incorporated herein by reference)
+
+  10.22        Form of Indemnification Agreement with officers and directors
+               (filed herewith).
+
+  10.23        Amendment Number One to Amended and Restated Loan and Security
+               Agreement dated as of June 28, 1999 among Allied Healthcare
+               Products, Inc., B&F Medical Products, Inc. and Life Support
+               Products, Inc. as Borrowers, and Foothill Capital Corporation
+               (filed with the Commission as Exhibit 10(23) to the 1999 Form
+               10-K and incorporated herein by reference)
+
+
+
+<PAGE>   47
+
+
+  10.24        Asset Purchase Agreement dated May 28, 1999 by and between Allied
+               Healthcare Products, Inc. and Hospital Systems, Inc. and David
+               Miller (filed with the Commission as Exhibit 10(24) to the 1999
+               Form 10-K and incorporated herein by reference)
+
+  10.25        Employment Agreement dated August 24, 1999 by and between Allied
+               Healthcare Products, Inc. and Earl Refsland (filed with the
+               Commission as Exhibit 10(25) to the 1999 Form 10-K and
+               incorporated herein by reference)
+
+  10.26        Allied Healthcare Products, Inc. 1999 Incentive Stock Plan (filed
+               with the Commission as Exhibit 10(26) to the 1999 Form 10-K and
+               incorporated herein by reference)
+
+  10.27        Letter of Second Amendment to the $5,000,000 Promissory Note
+               dated August 7, 1998 made by Allied Healthcare Products, Inc. to
+               the order of LaSalle Bank National Association (filed on Exhibit
+               10.27 to the 1999 Form 10-K and incorporated by reference)
+
+  10.28        Agreement between Allied Healthcare Products, Inc. Medical
+               Products Division and District No. 9 International Association of
+               Machinists and Aerospace Workers dated August 1, 2000 through May
+               31, 2003 (filed on Exhibit 10.28 to the 2000 Form 10-K and
+               incorporated by reference)
+
+  10.29        Letter Agreement dated July 2, 2001 between Allied Healthcare
+               Products, Inc. and Daniel C. Dunn
+
+     21        Subsidiaries of the Registrant (filed on Exhibit 21 to the 2000
+               Form 10-K)
+
+     24        Powers of Attorney
+
+
+
+</TEXT>
+</DOCUMENT>

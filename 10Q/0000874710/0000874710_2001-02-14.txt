@@ -1,0 +1,655 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>c60062e10-q.txt
+<DESCRIPTION>FORM 10-Q
+<TEXT>
+
+<PAGE>   1
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+
+                                    FORM 10-Q
+
+(Mark One)
+
+ X     Quarterly report pursuant to Section 13 or 15(d) of the Securities
+----   Exchange Act of 1934
+
+For the quarterly period ended December 31, 2000
+
+       Transition report pursuant to Section 13 or 15(d) of the Securities
+-----  Exchange Action of 1934
+
+For the transition period from                        to
+                               ----------------------    ----------------------
+
+
+                         Commission File Number 0-19266
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+             (Exact name of registrant as specified in its charter)
+
+            DELAWARE                                 25-1370721
+   (State or other jurisdiction of            (IRS Employer I.D. No.)
+    incorporation or organization)
+
+                 1720 Sublette Avenue, St. Louis, Missouri 63110
+            (Street address of principal executive offices-Zip Code)
+
+                  Registrant's telephone number: (314) 771-2400
+
+
+       Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter periods that the
+registrant was required to file such reports, and (2) has been subject to such
+filing requirements for the past ninety days.
+
+              Yes          X            No
+                  --------------------     --------------------
+
+       The number of shares of common stock outstanding at December 31, 2000 is
+7,806,682 shares.
+
+
+<PAGE>   2
+
+
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+
+                                                                        Page
+                                                                       Number
+<S>                                                                    <C>
+Part I - Financial Information
+
+   Item 1.       Financial Statements
+
+                 Consolidated Statement of Operations -                   3
+                 three months and six months ended
+                 December 31, 2000 and 1999 (Unaudited)
+
+                 Consolidated Balance Sheet -                           4-5
+                 December 31, 2000  (Unaudited) and
+                 June 30, 2000
+
+                 Consolidated Statement of Cash Flows -                   6
+                 six months ended December 31, 2000 and 1999
+                 (Unaudited)
+
+                 Notes to Consolidated Financial Statements             7-8
+
+   Item 2.       Management's Discussion and Analysis of               9-11
+                 Financial Condition and Results of Operations
+
+Part II - Other Information
+
+   Item 4.       Submission of Matters to a Vote of Security Holders     12
+
+   Item 6.       Exhibits and Reports on Form 8-K                        12
+
+                 Signature                                               12
+
+</TABLE>
+
+                                       2
+
+<PAGE>   3
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED STATEMENT OF OPERATIONS
+(UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+                                                              Three months ended                    Six months ended
+                                                                  December 31,                         December 31,
+                                                    ------------------------------------    -------------------------------------
+                                                         2000                1999                 2000           1999
+                                                     ----------------    ----------------     ------------    ---------------
+<S>                                                 <C>                 <C>                  <C>              <C>
+ Net Sales                                              $ 16,329,478        $ 16,758,311     $ 30,947,597          $ 32,825,830
+ Cost of sales                                            11,905,950          12,133,403       22,751,865            24,174,694
+                                                    ----------------    ----------------     ------------     -----------------
+ Gross Profit                                              4,423,528           4,624,908        8,195,732             8,651,136
+
+ Selling, general and administrative expenses              4,004,694           4,265,548        7,797,609             8,908,331
+ Provision for product recall                                      0                   0                0               300,000
+                                                    ----------------    ----------------     ------------     -----------------
+ Income / (Loss) from operations                             418,834             359,360          398,123              (557,195)
+
+ Other expenses:
+     Interest expense                                        417,669             417,831          818,415               856,974
+     Other, net                                               16,430              16,406           36,638                30,735
+                                                    -----------------    ----------------    -------------    -----------------
+                                                             434,099             434,237          855,053               887,709
+                                                    ----------------    ----------------     ------------     -----------------
+
+
+ Loss before provision (benefit) for income taxes            (15,265)            (74,877)        (456,930)           (1,444,904)
+
+ Provision (Benefit) for income taxes                         75,434              51,592          (19,691)             (414,877)
+                                                    ----------------    ----------------     ------------     -----------------
+  Net Loss                                                 $ (90,699)         $ (126,469)      $ (437,239)         $ (1,030,027)
+                                                    ================    ================     ============     =================
+
+
+ Basic and diluted loss per share                          $   (0.01)         $    (0.02)      $    (0.06)         $      (0.13)
+                                                    ================    ================     ============     =================
+
+
+ Weighted average shares                                   7,806,682           7,806,682        7,806,682             7,806,682
+                                                    ================    ================     ============     =================
+
+</TABLE>
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+                                       3
+<PAGE>   4
+
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED BALANCE SHEET
+ASSETS
+
+<TABLE>
+<CAPTION>
+
+                                                                                      December 31,              June 30,
+                                                                                          2000                    2000
+                                                                                   -------------------       ---------------
+                                                                                       (unaudited)
+<S>                                                                                <C>                       <C>
+ Current Assets:
+      Cash                                                                               $    385,013          $    568,197
+      Accounts receivable, net of allowance for doubtful
+           accounts of $909,000 and $883,000 respectively                                  12,942,578            10,542,264
+      Inventories                                                                          16,839,091            16,742,178
+      Other current assets                                                                    557,951               358,407
+
+                                                                                   -------------------       ---------------
+           Total current assets                                                            30,724,633            28,211,046
+                                                                                   -------------------       ---------------
+
+      Property, plant and equipment, net                                                   10,971,958            12,176,616
+      Deferred Income taxes                                                                   218,671               218,671
+      Goodwill, net                                                                        25,990,039            26,395,241
+      Other assets, net                                                                       157,322               210,503
+
+                                                                                   -------------------       ---------------
+           Total assets                                                                  $ 68,062,623          $ 67,212,077
+                                                                                   ===================       ===============
+</TABLE>
+
+
+ See accompanying Notes to Consolidated Financial Statements.
+
+
+                                       4
+
+<PAGE>   5
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED BALANCE SHEET, Continued
+LIABILITIES AND STOCKHOLDERS' EQUITY
+
+<TABLE>
+<CAPTION>
+
+                                                                                     December 31,             June 30,
+                                                                                        2000                    2000
+                                                                                 -------------------     ------------------
+                                                                                     (unaudited)
+<S>                                                                              <C>                     <C>
+Current liabilities:
+     Accounts payable                                                                   $ 4,663,185            $ 4,055,739
+     Current portion of long-term debt                                                    1,043,798              1,016,611
+     Accrual for product recall                                                             148,744                185,241
+     Other current liabilities                                                            3,056,773              2,692,901
+
+                                                                                 -------------------     ------------------
+          Total current liabilities                                                       8,912,500              7,950,492
+                                                                                 -------------------     ------------------
+
+Long-term debt                                                                           13,381,758             13,055,980
+
+Deferred income tax liability-noncurrent                                                          -                      -
+
+Commitments and contingencies                                                                     -                      -
+
+Stockholders' equity:
+     Preferred stock; $.01 par value; 1,500,000 shares
+       authorized; no shares issued and outstanding,
+       which includes Series A preferred stock, $.01
+       par value, 200,000 shares authorized, no shares
+       issued and outstanding
+     Common stock; $.01 par value, 30,000,000 shares
+       authorized, 7,806,682 shares issued and
+       outstanding at December 31, 2000
+       and June 30, 2000                                                                    101,102                101,102
+     Additional paid-in capital                                                          47,014,621             47,014,621
+     Common stock in treasury, at cost                                                  (20,731,428)           (20,731,428)
+     Retained earnings                                                                   19,384,070             19,821,310
+
+                                                                                 -------------------     ------------------
+          Total stockholders' equity                                                     45,768,365             46,205,605
+
+                                                                                 -------------------     ------------------
+          Total liabilities and stockholders' equity                                   $ 68,062,623           $ 67,212,077
+                                                                                 ===================     ==================
+</TABLE>
+
+
+See accompanying Notes To Consolidated Financial Statements.
+
+
+                                       5
+
+
+<PAGE>   6
+
+
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+CONSOLIDATED STATEMENT OF CASH FLOWS
+(UNAUDITED)
+
+<TABLE>
+<CAPTION>
+
+                                                                                                     Six months ended
+                                                                                                        December 31,
+                                                                                                2000                  1999
+                                                                                        ---------------------   -----------------
+<S>                                                                                     <C>                     <C>
+Cash flows from operating activities:
+     Net loss                                                                                    $ (437,239)        $(1,030,027)
+     Adjustments to reconcile net loss to net
+          cash provided by (used in) operating activities:
+
+           Depreciation and amortization                                                          1,741,507           1,769,650
+           Provision for product recall                                                             (36,497)            (27,948)
+           Decrease (Increase) in accounts receivable, net                                       (2,400,314)          1,962,767
+           Decrease (Increase) in inventories                                                       (96,913)            314,855
+           Increase in income taxes receivable                                                            -            (411,894)
+           Increase in other current assets                                                        (199,544)           (230,239)
+          (Decrease) increase in accounts payable                                                   607,446          (1,148,965)
+           Increase (decrease) in accrued income taxes                                              (59,691)            158,635
+           Decrease (increase) in other current liabilities                                         403,872            (457,218)
+                                                                                       ---------------------   -----------------
+           Net cash provided by (used in) operating activities                                     (477,373)            899,616
+                                                                                       ---------------------   -----------------
+
+Cash flows from investing activities:
+     Capital expenditures, net                                                                      (78,468)           (144,120)
+                                                                                       ---------------------   -----------------
+
+
+          Net cash used in investing activities                                                     (78,468)           (144,120)
+                                                                                       ---------------------   -----------------
+
+Cash flows from financing activities:
+     Payments of long-term debt                                                                    (502,125)           (450,131)
+     Borrowings under revolving credit agreement                                                 30,340,625          36,724,753
+     Payments under revolving credit agreement                                                  (29,485,536)        (37,224,229)
+                                                                                       ---------------------   -----------------
+          Net cash provided by (used in) financing activities                                       352,964            (949,607)
+                                                                                       ---------------------   -----------------
+
+Net (decrease) in cash and equivalents                                                             (183,184)           (194,111)
+Cash and equivalents at beginning of period                                                         568,197             587,456
+
+                                                                                       ---------------------   -----------------
+Cash and equivalents at end of period                                                             $ 385,013           $ 393,345
+                                                                                       =====================   =================
+
+Supplemental disclosures of cash flow information:
+     Cash paid during the period for:
+          Interest                                                                                $ 824,364         $ 1,026,589
+          Income taxes                                                                                    -              86,987
+
+</TABLE>
+
+See accompanying Notes To Consolidated Financial Statements.
+
+
+                                       6
+<PAGE>   7
+
+ALLIED HEALTHCARE PRODUCTS, INC.
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+(UNAUDITED)
+
+1.     Unaudited Financial Statements
+
+       The accompanying unaudited financial statements have been prepared in
+accordance with the instructions for Form 10-Q and do not include all of the
+information and disclosures required by generally accepted accounting principles
+for complete financial statements. In the opinion of management, all
+adjustments, consisting only of normal recurring adjustments considered
+necessary for a fair presentation, have been included. Operating results for any
+quarter are not necessarily indicative of the results for any other quarter or
+for the full year. These statements should be read in conjunction with the
+financial statements and notes to the consolidated financial statements thereto
+included in the Company's Form 10-K for the year ended June 30, 2000.
+
+       Certain amounts in the fiscal 2000 financial statements have been
+reclassified to conform with the fiscal 2001 presentation.
+
+2.     Inventories
+
+       Inventories are comprised as follows:
+
+<TABLE>
+<CAPTION>
+
+                                                   December 31, 2000                 June 30, 2000
+                                                      (Unaudited)
+
+<S>                                                <C>                              <C>
+    Work-in progress                                      $ 1,184,978                    $ 1,237,534
+    Component Parts                                        11,895,024                     11,909,086
+    Finished Goods                                          3,759,089                      3,595,558
+                                                   -------------------             ------------------
+                                                          $16,839,091                    $16,742,178
+                                                   ===================             ==================
+</TABLE>
+
+       The above amounts are net of a reserve for obsolete and excess inventory
+of approximately $2.9 million at December 31, 2000 and June 30, 2000.
+
+3.     Oxygen Regulator Recall
+
+       On February 4, 1999, Allied announced a voluntary trade-in program for
+aluminum oxygen regulators marketed under its Life Support Products label. These
+products are used to regulate pressure of bottled oxygen for administration to
+patients under emergency situations. Based upon U. S. Food and Drug
+Administration ("FDA") recommendations that all manufacturers cease the use of
+aluminum in oxygen regulators, the Company introduced new brass regulators and
+also offered a trade-in program to existing users pursuant to which units with
+aluminum regulators could be exchanged for new units with brass regulators at a
+reduced price. In connection with this program, the Company recorded a charge of
+$1.5 million pre-tax in the second quarter of fiscal 1999.
+
+
+                                       7
+
+<PAGE>   8
+
+
+An additional $.3 million charge was added to the recall program in the first
+quarter of fiscal 2000.
+
+       A reconciliation of activity with respect to the Company's regulator
+program for the six months ended December 31, 2000 is as follows:
+
+<TABLE>
+
+<S>                                                                                   <C>
+      Balance, July 1, 2000                                                                    $185,241
+      Provision for recall                                                                            0
+      Costs incurred related to product retrofitting and replacement                             36,497
+                                                                                      ------------------
+      Balance, December 31, 2000                                                               $148,744
+                                                                                      ==================
+</TABLE>
+
+       The Company has incurred various legal expenses related to other claims
+associated with the LSP oxygen regulators. Accordingly, the Company recorded a
+$0.5 million charge to operations during fiscal 2000 for amounts estimated to be
+payable by the company under its self-insurance retention for legal costs
+associated with defending these claims. The company recorded an additional
+$20,000 charge to operations during fiscal 2001. These amounts are included
+along with other legal expenses of the Company as selling, general and
+administrative expenses. At December 31, 2000, the Company has a litigation cost
+accrual balance of $140,000 for legal expense associated with the LSP regulator
+recall.
+
+4.     Commitments and Contingencies
+
+       The Company is subject to various investigations, claims and legal
+proceedings covering a wide range of matters that arise in the ordinary course
+of its business activities. In fiscal 2000, the FDA conducted an inspection of
+the Company's St. Louis facility and provided a written report citing FDA
+observations concerning Good Manufacturing Practices ("GMP") compliance and
+quality control issues. The Company has provided written responses to the FDA
+and is taking corrective action to mitigate any further FDA inquiry or action.
+The Company believes that its responses to date and its continuing attention to
+the matters raised by the FDA will avert any FDA action seeking to interrupt or
+suspend manufacturing, or to require any recall or modification of products.
+Based upon currently available information, the Company does not believe that
+the FDA investigation will have a material adverse impact on the Company's
+consolidated results of operations, financial position or cash flows.
+
+       The Company has recognized the costs and associated liabilities only for
+those investigations, claims and legal proceedings for which, in its view, it is
+probable that liabilities have been incurred and the related amounts are
+estimable. Based upon information currently available, management believes that
+existing accrued liabilities are sufficient and that it is not reasonably
+possible at this time that any additional liabilities will result from the
+resolution of these matters that would have a material adverse effect on the
+Company's consolidated results of operations, financial position or cash flows.
+
+                                       8
+
+<PAGE>   9
+
+
+ITEM 2.  MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS.
+
+
+The following discussion may contain statements that constitute "forward-looking
+statements" as that term is used in the Securities Litigation Reform Act of
+1995. Such forward-looking statements involve risks and uncertainties as further
+discussed in the Company's 2000 Annual Report filed on Form 10-K. Actual results
+in future periods could differ significantly from results discussed in or
+anticipated by such forward looking statements. This discussion should be read
+in conjunction with the June 30, 2000 consolidated financial statements and
+accompanying notes thereto included in the Company's Form 10-K for the year
+ended June 30, 2000 and the unaudited financial statements and notes for the
+three month and six month periods ended December 31, 2000.
+
+RESULTS OF OPERATIONS
+
+Allied manufactures and markets medical gas equipment, respiratory care
+products, and emergency medical products.
+
+THREE MONTHS ENDED DECEMBER 31, 2000 COMPARED TO THREE MONTHS ENDED DECEMBER 31,
+1999.
+
+Allied had net sales of $16.3 million for the three months ended December 31,
+2000, down $.4 million, or 2.6%, from net sales of $16.8 million in the prior
+year same quarter. The decline is primarily due to lower sales of oxygen
+regulators this year due to an exchange program last year which increased sales
+beyond normal levels. This was partially offset by higher sales in the second
+quarter this year of medical gas equipment. Also, production problems caused
+shipment shortfalls in the December fiscal 2001 quarter. Additional employees
+are being hired to increase production levels. Order backlog at December 31,
+2000 was up by approximately $1.3 million from September 30, 2000.
+
+Gross profit for the three months ended December 31, 2000 was $4.4 million, or
+27.1% of net sales compared to $4.6 million, or 27.6% of net sales for the three
+months ended December 31, 1999. The decrease in gross profit as a percent of
+sales is primarily attributable to lower sales volumes in the second quarter of
+fiscal 2001.
+
+Selling, General and Administrative expenses for the three months ended December
+31, 2000 were $4.0 million, a net decrease of $0.3 million, or 6.0%, from $4.3
+million for the three months ended December 31, 1999. The decrease was primarily
+due to cost reduction efforts that were initiated during the second quarter of
+last year, primarily a 15% staff reduction.
+
+Income from operations was $.4 million for the three months ended December 31,
+2000 compared to $.4 million for the three months ended December 31, 1999.
+Interest expense was $.4 million in both comparable periods. Allied had a loss
+before benefit for income taxes in the second quarter of fiscal 2001 of $15,000
+compared to a loss before benefit for income taxes of $75,000 for the second
+quarter of fiscal 2000. The Company recorded a tax provision of $75,000
+
+                                       9
+
+<PAGE>   10
+
+
+and $51,000 for the three month periods ended December 31, 2000 and 1999,
+respectively. In fiscal 2001, the net loss for the second quarter was $91,000,
+or $0.01 per basic and diluted share compared to a net loss of $126,000, or
+$0.02 per basic and diluted share, for the second quarter of fiscal 2000. The
+weighted average number of common shares outstanding used in the calculation of
+earnings per share for the second quarters of fiscal 2001 and fiscal 2000 was
+7,806,682.
+
+SIX MONTHS ENDED DECEMBER 31, 2000 COMPARED TO SIX MONTHS ENDED DECEMBER 31,
+1999.
+
+Allied had net sales of $30.9 million for the six months ended December 31,
+2000, down $1.9 million, or 5.8%, from net sales of $32.8 million in the prior
+year first six months. The decline was primarily due to lower sales of oxygen
+regulators this year due to an exchange program last year which increased sales
+beyond normal levels. Also, sales were adversely affected by a strike by
+production workers at the Company's St. Louis plant in the first quarter and
+subsequent delays in returning to adequate production and shipment levels.
+Although the strike was settled on July 30, 2000 with a new three year contract,
+the Company has had difficulty returning to normal production levels due to new
+employee training and component shortages. The Company believes it is achieving
+normal production levels at December 31, 2000. Order backlog at December 31,
+2000 was up by approximately $2.9 million from June 30, 2000.
+
+Gross profit for the six months ended December 31, 2000 was $8.2 million, or
+26.5% of net sales compared to $8.7 million, or 26.4% of net sales for the six
+months ended December 31, 1999. The primary reasons for the lower gross profit
+were expenses which did not decrease with lower sales in the six months ended
+December 31, 2000 and product mix. The Company will continue to review
+operations to improve productivity and lower manufacturing and product costs.
+
+Selling, General and Administrative expenses for the six months ended December
+31, 2000 were $7.8 million, a net decrease of $1.11 million, or 12.5%, from $8.9
+million for the six months ended December 31, 1999. The decrease was primarily
+due to cost reduction efforts that were not initiated until the second quarter
+of last year, primarily a 15% staff reduction. Expense in the prior year first
+half also included a $.4 million charge for product liability litigation
+expenses.
+
+In the first half of fiscal 2000, the Company recorded a $.3 million additional
+charge for expenses related to the LSP oxygen regulators program. Please see
+Note 3 to Consolidated Financial Statements for additional information.
+
+Income from operations was $.4 million for the six months ended December 31,
+2000 compared to a $.6 million loss for the six months ended December 31, 1999.
+Interest expense was $0.8 million for the six months ended December 31, 2000
+compared to $.9 million for the six months ended December 31, 1999. Allied had a
+loss before benefit for income taxes in the first half of fiscal 2001 of $.5
+million compared to a loss before benefit for income taxes of $1.4 million for
+the first half of fiscal 2000. The Company recorded a tax benefit of $20,000 and
+$0.4 million for the six month periods ended December 31, 2000 and 1999,
+respectively.
+
+In fiscal 2001, the net loss for the first half was $0.4 million, or $0.06 per
+basic and diluted share compared to a net loss of $1.0 million, or $0.13 per
+basic and diluted share, for the first half of
+
+                                       10
+<PAGE>   11
+
+fiscal 2000. The weighted average number of common shares outstanding used in
+the calculation of earnings per share for the first quarters of fiscal 2001 and
+fiscal 2000 was 7,806,682.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+We believe that available resources and anticipated cash flows from operations
+are sufficient to meet our operating requirements in the coming year.
+
+Working capital increased to $21.8 million at December 31, 2000 compared to
+$20.3 million at June 30, 2000. The increase was primarily due to an increase in
+accounts receivable and other current assets offset by increases in accounts
+payable and other current liabilities.
+
+The Company maintains a $25 million revolving credit facility. At December 31,
+2000, $9.3 million was outstanding against this facility and $3.9 million was
+available to borrow based on collateral requirements.
+
+Inflation has not had a material effect on the Company's business or results of
+operations.
+
+LITIGATION AND CONTINGENCIES
+
+The Company becomes, from time to time, a party to personal injury litigation
+arising out of incidents involving the use of its products. More specifically
+there have been a number of lawsuits filed against the Company alleging that its
+aluminum oxygen pressure regulator, marketed under its Life Support Products
+label, has caused fires that have led to personal injury. The Company believes,
+based on preliminary findings, that its products did not cause the fires. The
+Company intends to defend these claims in cooperation with its insurers. Based
+on the progression of certain cases the Company recorded a $0.5 million charge
+to operations during fiscal 2000 for amounts estimated to be payable by the
+Company under its self-insurance retention for legal costs associated with
+defending these claims. The Company believes that any potential judgments
+resulting from these claims over its self-insured retention will be covered by
+the Company's product liability insurance.
+
+The Company is subject to various investigations, claims and legal proceedings
+covering a wide range of matters that arise in the ordinary course of its
+business activities. In fiscal 2000, the FDA conducted an inspection of the
+Company's St. Louis facility and provided a written report citing FDA
+observations concerning Good Manufacturing Practices ("GMP") compliance and
+quality control issues. The Company has provided written responses to the FDA
+and is taking corrective action to mitigate any further FDA inquiry or action.
+The Company believes that its responses to date and its continuing attention to
+the matters raised by the FDA will avert any FDA action seeking to interrupt or
+suspend manufacturing, or to require any recall or modification of products.
+Based upon currently available information, the Company does not believe that
+the FDA investigation will have a material adverse impact on the Company's
+results of operations, financial position or cash flows.
+
+
+                                       11
+
+<PAGE>   12
+
+
+Part II.   OTHER INFORMATION
+
+Item 4.    Submission of Matters to a Vote of Security Holders
+
+The Company held its annual meeting on November 14, 2000, at which time the
+shareholders re-elected Brent D. Baird, James B. Hickey, Jr., William A. Peck,
+Earl R. Refsland, and John D. Weil as directors.  No other business came before
+the meeting.
+
+Item 6.    Exhibits and Reports on Form 8-K
+
+The registrant did not file any reports on Form 8-K during the most recently
+completed fiscal quarter.
+
+Exhibits:
+
+None
+
+
+SIGNATURE
+
+       Pursuant to the requirements of the Securities Exchange Act of 1934, the
+registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                              ALLIED HEALTHCARE PRODUCTS, INC.
+
+
+                              /s/ Earl R. Refsland
+                              --------------------------------------
+                               Earl R. Refsland
+                               President and Chief Executive Officer
+                              --------------------------------------
+
+                                       12
+</TEXT>
+</DOCUMENT>

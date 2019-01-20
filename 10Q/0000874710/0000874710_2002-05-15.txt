@@ -1,0 +1,929 @@
+<DOCUMENT>
+<TYPE>10-Q
+<SEQUENCE>1
+<FILENAME>c69668e10-q.txt
+<DESCRIPTION>FORM 10-Q FOR QUARTER ENDING MARCH 31, 2002
+<TEXT>
+<PAGE>
+                       SECURITIES AND EXCHANGE COMMISSION
+                              WASHINGTON, DC 20549
+
+
+                                    FORM 10-Q
+
+
+(Mark One)
+
+ X   Quarterly report pursuant to Section 13 or 15(d) of the Securities Exchange
+---  Act of 1934
+
+     For the quarterly period ended March 31, 2002
+
+     Transition report pursuant to Section 13 or 15(d) of the Securities
+---  Exchange Action of 1934
+
+For the transition period from                      to
+                                ------------------     -------------------------
+
+
+                         Commission File Number 0-19266
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+
+                              1720 Sublette Avenue
+
+                            St. Louis, Missouri 63110
+                                  314/771-2400
+
+                          IRS Employment ID 25-1370721
+
+         Indicate by check mark whether the registrant (1) has filed all reports
+required to be filed by Section 13 or 15(d) of the Securities Exchange Act of
+1934 during the preceding twelve months (or for such shorter periods that the
+registrant was required to file such reports, and (2) has been subject to such
+filing requirements for the past ninety days.
+
+                         Yes    X             No
+                              ------              -----
+
+
+         The number of shares of common stock outstanding at May 7, 2002 is
+7,813,932 shares
+
+
+
+<PAGE>
+                                      INDEX
+
+<TABLE>
+<CAPTION>
+
+
+                                                                                        Page
+Part I --      Financial Information                                                   Number
+<S>            <C>              <C>                                                    <C>
+               Item 1.          Financial Statements
+                                Consolidated Statement of Operations -                  3
+                                three months and nine months ended March 31,
+                                2002 and 2001 (Unaudited)
+
+                                Consolidated Balance Sheet -                            4 - 5
+                                March 31, 2002  (Unaudited) and
+                                June 30, 2001 (Unaudited)
+
+                                Consolidated Statement of Cash Flows -                  6
+                                Nine months ended March 31, 2002 and 2001
+                                (Unaudited)
+
+                                Notes to Consolidated Financial Statements              7 - 10
+
+               Item 2.          Management's Discussion and Analysis of                 11- 14
+                                Financial Condition and Results of Operations
+
+               Item 3.          Quantitative and Qualitative Disclosure                 14
+                                about Market Risk
+
+Part II --     Other Information
+
+               Item 5.          Other Information                                       15
+
+               Item 6.          Exhibits and Reports on Form 8-K                        15
+
+                                Signature                                               16
+</TABLE>
+
+
+SAFE HARBOR" STATEMENT UNDER THE PRIVATE SECURITIES LITIGATION REFORM ACT OF
+1995
+
+         Statements contained in this Report, which are not historical facts or
+information, are "forward-looking statements." Words such as "believe,"
+"expect," "intend," "will," "should," and other expressions that indicate future
+events and trends identify such forward-looking statements. These
+forward-looking statements involve risks and uncertainties, which could cause
+the outcome and future results of operations, and financial condition to be
+materially different than stated or anticipated based on the forward-looking
+statements. Such risks and uncertainties include both general economic risks and
+uncertainties, risks and uncertainties affecting the demand for and economic
+factors affecting the delivery of health care services, and specific matters
+which relate directly to the Company's operations and properties as discussed
+the Company's annual report on Form 10-K for the year ended June 30, 2001. The
+Company cautions that any forward-looking statements contained in this report
+reflects only the belief of the Company or its management at the time the
+statement was made. Although the Company believes such forward-looking
+statements are based upon reasonable assumptions, such assumptions may
+ultimately prove inaccurate or incomplete. The Company undertakes no obligation
+to update any forward-looking statement to reflect events or circumstances after
+the date on which the statement was made.
+
+
+                                       2
+<PAGE>
+PART I.       FINANCIAL INFORMATION
+
+              ITEM 1.      FINANCIAL STATEMENTS
+
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF OPERATIONS
+                                   (UNAUDITED)
+
+
+
+
+<TABLE>
+<CAPTION>
+                                                       Three months ended             Nine months ended
+                                                            March 31,                    March 31,
+                                                 ---------------------------   ----------------------------
+                                                     2002            2001           2002            2001
+                                                 ------------   ------------   ------------    ------------
+<S>                                              <C>            <C>            <C>             <C>
+Net sales                                        $ 15,187,809   $ 16,642,920   $ 44,731,971    $ 48,372,466
+Cost of sales                                      11,797,177     12,468,327     34,881,548      36,415,738
+                                                 ------------   ------------   ------------    ------------
+Gross profit                                        3,390,632      4,174,593      9,850,423      11,956,728
+
+
+Selling, general and administrative expenses        3,066,113      3,576,719      9,604,106      10,960,731
+                                                 ------------   ------------   ------------    ------------
+Income  from operations                               324,519        597,874        246,317         995,997
+
+
+Other expenses:
+Interest                                              273,374        378,161        856,612       1,196,576
+Other, net                                              3,516         16,571         31,306          53,209
+                                                 ------------   ------------   ------------    ------------
+                                                      276,890        394,732        887,918       1,249,785
+                                                 ------------   ------------   ------------    ------------
+
+
+Income/ (loss) before provision/ (benefit) for
+income taxes                                           47,629        203,142       (641,601)       (253,788)
+
+Provision/ (benefit) for income taxes                  19,051        162,799       (256,640)        143,108
+                                                 ------------   ------------   ------------    ------------
+Net income/ (loss)                               $     28,578   $     40,343   $   (384,961)   $   (396,896)
+                                                 ============   ============   ============    ============
+
+
+
+
+Basic and diluted earnings/ (loss) per share     $       0.00   $       0.01   $      (0.05)   $      (0.05)
+                                                 ============   ============   ============    ============
+
+Weighted average shares outstanding                 7,809,768      7,806,682      7,807,711       7,806,682
+
+Weighted average shares outstanding-diluted         7,986,844      7,953,052      7,807,711       7,806,682
+</TABLE>
+
+
+See accompanying Notes to Consolidated Financial Statements.
+
+
+
+
+
+
+
+                                       3
+<PAGE>
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                     ASSETS
+                                   (UNAUDITED)
+
+
+
+<TABLE>
+<CAPTION>
+                                                           March 31,      June 30,
+                                                             2002          2001
+                                                         -----------   -----------
+
+<S>                                                      <C>           <C>
+Current assets:
+  Cash                                                   $    19,690   $    20,365
+  Accounts receivable, net of allowance for doubtful
+     accounts of $591,842 and $605,714, respectively       8,752,772    11,395,224
+  Inventories, net                                        16,531,699    17,079,033
+  Other current assets                                       602,082       662,049
+
+                                                         -----------   -----------
+      Total current assets                                25,906,243    29,156,671
+                                                         -----------   -----------
+
+
+  Property, plant and equipment, net                      11,094,110    10,892,268
+  Goodwill, net                                           25,579,830    25,579,830
+  Other assets, net                                          286,788       304,385
+
+                                                         -----------   -----------
+      Total assets                                       $62,866,971   $65,933,154
+                                                         ===========   ===========
+</TABLE>
+
+
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+
+                                   (CONTINUED)
+
+
+                                       4
+<PAGE>
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                           CONSOLIDATED BALANCE SHEET
+                                   (CONTINUED)
+                      LIABILITIES AND STOCKHOLDERS' EQUITY
+                                   (UNAUDITED)
+
+
+
+<TABLE>
+<CAPTION>
+
+
+                                                                          March 31,                    June 30,
+                                                                             2002                        2001
+                                                                         ---------                     --------
+<S>                                                                      <C>                           <C>
+Current liabilities:
+  Accounts payable                                                        $2,855,981                 $3,843,092
+  Current portion of long-term debt                                          832,625                  1,169,044
+  Other current liabilities                                                2,520,220                  3,462,196
+                                                                          ----------                 ----------
+    Total current liabilities                                              6,208,826                  8,474,332
+                                                                          ----------                 ----------
+Long-term debt                                                            10,587,362                 11,019,081
+                                                                          ----------                 ----------
+
+
+Commitments and contingencies
+
+Stockholders' equity:
+ Preferred stock; $0.01 par value; 1,500,000 shares
+  authorized; no shares issued and outstanding; which
+  includes Series A preferred stock; $0.01 par value; 200,000
+  shares authorized; no shares issued and outstanding
+ Common stock; $0.01 par value; 30,000,000 shares
+  authorized; 7,813,932 and 7,806,682 shares
+  and outstanding at March 31, 2002,
+  and June 30, 2001, respectively                                            101,175                    101,102
+ Additional paid-in capital                                               47,030,549                 47,014,621
+ Common stock in treasury, at cost                                       (20,731,428)               (20,731,428)
+Retained earnings                                                         19,670,487                 20,055,446
+                                                                          ----------                 ----------
+    Total stockholders' equity                                            46,070,783                 46,439,741
+                                                                          ----------                 ----------
+    Total liabilities and stockholders' equity                           $62,866,971                $65,933,154
+                                                                         ===========                ===========
+</TABLE>
+
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+
+
+                                      5
+<PAGE>
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                      CONSOLIDATED STATEMENT OF CASH FLOWS
+                                   (UNAUDITED)
+
+<TABLE>
+<CAPTION>
+                                                          March 31,
+                                               ----------------------------
+
+                                                   2002            2001
+                                               ------------    ------------
+
+<S>                                            <C>             <C>
+Cash flows from operating activities:
+ Net loss                                      $   (384,961)   $   (396,896)
+ Adjustments to reconcile net loss to net
+   cash provided by operating activities:
+
+   Depreciation and amortization                  1,222,375       2,379,459
+
+
+Changes in operating assets and liabilities:
+   Accounts receivable, net                       2,642,452      (1,091,135)
+   Inventories, net                                 547,334        (520,360)
+   Other current assets                              59,967        (241,900)
+   Accounts payable                                (987,111)        244,407
+   Income taxes payable/refundable                 (676,835)         28,776
+   Other current liabilities                       (265,141)        515,507
+                                               ------------    ------------
+   Net cash provided by operating activities      2,158,080         917,858
+                                               ------------    ------------
+
+
+Cash flows from investing activities:
+ Capital expenditures                            (1,406,618)       (128,245)
+                                               ------------    ------------
+
+   Net cash used in investing activities         (1,406,618)       (128,245)
+                                               ------------    ------------
+
+
+Cash flows from financing activities:
+ Payments of capital lease obligations             (362,004)       (443,823)
+ Payments of long-term debt                        (318,829)       (293,869)
+ Borrowings under revolving credit agreement     47,602,000      47,313,625
+ Payments under revolving credit agreement      (47,689,305)    (47,401,908)
+ Proceeds from excercise of stock options            16,001              --
+                                               ------------    ------------
+Net cash  used in financing activities             (752,137)       (825,975)
+                                               ------------    ------------
+
+
+
+Net decrease in cash and equivalents                   (675)        (36,362)
+Cash and equivalents at beginning of period          20,365         568,197
+                                               ------------    ------------
+Cash and equivalents at end of period          $     19,690    $    531,835
+                                               ============    ============
+</TABLE>
+
+
+          See accompanying Notes to Consolidated Financial Statements.
+
+
+
+                                       6
+<PAGE>
+                        ALLIED HEALTHCARE PRODUCTS, INC.
+                   NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+                                   (UNAUDITED)
+
+1.       Unaudited Consolidated Financial Statements
+
+         The accompanying unaudited consolidated financial statements have been
+prepared in accordance with the instructions for Form 10-Q and do not include
+all of the information and disclosures required by accounting principles
+generally accepted in the United States of America for complete financial
+statements. In the opinion of management, all adjustments, consisting only of
+normal recurring adjustments considered necessary for a fair presentation, have
+been included. Operating results for any quarter are not necessarily indicative
+of the results for any other quarter or for the full year. These statements
+should be read in conjunction with the consolidated financial statements and
+notes to the consolidated financial statements thereto included in the Company's
+Form 10-K for the year ended June 30, 2001.
+
+         Certain amounts in the fiscal 2001 consolidated financial statements
+have been reclassified to conform with the fiscal 2002 presentation.
+
+2.       Inventories
+
+         Inventories are comprised as follows (Unaudited):
+
+
+<TABLE>
+<CAPTION>
+                                   March 31, 2002           June 30, 2001
+                                   --------------           -------------
+<S>                                <C>                      <C>
+         Work-in progress           $   771,208              $   801,965
+         Component Parts             11,853,949               12,018,928
+         Finished Goods               3,906,542                4,258,140
+                                    -----------              -----------
+                                    $16,531,699              $17,079,033
+                                    ===========              ===========
+</TABLE>
+
+
+         The above amounts are net of a reserve for obsolete and excess
+inventory of approximately $1.6 million at March 31, 2002 and $2.6 million at
+June 30, 2001.
+
+3.       Earnings per share
+
+         Basic earnings per share are based on the weighted average number of
+shares of all common stock outstanding during the period. Diluted earnings per
+share are based on the sum of the weighted average number of shares of common
+stock and common stock equivalents outstanding during the year. The number of
+basic shares outstanding for the three months ended March 31, 2002 and 2001 was
+7,809,768 and 7,806,682 shares, respectively. The number of diluted shares
+outstanding for the three months ended March 31, 2002 and 2001 was 7,986,844 and
+7,953,052 shares, respectively. The dilutive effect the Company's employee's and
+director's stock option plans are determined by use of the treasury stock
+method.
+
+ 4.      Oxygen Regulator Recall
+
+         On February 4, 1999, Allied announced a voluntary recall of aluminum
+oxygen
+
+
+
+
+
+                                       7
+<PAGE>
+regulators marketed under its Life Support Products ("LSP") label. These
+products are used to regulate pressure of bottled oxygen for administration to
+patients under emergency situations. Following reports of regulator fires, the
+Company instituted a recall in May 1997, under which it provided retrofit kits
+to prevent contaminants from entering the regulators. The Company has also been
+testing regulator design with the help of the National Aeronautical and Space
+Administration's White Sands National Laboratories. While preliminary findings
+led the Company to believe the Company's products did not cause those fires,
+there was enough concern among the users that the Company, in cooperation with
+the U. S. Food and Drug Administration ("FDA"), agreed to institute a voluntary
+recall to replace aluminum components in the high pressure chamber of the
+regulators with brass components. The FDA has recommended that all regulator
+manufacturers cease use of aluminum in regulators. Accordingly, the Company
+introduced new brass regulators and also offered a trade-in program to the
+existing users. As a result of the recall, the Company recorded a charge of $1.5
+million pre-tax, $0.9 million after tax, or $0.12 per share in the second
+quarter of fiscal 1999. The original regulator recall provision included
+estimated costs of $1.3 million for aluminum regulator retrofitting and
+replacement, as well as $0.2 million for certain communications and legal costs
+expected to be incurred by the Company under the terms of the recall.
+
+         A reconciliation of activity with respect to the Company's regulator
+program for the nine months ended March 31, 2002 is as follows:
+
+<TABLE>
+<S>                                                          <C>
+         Balance, June 30, 2001                              $146,181
+         Provision for recall                                      --
+         Costs incurred related to product retrofitting
+         and replacement                                       80,767
+                                                              -------
+         Balance, March 31, 2002                             $ 65,414
+                                                             ========
+</TABLE>
+
+
+
+         The Company has incurred various legal expenses related to other claims
+associated with the LSP oxygen regulators. Accordingly, the Company recorded an
+additional provision for product liability litigation during fiscal 2001 for
+amounts estimated to be payable by the Company under its self-insurance
+retention for legal costs associated with defending these claims. These amounts
+were included along with other legal expenses of the Company as selling, general
+and administrative expenses during fiscal 2001. At March 31, 2002, the Company
+has a separate product liability litigation accrual of $0.2 million for legal
+expense associated to the LSP regulator recall. The Company received
+notification from the FDA that the recall was completed in December 2000. The
+Company continues to experience minor expenditures relative to the recall and
+expects these expenditures to be substantially completed during fiscal 2002.
+
+5.       Commitments and Contingencies
+
+The Company is subject to various investigations, claims and legal proceedings
+covering a wide range of matters that arise in the ordinary course of its
+business activities. In March through June 2000, the FDA conducted an inspection
+of the Company's St. Louis facility and provided a written report, known as an
+"FDA Form 483" or simply a "483" citing FDA observations concerning GMP
+compliance and quality control issues applicable to demand valves, emergency
+ventilators, circumcision clamps, and regulators. The Company provided a written
+response to the FDA and in August 2000, the FDA issued a warning letter and
+requested that the Company clarify and supplement its responses to the 483
+observations. As a result, the
+
+
+
+                                       8
+<PAGE>
+Company has submitted to the FDA a written supplemental response and is in the
+process of implementing actions to address the FDA concerns. The Company met
+with the FDA at their Kansas City field office in March 2001 to discuss the
+responses and actions. From October 27, 2001 to November 19, 2001 the FDA
+conducted a follow-up inspection to the June 2000 inspection. On January 23,
+2002, the FDA released a copy of the establishment inspection report (EIR) for
+the October 27, 2001 to November 19, 2001 inspection and has indicated that the
+inspection is closed. The company intends to continue to conduct business in
+such a manner so as to avert any FDA action seeking to interrupt or suspend
+manufacturing or require any recall or modification of products.
+
+         The Company has recognized the costs and associated liabilities only
+for those investigations, claims and legal proceedings for which, in its view,
+it is probable that liabilities have been incurred and the related amounts are
+estimable. Based upon information currently available, management believes that
+existing accrued liabilities are sufficient and that it is not reasonably
+possible at this time to believe that any additional liabilities will result
+from the resolution of these matters that would have a material adverse effect
+on the Company's consolidated results of operations, financial position or cash
+flows.
+
+6.       Goodwill and Other Intangible Assets -- Adoption of Statement 142
+
+         For the fiscal year ending June 30, 2002, the Company has adopted
+Statement of Financial Accounting Standards No. 142 ("SFAS 142"), "Goodwill and
+Other Intangible Assets" which establishes new accounting and reporting
+standards for purchase business combinations and goodwill. As provided by SFAS
+142, the Company ceased amortizing goodwill on July 1, 2001. The Company has
+completed its transitional goodwill impairment analysis for which it has
+concluded that the carrying value of its goodwill is not presently impaired. As
+required by SFAS 142, the Company will continue to assess the carrying value of
+its goodwill at each respective reporting period or when events indicate an
+impairment has occurred. The following table reflects the adoption of SFAS 142
+as of July 1, 2000, for comparative purposes.
+
+<TABLE>
+<CAPTION>
+                                                  Three months ended        Nine months ended
+                                                       March 31,                March 31,
+                                                                   (Unaudited)
+                                                   2002         2001         2002       2001
+                                                  ------      ------        ------    -------
+
+<S>                                               <C>         <C>           <C>       <C>
+(000's except for per share amounts)
+Reported net income/(loss)                        $   29      $   40        $ (385)   $  (397)
+Add back; Goodwill amortization                       --         204            --        612
+                                                  ------      ------        -------   -------
+Adjusted net income/(loss)                        $   29      $  244        $ (385)   $   215
+
+
+Basic and diluted earnings /(loss) per share:
+   Reported net income/(loss)                     $ 0.00      $ 0.01        $ (0.05)  $ (0.05)
+   Goodwill amortization                              --        0.02             --      0.08
+                                                  ------      ------        -------   -------
+   Adjusted earnings/(loss) per share             $ 0.00      $ 0.03        $ (0.05)  $  0.03
+                                                  ======      ======        =======   =======
+</TABLE>
+
+
+
+
+                                       9
+<PAGE>
+7.       Subsequent Event - -New Financing Agreement
+
+     On April 24, 2002, the Company entered into a new credit facility
+arrangement with LaSalle Bank National Association (the "Bank"). The new credit
+facility provides for borrowings up to $19.0 million; up to $15.0 million
+through a revolving credit facility and up to $4.0 million under a term loan.
+The term loan may be drawn against for capital expenditures during the first six
+months of the term of the credit facility. Repayment under the term loan begins
+on October 24, 2002, with principal and interest due in equal monthly
+installments over five years (subject to payment in full at the maturity of the
+credit facility if that facility is not renewed or extended). The new credit
+facility is collateralized by substantially all of the assets of the Company.
+The maturity date of the new credit facility is April 24, 2006.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       10
+<PAGE>
+ITEM 2. MANAGEMENT'S DISCUSSION AND ANALYSIS OF FINANCIAL CONDITION AND RESULTS
+OF OPERATIONS
+
+CRITICAL ACCOUNTING POLICIES
+
+         These statements should be read in conjunction with the consolidated
+financial statements and notes to the consolidated financial statements thereto
+included in the Company's Form 10-K for the year ended June 30, 2001. Our
+significant accounting policies are more fully described in Company's Form 10-K
+for the year ended June 30, 2001. Certain of our accounting policies as
+discussed below require the application of significant judgment by management in
+selecting the appropriate assumptions for calculating amounts to record in our
+financial statements. By their nature, these judgments are subject to an
+inherent degree of uncertainty.
+
+         Accounts Receivable - We perform ongoing credit evaluations of our
+customers and adjust credit limits based upon payment history and the customer's
+current credit worthiness, as determined by our review of their current credit
+information. We continuously monitor collections and payment from our customers
+and maintain a provision for estimated credit losses based upon our historical
+experience and any specific customer collection issues that we have identified.
+While such credit losses have historically been within our expectations and the
+provision established, we cannot guarantee that we will continue to experience
+the same credit loss rates that we have in the past. A significant change in the
+liquidity or financial position of one or more of our customers could have a
+material adverse impact on the collectibility of our accounts receivable and our
+future operating results.
+
+         Inventories - We value our inventory at the lower of the actual cost to
+purchase and/or manufacture the inventory or the current estimated market value
+of the inventory. We regularly review inventory quantities on hand and record a
+provision for excess and obsolete inventory based primarily on our estimated
+forecast of product demand and production requirements. A significant increase
+in the demand for our products could result in a short-term increase in the cost
+of inventory purchases while a significant decrease in demand could result in an
+increase in the amount of excess inventory quantities on hand. Additionally, our
+estimates of future product demand may prove to be inaccurate, in which case we
+may have understated or overstated the provision required for excess and
+obsolete inventory. In the future, if our inventory is determined to be
+overvalued, we would be required to recognize such costs in our cost of goods
+sold at the time of such determination. Likewise, if our inventory is determined
+to be undervalued, we may have over-reported our costs of goods sold in previous
+periods and would be required to recognize such additional operating income at
+the time of sale. Therefore, although we make every effort to ensure the
+accuracy of our forecasts of future product demand, any significant
+unanticipated changes in demand or product developments could have a significant
+impact on the value of our inventory and our reported operating results.
+
+RESULTS OF OPERATIONS
+
+THREE MONTHS ENDED MARCH 31, 2002 COMPARED TO THREE MONTHS ENDED MARCH 31, 2001.
+
+         Allied had net sales of $15.2 million for the three months ended March
+31, 2002, down $1.4 million, or 8.7%, from net sales of $16.6 million in the
+prior year same quarter. The lower level of sales is primarily the result of a
+decline in orders in international markets from prior year.
+
+
+
+
+                                       11
+<PAGE>
+levels. Poor international economies and continued international tensions have
+contributed to a shortfall in international orders, but the Company believes
+that a part of the shortfall is due to timing in the international market.
+
+         Gross profit for the three months ended March 31, 2002 was $3.4
+million, or 22.3% of net sales compared to $4.2 million, or 25.1% of net sales
+for the three months ended March 31, 2001. The decrease in gross profit as a
+percent of sales is primarily attributable to the lower sales volumes in the
+third quarter of fiscal 2002. The lower level of sales results in less effective
+utilization of the Company's manufacturing capacity and the fixed expenses
+associated with that capacity.
+
+         Selling, General and Administrative expenses for the three months ended
+March 31, 2002 were $3.1 million, a net decrease of $0.5 million, or 14.2%, from
+$3.6 million for the three months ended March 31, 2001. This decrease is
+partially attributable to a $0.2 million decrease in amortization of goodwill
+arising from the Company's adoption of Statement of Financial Accounting
+Standards No. 142 ("SFAS 142"), "Goodwill and Other Intangible Assets." Selling,
+General, and Administrative expenses were also lower, in comparison to the prior
+year, as a result of $0.2 million reduction in lease amortization on the
+Company's computer systems. Additionally, the Company has continued its cost
+reduction efforts to further reduce Selling, General, and Administrative cost.
+
+         Income from operations was $0.3 million for the three months ended
+March 31, 2002 compared to $0.6 million for the three months ended March 30,
+2001. Interest expense was $0.3 million for the three months ended March 31,
+2002 compared to $0.4 million for the three months ended March 31, 2001. Allied
+had income before provision for income taxes in the third quarter of fiscal 2002
+of $47,629 compared to income before provision for income taxes of $203,142 for
+the third quarter of fiscal 2001. The Company recorded a tax provision of
+$19,051 and $162,799 for the three-month periods ended March 31, 2002 and 2001,
+respectively.
+
+         In fiscal 2002, the net income for the third quarter was $28,578, or
+$0.00 per basic and diluted share compared to a net income of $40,343 or $0.01
+per basic and diluted share for the third quarter of fiscal 2001. The weighted
+average number of common shares outstanding used in the calculation of basic
+earnings per share for the third quarters of fiscal 2002 and fiscal 2001 was
+7,809,768 and 7,806,682 shares, respectively. The weighted average number of
+common shares outstanding used in the calculation of diluted earnings per share
+for the third quarters of fiscal 2002 and fiscal 2001 was 7,986,844 and
+7,953,052 shares, respectively.
+
+NINE MONTHS ENDED MARCH 31, 2002 COMPARED TO NINE MONTHS ENDED MARCH 31, 2001.
+
+         Allied had net sales of $44.7 million for the nine months ended March
+31, 2002, down $3.7 million, or 7.5%, from net sales of $48.4 million in the
+nine months ended March 31, 2001. The decline is primarily due to a decrease in
+orders, primarily international, in the first three quarters of fiscal 2002
+versus prior periods. Economic conditions in many parts of the world and a
+strong dollar have contributed to this decline in international orders. However,
+the Company believes that a part of the shortfall is due to timing of orders in
+the international market.
+
+Gross profit for the nine months ended March 31, 2002 was $9.9 million, or 22.0%
+of net sales compared to $12.0 million, or 24.7% of net sales for the nine
+months ended March 31,
+
+
+
+                                       12
+<PAGE>
+2001. This is primarily due to the lower level of sales for the nine months
+ended March 31, 2002. The lower level of sales results in less effective
+utilization of the Company's manufacturing capacity and the fixed expenses
+associated with that capacity. The Company is continuing to review operations to
+improve productivity and lower manufacturing and product costs.
+
+         Selling, General and Administrative expenses for the nine months ended
+March 31, 2002 were $9.6 million, a net decrease of $1.4 million, or 12.4%, from
+$11.0 million for the nine months ended March 31, 2001. Approximately $0.6
+million of this decrease is attributable to a decrease in amortization of
+goodwill arising from the Company's adoption of Statement of Financial
+Accounting Standards No. 142 ("SFAS 142"), "Goodwill and Other Intangible
+Assets." Selling, General, and Administrative expenses were also lower, in
+comparison to the prior year, as a result of a $0.3 million reduction in lease
+amortization on the Company's computer systems. Additionally, the Company has
+continued its cost reduction efforts, reducing other Selling, General, and
+Administrative cost as well.
+
+         Income from operations was $0.2 million for the nine months ended March
+31, 2002 compared to income from operations $1.0 million for the nine months
+ended March 31, 2001. Interest expense was $0.9 million for the nine months
+ended March 31, 2002 compared to $1.2 million for the nine months ended March
+31, 2001. Allied had a loss before benefit for income taxes in the first nine
+months of fiscal 2002 of $0.6 million compared to a loss before benefit for
+income taxes of $0.3 million for the first nine months of fiscal 2001. The
+Company recorded a tax benefit of $0.3 million for the nine month period ended
+March 31, 2002 compared to a tax provision of $0.1 million for the nine months
+ended March 31, 2001.
+
+         In fiscal 2002, the net loss for the first nine months was $0.4
+million, or $0.05 per basic and diluted share compared to a net loss of $0.4
+million, or $0.05 per basic and diluted share, for the first nine months of
+fiscal 2001. The weighted average number of common shares outstanding used in
+the calculation of basic and diluted earnings per share for the first nine
+months of fiscal 2002 and fiscal 2001 was 7,807,711 and 7,806,682 shares,
+respectively.
+
+LIQUIDITY AND CAPITAL RESOURCES
+
+         The Company believes that available resources and anticipated cash
+flows from operations are sufficient to meet operating requirements in the
+coming year.
+
+         Working capital decreased to $19.7 million at March 30, 2002 compared
+to $20.7 million at June 30, 2001. The decrease was primarily due to a decrease
+in accounts receivable, offset by decreases in accounts payable and other
+accrued liabilities. Increased focus on accounts receivable has improved
+performance and decreased past due accounts.
+
+         On April 24, 2002, the Company entered into a new credit facility
+arrangement with LaSalle Bank National Association (the "Bank"). The new credit
+facility provides for borrowings up to $19.0 million; up to $15.0 million
+through a revolving credit facility and up to $4.0 million under a term loan.
+The term loan may be drawn against for capital expenditures during the first six
+months of the term of the credit facility. Repayment under the term loan begins
+on October 24, 2002, with principal and interest due in equal monthly
+installments over five years (subject to payment in full at the maturity of the
+credit facility if that facility is not renewed or extended).
+
+
+                                       13
+<PAGE>
+         Inflation has not had a material effect on the Company's business or
+results of operations.
+
+LITIGATION AND CONTINGENCIES
+
+         The Company becomes, from time to time, a party to personal injury
+litigation arising out of incidents involving the use of its products. More
+specifically there have been a number of lawsuits filed against the Company
+alleging that its aluminum oxygen pressure regulator, marketed under its Life
+Support Products label, has caused fires that have led to personal injury. The
+Company believes, based on preliminary findings, that its products did not cause
+the fires. The Company intends to defend these claims in cooperation with its
+insurers. Based on the progression of certain cases, the Company recorded
+additional charges to operations during fiscal 2001 for amounts estimated to be
+payable by the Company under its self-insurance retention for legal costs
+associated with defending these claims. The Company believes that any potential
+judgments resulting from these claims over its self-insured retention will be
+covered by the Company's product liability insurance.
+
+         In March through June 2000, the FDA conducted an inspection of the
+Company's St. Louis facility and provided a written report, known as an "FDA
+Form 483" or simply a "483" citing FDA observations concerning GMP compliance
+and quality control issues applicable to demand valves, emergency ventilators,
+circumcision clamps, and regulators. The Company provided a written response to
+the FDA and in August 2000, the FDA issued a warning letter and requested that
+the Company clarify and supplement its responses to the 483 observations. As a
+result, the Company has submitted to the FDA a written supplemental response and
+is in the process of implementing actions to address the FDA concerns. The
+Company met with the FDA at their Kansas City field office in March 2001 to
+discuss the responses and actions. From October 27, 2001 to November 19, 2001
+the FDA conducted a follow-up inspection to the June 2000 inspection. On January
+23, 2002, the FDA released a copy of the establishment inspection report (EIR)
+for the October 27, 2001 to November 19, 2001 inspection and has indicated that
+the inspection is closed. The company intends to continue to conduct business in
+such a manner so as to avert any FDA action seeking to interrupt or suspend
+manufacturing or require any recall or modification of products.
+
+ITEM 3.  QUANTITATIVE AND QUALITATIVE DISCLOSURE ABOUT MARKET RISK
+
+         At March 31, 2002, the Company had $10.9 million in debt outstanding,
+of which $3.6 million is a term loan with a fixed interest rate of 7.75%. The
+remaining balance of $7.4 million represents amounts outstanding under the
+Company's revolving credit facility. The revolving credit facility bears
+interest at the commercial bank's "floating reference rate" or LIBOR as the
+basis, as defined in the loan agreement, and therefore is subject to additional
+expense should there be an increase in market interest rates.
+
+
+
+
+                                       14
+<PAGE>
+Part II.   OTHER INFORMATION
+
+Item 5.  Other Information
+
+         On April 24, 2002, the Company entered into a new credit facility
+arrangement with LaSalle Bank National Association (the "Bank"). The new credit
+facility provides for borrowings up to $19.0 million; up to $15.0 million
+through a revolving credit facility and up to $4.0 million under a term loan.
+The term loan may be drawn against for capital expenditures during the first six
+months of the term of the credit facility. Repayment under the term loan begins
+on October 24, 2002, with principal and interest due in equal monthly
+installments over five years (subject to payment in full at the maturity of the
+credit facility if that facility is not renewed or extended). The new credit
+facility is collateralized by substantially all of the assets of the Company.
+The maturity date of the new credit facility is April 24, 2006.
+
+         The revolving credit facility provides for a borrowing base of 80% of
+eligible accounts receivable plus the lesser of 50% of eligible inventory or
+$8.0 million, subject to reserves as established by the Bank. At April 30, 2002,
+the Company had $7.5 million outstanding under the revolving credit facility;
+$4.1 million was available under the revolving credit facility for additional
+borrowings.
+
+         The revolving credit facility also provides for a commitment guaranty
+of up to $5.0 million for letters of credit and requires a per annum fee of
+1.50% on outstanding letters of credit. At April 30, 2002, the Company had no
+letters of credit outstanding. Any outstanding letters of credit decreases the
+amount available for borrowing under the revolving credit facility.
+
+         The entire credit facility accrues interest at the floating reference
+rate, which is the greater of the Bank's prime rate (plus 0.25% if the Company's
+fixed charge coverage ratio falls below 1.25 to 1.00) or the Federal funds rate
+plus 0.5%. The floating reference rate was 4.75% at April 30, 2002. The credit
+facility also provides the Company with a rate of LIBOR plus 2.25%, at the
+Company's option. The optional LIBOR rate may be decreased to LIBOR plus 2.00%
+or increased to LIBOR plus 2.50% based on the Company's fixed charge coverage
+ratio. At April 30, 2002, none of the revolving credit facility was subject to
+the LIBOR provision. The Company also has the option to swap the interest rate
+applicable to the term loan for a fixed interest rate.
+
+         Proceeds of $8.0 million received under the new credit facility were
+utilized to repay the entire amount outstanding under the Company's previous
+revolving credit facility. The previous credit facility was terminated.
+
+
+Item 6.    Exhibits and Reports on Form 8-K
+
+Exhibits:
+         10.1      Loan and security agreement dated April 24, 2002 between the
+                   Company and LaSalle Bank National Association, including form
+                   of notes.
+
+Reports on Form 8-K
+         None
+
+
+
+
+                                       15
+<PAGE>
+SIGNATURE
+
+
+         Pursuant to the requirements of the Securities Exchange Act of 1934,
+the registrant has duly caused this report to be signed on its behalf by the
+undersigned thereunto duly authorized.
+
+                                      ALLIED HEALTHCARE PRODUCTS, INC.
+
+
+                                      /s/ Earl R. Refsland
+                                      ----------------------------------------
+                                      Earl R. Refsland
+                                      President and Chief Executive Officer
+                                      ----------------------------------------
+
+
+                                      Date:  May 14, 2002
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                       16
+
+</TEXT>
+</DOCUMENT>
