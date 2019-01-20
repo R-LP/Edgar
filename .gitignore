@@ -3,4 +3,7 @@
 .idea
 10K/
 10Q/
-
+.DS_Store/
+.git/
+.idea/
+.ipynb_checkpoints/
