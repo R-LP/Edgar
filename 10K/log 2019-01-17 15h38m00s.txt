@@ -1,6 +1,0 @@
-Request failed with error code 403
-Failed URL: http://www.sec.gov/Archives/edgar/data/0000874710/000101540200002637/0001.txt
-File with CIK: 0000874710 and Acc_No: 0001015402-99-001070 is unavailable
-File with CIK: 0000874710 and Acc_No: 0001015402-98-000350 is unavailable
-File with CIK: 0000874710 and Acc_No: 0001014858-97-000079 is unavailable
-File with CIK: 0000874710 and Acc_No: 0001014858-96-000024 is unavailable
